@@ -1,13 +1,1 @@
-<keymap version="1" name="Sublime Text (macOS) copy" parent="Sublime Text (Mac OS X)">
-  <action id="CloseContent" />
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="meta p" />
-  </action>
-  <action id="HideActiveWindow">
-    <keyboard-shortcut first-keystroke="shift escape" />
-    <keyboard-shortcut first-keystroke="meta w" />
-  </action>
-  <action id="Run">
-    <keyboard-shortcut first-keystroke="meta t" />
-  </action>
-</keymap>
+<keymap version="1" name="Sublime Text (macOS) copy" parent="Sublime Text (Mac OS X)" />

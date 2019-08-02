@@ -9,6 +9,7 @@
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="GoToTab1">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
@@ -23,5 +24,11 @@
   </action>
   <action id="GoToTab5">
     <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
 </keymap>

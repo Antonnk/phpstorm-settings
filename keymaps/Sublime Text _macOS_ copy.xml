@@ -1,10 +1,15 @@
 <keymap version="1" name="Sublime Text (macOS) copy" parent="Sublime Text (Mac OS X)">
+  <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
   <action id="ActivateProjectToolWindow" />
+  <action id="ActivateRunToolWindow" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="GoToTab1">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
@@ -17,7 +22,13 @@
   <action id="GoToTab4">
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
-  <action id="GotoDeclaration">
-    <mouse-shortcut keystroke="control button1" />
+  <action id="GoToTab5">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
 </keymap>

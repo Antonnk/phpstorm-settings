@@ -1,6 +1,8 @@
 <keymap version="1" name="antonnk - Sublime Text (macOS)" parent="Sublime Text (Mac OS X)">
   <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateProjectToolWindow" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
   <action id="ActivateTODOToolWindow" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />

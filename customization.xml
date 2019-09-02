@@ -12,5 +12,92 @@
       <path value="VCS Group" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="SearchEverywhere" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="OpenInBrowserGroup" is_group="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="View" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorBreadcrumbsSettings" is_group="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Editor Gutter Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunAnything" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavBarToolBarOthers" is_group="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavBarVcsGroup" is_group="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RecentProjectListGroup" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Recent" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ImportTests" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="&lt;anonymous-group-6&gt;" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToolbarRunGroup" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RecentProjectListGroup" is_group="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Recent" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ImportTests" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="&lt;anonymous-group-6&gt;" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="OpenInBrowserGroup" is_group="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="View" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
   </component>
 </application>

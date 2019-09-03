@@ -1,4 +1,8 @@
 <keymap version="1" name="Sublime Text (macOS) copy" parent="Sublime Text (Mac OS X)">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
   <action id="EditorAddOrRemoveCaret" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f12" />

@@ -7,9 +7,18 @@
   </action>
   <action id="ActivateRunToolWindow" />
   <action id="ActivateTODOToolWindow" />
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="DecrementWindowHeight" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorAddOrRemoveCaret" />
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
@@ -38,4 +47,10 @@
     <mouse-shortcut keystroke="shift meta button1" />
     <mouse-shortcut keystroke="meta button1" />
   </action>
+  <action id="IncrementWindowHeight" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
 </keymap>

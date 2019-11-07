@@ -38,4 +38,10 @@
     <mouse-shortcut keystroke="shift meta button1" />
     <mouse-shortcut keystroke="meta button1" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
 </keymap>

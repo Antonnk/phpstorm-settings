@@ -11,12 +11,15 @@
   <action id="ActivateRunToolWindow" />
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow" />
+  <action id="Console.TableResult.Reload" />
+  <action id="DatabaseView.Refresh" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorAddOrRemoveCaret" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="FileStructurePopup" />
   <action id="GoToTab1">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
@@ -45,7 +48,15 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Refresh" />
+  <action id="Rerun" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="UML.ShowStructure" />
+  <action id="Vcs.Log.Refresh" />
 </keymap>

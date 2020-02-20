@@ -11,11 +11,16 @@
   <action id="ActivateRunToolWindow" />
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.Reload" />
+  <action id="Console.TableResult.Submit" />
   <action id="DatabaseView.Refresh" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorAddOrRemoveCaret" />
+  <action id="EditorStartNewLine" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
@@ -38,11 +43,9 @@
     <keyboard-shortcut first-keystroke="meta 6" />
   </action>
   <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="f12" />
-    <keyboard-shortcut first-keystroke="meta alt down" />
     <mouse-shortcut keystroke="button2" />
-    <mouse-shortcut keystroke="shift meta button1" />
     <mouse-shortcut keystroke="meta button1" />
+    <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
@@ -54,4 +57,5 @@
   </action>
   <action id="UML.ShowStructure" />
   <action id="Vcs.Log.Refresh" />
+  <action id="ViewSource" />
 </keymap>

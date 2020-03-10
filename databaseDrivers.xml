@@ -14,8 +14,13 @@
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="derby.embedded" name="Derby (Embedded)">
-      <artifact name="Apache Derby" use="true" />
+      <artifact name="Apache Derby" use="true" version="10.14.1.0" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="derby.remote" name="Derby (Remote)">
       <artifact name="Apache Derby" use="true" />
@@ -71,8 +76,13 @@
       <option name="send-app-info" value="false" />
     </driver>
     <driver id="sqlite.xerial" name="Sqlite (Xerial)">
-      <artifact name="Xerial SQLiteJDBC" use="true" />
+      <artifact name="Xerial SQLiteJDBC" use="true" version="3.25.1" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="sqlserver.ms" name="SQL Server (Microsoft)">
       <artifact name="SQL Server" use="true" />

@@ -12,7 +12,9 @@
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow" />
   <action id="Console.Execute.Multiline" />
-  <action id="Console.Jdbc.Execute" />
+  <action id="Console.Jdbc.Execute">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="Console.TableResult.Reload" />
   <action id="Console.TableResult.Submit" />
   <action id="DatabaseView.Refresh" />

@@ -1,8 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="cf32a0f1-a0df-4f65-8913-70b3afbc783b" name="Upsite" url="https://upsite.test">
-        <fileTransfer port="0" accessType="LOCAL" />
+      <webServer id="8f842dd0-2bb1-462e-92c7-9fe79e131700" name="simply-ee-dd" url="http://linux130.unoeuro.com">
+        <fileTransfer host="linux130.unoeuro.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
       </webServer>
     </option>
   </component>

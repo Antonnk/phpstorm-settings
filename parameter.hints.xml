@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="PHP">
         <added pattern="\container(alias)" />
+        <added pattern="\Support\View\Blueprints\ColumnBlueprint.setType(type)" />
       </blacklist>
     </blacklists>
   </component>

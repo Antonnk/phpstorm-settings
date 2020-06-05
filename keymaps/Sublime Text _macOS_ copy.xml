@@ -11,6 +11,9 @@
   <action id="ActivateRunToolWindow" />
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow" />
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute">
     <keyboard-shortcut first-keystroke="alt e" />
@@ -23,6 +26,9 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorAddOrRemoveCaret" />
   <action id="EditorStartNewLine" />
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
@@ -52,6 +58,7 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="OpenFile" />
   <action id="Refresh" />
   <action id="Rerun" />
   <action id="Run">

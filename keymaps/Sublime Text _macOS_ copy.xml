@@ -59,6 +59,9 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="OpenFile" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="meta dead_diaeresis" />
+  </action>
   <action id="Refresh" />
   <action id="Rerun" />
   <action id="Run">

@@ -7,4 +7,8 @@
       <interpreter id="6be12e8f-6c89-4893-b4b8-6549e7213c42" name="PHP" home="" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="findUsagesOfBaseMethod" value="true" />
+    <option name="promptFindUsagesOfBaseMethod" value="false" />
+  </component>
 </application>

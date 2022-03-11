@@ -6,5 +6,6 @@
         <added pattern="\Support\View\Blueprints\ColumnBlueprint.setType(type)" />
       </blacklist>
     </blacklists>
+    <option id="php.show.names.for.all.args" value="true" />
   </component>
 </application>

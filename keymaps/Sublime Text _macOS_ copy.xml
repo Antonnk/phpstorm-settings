@@ -32,6 +32,9 @@
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.LightEditGotoOpenedFile">
+    <keyboard-shortcut first-keystroke="shift b" />
+  </action>
   <action id="GoToTab1">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>

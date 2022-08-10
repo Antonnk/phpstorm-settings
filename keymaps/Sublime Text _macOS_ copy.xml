@@ -11,6 +11,10 @@
   <action id="ActivateRunToolWindow" />
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="CollapseAllRegions" />
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
@@ -25,7 +29,16 @@
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorAddOrRemoveCaret" />
+  <action id="EditorDeleteToLineEnd" />
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="EditorScrollToCenter">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="EditorStartNewLine" />
+  <action id="EditorToggleCase" />
+  <action id="ExpandAllRegions" />
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
@@ -34,6 +47,9 @@
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.LightEditGotoOpenedFile">
     <keyboard-shortcut first-keystroke="shift b" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="GoToTab1">
     <keyboard-shortcut first-keystroke="meta 1" />
@@ -62,10 +78,13 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="OpenFile" />
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="meta alt v" />
+  </action>
   <action id="Refresh" />
   <action id="Rerun" />
-  <action id="Run">
-    <keyboard-shortcut first-keystroke="meta t" />
+  <action id="Terminal.ClearBuffer">
+    <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="UML.ShowStructure" />
   <action id="Vcs.Log.Refresh" />

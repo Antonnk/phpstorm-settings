@@ -13,9 +13,8 @@
     </driver>
     <driver id="mysql" name="MySQL" />
     <driver id="postgresql">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.4.0" />
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.5.0" />
     </driver>
-    <driver id="snowflake" />
     <driver id="sqlite.xerial" name="Sqlite (Xerial)">
       <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.31.1" />
     </driver>

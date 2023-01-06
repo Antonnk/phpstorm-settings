@@ -1,0 +1,14 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="fileIcons" value="false" />
+    <option name="isDecoratedFolders" value="false" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="useMaterialIcons" value="false" />
+    <option name="settingsSelectedTab" value="2" />
+    <option name="accentColor" value="607d8b" />
+    <option name="selectedTheme" value="GITHUB" />
+    <option name="userId" value="83462dd:16c9433c051:-8000" />
+    <option name="version" value="4.2.2" />
+  </component>
+</application>

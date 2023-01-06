@@ -1,0 +1,19 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <mask>php</mask>
+    <mask>!*log</mask>
+    <mask>!*log,!*.css,!*.scss,!*.map</mask>
+    <mask>!*log,!*.scss,!*.map</mask>
+    <mask>!*log,!*.scss,!*.map,*.json,*.js</mask>
+    <mask>*.php</mask>
+    <mask>*.php,*.sql</mask>
+    <mask>*.php,*.sql, *.css, *.scss</mask>
+  </component>
+</application>

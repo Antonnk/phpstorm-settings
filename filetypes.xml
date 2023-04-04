@@ -12,8 +12,8 @@
       <mapping pattern="DeleteNotificationDestinationController" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="ShowImpersonationFormController" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="UpdateProjectNotificationPreferenceRequest" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="companyWaitingForApproval" type="PLAIN_TEXT" />
       <mapping pattern="DeleteTeamAction" type="PLAIN_TEXT" />
       <mapping pattern="ReviewableWasAlreadyReviewed" type="PLAIN_TEXT" />

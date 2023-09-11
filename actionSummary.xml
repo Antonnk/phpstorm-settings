@@ -1,7 +1,52 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="CheckinProject">
+      <i c="1" l="1694417143930" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="6" l="1694418605845" />
+    </e>
+    <e n="EditorPasteSimple">
+      <i c="1" l="1694417468259" />
+    </e>
+    <e n="FileStructurePopup">
+      <i c="2" l="1694418588836" />
+    </e>
+    <e n="Find">
+      <i c="2" l="1694418604057" />
+    </e>
+    <e n="FindInPath">
+      <i c="1" l="1694418488185" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="14" l="1694418628228" />
+    </e>
+    <e n="SaveAll">
+      <i c="2" l="1694417468923" />
+    </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="2" l="1694415071886" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="1" l="1694418599669" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="10" l="1694418616012" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="1" l="1694418512803" />
+    </e>
+    <e n="com.intellij.ide.util.FileStructurePopup$NavigateSelectedElementAction">
+      <i c="2" l="1694418593314" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="9" l="1694417170341" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
+      <i c="97" l="1694418509316" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
+      <i c="28" l="1694418508628" />
     </e>
   </component>
 </application>

@@ -28,6 +28,7 @@
       <feature name="ARROW_FUNCTION_SYNTAX" />
       <feature name="UNION_TYPES" />
       <feature name="NULLSAFE_DEREFERENCING" />
+      <feature name="STATIC_RETURN_TYPE_HINT" />
       <feature name="TRAILING_COMMA_IN_PARAMETER_LIST" />
       <feature name="NAMED_ARGUMENTS" />
       <feature name="MATCH_EXPRESSION" />

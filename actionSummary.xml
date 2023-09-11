@@ -1,37 +1,49 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="1" l="1694423430879" />
+    </e>
     <e n="CheckinProject">
       <i c="1" l="1694417143930" />
     </e>
     <e n="EditorBackSpace">
-      <i c="46" l="1694420150219" />
+      <i c="73" l="1694423471862" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="4" l="1694420147441" />
+      <i c="6" l="1694423292012" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1694423282129" />
+    </e>
+    <e n="EditorDeleteToLineStart">
+      <i c="1" l="1694423388877" />
     </e>
     <e n="EditorDown">
-      <i c="34" l="1694420141792" />
+      <i c="39" l="1694423388446" />
     </e>
     <e n="EditorEnter">
-      <i c="2" l="1694419826597" />
+      <i c="4" l="1694423286023" />
     </e>
     <e n="EditorLeft">
-      <i c="2" l="1694419831936" />
+      <i c="24" l="1694423466765" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="15" l="1694423281910" />
     </e>
     <e n="EditorLineEnd">
-      <i c="1" l="1694419832566" />
+      <i c="5" l="1694423472550" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="1" l="1694417468259" />
+      <i c="5" l="1694423432347" />
     </e>
     <e n="EditorRight">
-      <i c="2" l="1694419832364" />
+      <i c="29" l="1694423470527" />
     </e>
     <e n="EditorUp">
-      <i c="10" l="1694420145043" />
+      <i c="19" l="1694423286310" />
     </e>
     <e n="FileStructurePopup">
-      <i c="2" l="1694418588836" />
+      <i c="3" l="1694423230802" />
     </e>
     <e n="Find">
       <i c="3" l="1694420018696" />
@@ -40,16 +52,19 @@
       <i c="1" l="1694418488185" />
     </e>
     <e n="GoToTab1">
-      <i c="1" l="1694419816414" />
+      <i c="2" l="1694423277006" />
+    </e>
+    <e n="GoToTab2">
+      <i c="1" l="1694423277771" />
     </e>
     <e n="GotoDeclaration">
-      <i c="24" l="1694420170471" />
+      <i c="27" l="1694423255800" />
     </e>
     <e n="SaveAll">
-      <i c="2" l="1694417468923" />
+      <i c="13" l="1694423474418" />
     </e>
     <e n="SearchEverywhere">
-      <i c="1" l="1694420165780" />
+      <i c="2" l="1694423240527" />
     </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="2" l="1694415071886" />
@@ -70,16 +85,19 @@
       <i c="2" l="1694418593314" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="7" l="1694420167559" />
+      <i c="8" l="1694423274295" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="10" l="1694420166563" />
+      <i c="13" l="1694423241447" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="97" l="1694418509316" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
       <i c="28" l="1694418508628" />
+    </e>
+    <e n="copilot.applyInlays">
+      <i c="2" l="1694423473992" />
     </e>
   </component>
 </application>

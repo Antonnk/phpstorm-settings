@@ -21605,22 +21605,29 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/database/migrations-biper/2023_08_22_134033_add_event_schema.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/ApiBackend/src/Http/Services" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Hardware/src/Domain/HardwareTypePropertyWanPortConfiguration.php" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/src/Http/Help.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Hardware/src/Domain/HardwareTypePropertyDocsisVersion.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Hardware/src/Domain/HardwareTypePropertyWifiFrequencyConfiguration.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/vendor/sentry" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Hardware/resources/doctrine/Hiper.Projects.Hardware.Domain.HardwareTypePropertyDocsisVersion.yml" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/ApiBackend/src/Http/Controllers/v4/External/Error" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Job/src/Job/CampaignAddressUploadJob.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/scripts/all-1b51a66e72.min.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Hardware/resources/doctrine/Hiper.Projects.Hardware.Domain.HardwareTypePropertyWifiGeneration.yml" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/doctrine-proxies/__CG__HiperProjectsHardwareDomainHardwareTypePropertyDocsisVersion.php" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/src/Console/SiteMapCommand.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Hardware/src/Domain/HardwareTypePropertyWifiAntennaConfiguration.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/doctrine-proxies/__CG__HiperProjectsHardwareDomainHardwareTypePropertyWifiFrequencyConfiguration.php" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/front-src/sitemap.xml" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/database/migrations-biper/2023_08_10_124313_create_ordertake_campaign_address_table.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Hardware/src/Domain/HardwareTypePropertyWifiStandard.php" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Crm/src/Http/Controllers/Administration/CampaignAddressUploadController.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/styles/style-418d0feb5e.min.css" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/vendor/http-interop" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Hardware/resources/doctrine/Hiper.Projects.Hardware.Domain.HardwareTypePropertyWifiStandard.yml" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Hardware/resources/doctrine/Hiper.Projects.Hardware.Domain.HardwareTypePropertyWifiFrequencyConfiguration.yml" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/templates/_partials/icon_files/icon-mediaconverter.svg" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/scripts/sitemap.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Hardware/resources/doctrine/Hiper.Projects.Hardware.Domain.HardwareTypePropertyLanPortConfiguration.yml" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/doctrine-proxies/__CG__HiperProjectsHardwareDomainHardwareTypePropertyGponVersion.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/src/util/notificationMap.tsx" charset="utf-8" />

@@ -20,6 +20,7 @@
     "fontSizeToResetConsole": "12.0",
     "fontSizeToResetEditor": "15.0",
     "got.it.tooltip.copilot.inlayGotIt": "1",
+    "got.it.tooltip.show.diff.in.editor": "1",
     "ide.memory.adjusted": "true",
     "migrated.non.roamable.values.from.general.settings": "true",
     "previousColorScheme": "GitHub (Material) - Anton",

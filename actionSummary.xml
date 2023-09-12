@@ -4,7 +4,7 @@
       <i c="1" l="1694506126193" />
     </e>
     <e n="$Undo">
-      <i c="39" l="1694506102385" />
+      <i c="40" l="1694509301038" />
     </e>
     <e n="ActivateDatabaseToolWindow">
       <i c="1" l="1694428592509" />
@@ -19,22 +19,22 @@
       <i c="3" l="1694502809446" />
     </e>
     <e n="EditorBackSpace">
-      <i c="249" l="1694507769042" />
+      <i c="255" l="1694509301339" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="28" l="1694506135488" />
+      <i c="30" l="1694509310679" />
     </e>
     <e n="EditorCopy">
-      <i c="29" l="1694507496151" />
+      <i c="30" l="1694509322158" />
     </e>
     <e n="EditorDeleteToLineStart">
       <i c="3" l="1694428806943" />
     </e>
     <e n="EditorDown">
-      <i c="70" l="1694506113996" />
+      <i c="74" l="1694509360609" />
     </e>
     <e n="EditorEnter">
-      <i c="21" l="1694506101674" />
+      <i c="27" l="1694509303139" />
     </e>
     <e n="EditorEscape">
       <i c="2" l="1694507770334" />
@@ -43,13 +43,13 @@
       <i c="1" l="1694428743362" />
     </e>
     <e n="EditorLeft">
-      <i c="139" l="1694507660538" />
+      <i c="149" l="1694509358265" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="36" l="1694504667933" />
     </e>
     <e n="EditorLineEnd">
-      <i c="25" l="1694505789328" />
+      <i c="26" l="1694509169249" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="1" l="1694434836616" />
@@ -58,16 +58,16 @@
       <i c="5" l="1694507500156" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="4" l="1694504968305" />
+      <i c="5" l="1694509327859" />
     </e>
     <e n="EditorPaste">
       <i c="1" l="1694507498348" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="23" l="1694505738077" />
+      <i c="26" l="1694509328119" />
     </e>
     <e n="EditorRight">
-      <i c="166" l="1694507766338" />
+      <i c="167" l="1694509359536" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="39" l="1694507761934" />
@@ -85,7 +85,7 @@
       <i c="6" l="1694506309752" />
     </e>
     <e n="EditorUp">
-      <i c="37" l="1694506114566" />
+      <i c="40" l="1694509303576" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="5" l="1694504968960" />
@@ -124,7 +124,7 @@
       <i c="1" l="1694428858285" />
     </e>
     <e n="SaveAll">
-      <i c="78" l="1694507771119" />
+      <i c="80" l="1694509328404" />
     </e>
     <e n="SearchEverywhere">
       <i c="9" l="1694507752474" />
@@ -139,16 +139,16 @@
       <i c="1" l="1694504209514" />
     </e>
     <e n="Tree-selectChild">
-      <i c="16" l="1694507748504" />
+      <i c="18" l="1694509413498" />
     </e>
     <e n="Tree-selectNext">
-      <i c="123" l="1694507749867" />
+      <i c="126" l="1694509413319" />
     </e>
     <e n="Tree-selectParent">
-      <i c="12" l="1694507749137" />
+      <i c="15" l="1694509414101" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="84" l="1694507748407" />
+      <i c="90" l="1694509410756" />
     </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="2" l="1694415071886" />
@@ -187,7 +187,7 @@
       <i c="65" l="1694506110994" />
     </e>
     <e n="copilot.applyInlays">
-      <i c="3" l="1694505075520" />
+      <i c="4" l="1694509167214" />
     </e>
   </component>
 </application>

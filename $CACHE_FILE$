@@ -21609,6 +21609,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/src/Selfcare/Jwt/SelfcareJwtCookie.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Hardware/src/Domain/HardwareTypePropertyDocsisVersion.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Hardware/src/Domain/HardwareTypePropertyWifiFrequencyConfiguration.php" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/src/util/flatpickrBridge.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/vendor/sentry" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Hardware/resources/doctrine/Hiper.Projects.Hardware.Domain.HardwareTypePropertyDocsisVersion.yml" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/ApiBackend/src/Http/Controllers/v4/External/Error" charset="utf-8" />

@@ -6,11 +6,17 @@
     <e n="ActivateDatabaseToolWindow">
       <i c="1" l="1694428592509" />
     </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="1" l="1694502810488" />
+    </e>
     <e n="CheckinProject">
       <i c="3" l="1694435191356" />
     </e>
+    <e n="CloseContent">
+      <i c="3" l="1694502809446" />
+    </e>
     <e n="EditorBackSpace">
-      <i c="127" l="1694434841195" />
+      <i c="134" l="1694435206559" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="13" l="1694428749335" />
@@ -46,7 +52,7 @@
       <i c="2" l="1694428804940" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="14" l="1694434839257" />
+      <i c="15" l="1694435207063" />
     </e>
     <e n="EditorRight">
       <i c="102" l="1694428885574" />
@@ -121,7 +127,7 @@
       <i c="2" l="1694418593314" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="11" l="1694435196885" />
+      <i c="21" l="1694502809379" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="15" l="1694434828815" />

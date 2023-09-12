@@ -7,7 +7,7 @@
       <i c="1" l="1694516340913" />
     </e>
     <e n="$Undo">
-      <i c="48" l="1694516969634" />
+      <i c="49" l="1694520653238" />
     </e>
     <e n="ActivateDatabaseToolWindow">
       <i c="1" l="1694428592509" />
@@ -16,7 +16,7 @@
       <i c="4" l="1694516049562" />
     </e>
     <e n="CheckinProject">
-      <i c="6" l="1694517214402" />
+      <i c="7" l="1694520559766" />
     </e>
     <e n="CloseContent">
       <i c="4" l="1694516927275" />
@@ -100,7 +100,7 @@
       <i c="10" l="1694516252252" />
     </e>
     <e n="Find">
-      <i c="9" l="1694507757726" />
+      <i c="10" l="1694523577776" />
     </e>
     <e n="FindInPath">
       <i c="6" l="1694515671574" />
@@ -145,16 +145,16 @@
       <i c="136" l="1694517212965" />
     </e>
     <e n="SearchEverywhere">
-      <i c="16" l="1694517352500" />
+      <i c="18" l="1694523570605" />
     </e>
     <e n="SelectInProjectView">
       <i c="4" l="1694506124927" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="38" l="1694514809777" />
+      <i c="41" l="1694523582076" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="1" l="1694504209514" />
+      <i c="2" l="1694520653639" />
     </e>
     <e n="Tree-selectChild">
       <i c="21" l="1694513356849" />
@@ -175,7 +175,7 @@
       <i c="7" l="1694418724763" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
-      <i c="6" l="1694507759637" />
+      <i c="7" l="1694523578526" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
       <i c="22" l="1694507758427" />
@@ -190,10 +190,10 @@
       <i c="40" l="1694516993823" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="27" l="1694517362065" />
+      <i c="46" l="1694523574018" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
-      <i c="9" l="1694517359051" />
+      <i c="11" l="1694520655649" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveEndAction">
       <i c="1" l="1694505764764" />

@@ -21582,6 +21582,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Hardware/resources/doctrine/Hiper.Projects.Hardware.Domain.HardwareTypePropertyWanPortConfiguration.yml" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/network/bridge-mode-zyxel-2.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/network/vlan-netgear1-2.png" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/tests/OrderProduct/OpennetOrderProductTest.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/products/zyxel-ex.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/crm/all.min.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/press/press-release-7.jpg" charset="utf-8" />
@@ -21617,6 +21618,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/home/mvfp-all.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/ApiBackend/src/Http/Services" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/network/frekvenser-graf.png" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Dawa/src/Domain/DslDelivery.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/campaigns/loyalty_group/hero-2000.jpg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/equipment/placering-centralt.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Hardware/src/Domain/HardwareTypePropertyDocsisVersion.php" charset="utf-8" />
@@ -21668,6 +21670,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/network/mitwifi-login.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/src/components/icons/IconNotification.tsx" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/equipment/placering-gulv.png" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/tests/lib/TestHelper.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/filer/installationsmanual/installationsmanual-kabel-tv.pdf" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/home/spies-logo.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/filer/pr/forbrugerundersoegelse-pressemeddelelse-2023-04-19.pdf" charset="utf-8" />
@@ -21701,6 +21704,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/network/bridge-mode-sagemcom-4.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/subscription/foerste-regning.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/home/coverage-map-tm.png" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/doctrine-proxies/__CG__HiperProjectsDawaDomainDslDelivery.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/network/mitwifi-rediger.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/network/raekkevidde-5g.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/subscription/glemt-kode.png" charset="utf-8" />
@@ -21715,7 +21719,9 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/press/hiper-preview.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/press/press-background-release-7.jpg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/doctrine-proxies/__CG__HiperProjectsHardwareDomainHardwareTypePropertyWanPortConfiguration.php" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Dawa/resources/doctrine/Hiper.Projects.Dawa.Domain.DslDelivery.yml" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/network/vlan-asus-1.png" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/tests/lib/FbsaDeliveryTestBuilder.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/network/zyxel-wireless-2g.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/equipment/placering-afstand.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Backend/src/Workflow/Services/WorkflowOrderFulfilmentFbsaService.php" charset="utf-8" />
@@ -21747,6 +21753,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/press/press-release-5.jpg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/vendor/clue" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/filer/pr/stig-farve.jpg" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/tests/lib/OpennetDeliveryTestBuilder.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/home/hiper-girl.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/campaigns/new_universe/hiper_desktop.jpg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/src/hiper-flatpickr-theme.scss" charset="utf-8" />
@@ -21793,6 +21800,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/home/mvfp-2023.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/ApiBackend/src/Domain/CustomerFinanceMessages.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/home/products/dsl.jpg" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Dawa/tests/AddressCatalogRepositoryTest.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/press/press-background-release-6.jpg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/home/router.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/home/gavekort.jpg" charset="utf-8" />
@@ -21836,6 +21844,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/home/nps-2023.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/network/speedtest-app.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/products/router-fiber.jpg" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/database/migrations-biper/2023_09_12_114027_update_product_sort_order.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/campaigns/fibernet/palms.jpg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/service-status/judas-2.jpg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/network/bridge-mode-zyxel-4.png" charset="utf-8" />

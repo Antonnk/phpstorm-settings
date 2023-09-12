@@ -25,6 +25,7 @@
       <feature name="COALESCE_OPERATOR" />
       <feature name="RETURN_VOID" />
       <feature name="NULLABLES" />
+      <feature name="CATCH_MULTIPLE" />
       <feature name="CLASS_CONSTANT_VISIBILITY" />
       <feature name="LIST_ASSIGN" />
       <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
@@ -21662,6 +21663,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/campaigns/coop/coop-medlemskort.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/filer/pr/10.000-kunder-pressemeddelelse-2016-08-16.pdf" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/ApiBackend/src/Http/Controllers/v4/External/Timeline" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/database/migrations-biper/2023_09_12_123136_alter_sbbu_computer_compitorname_citext.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/network/mitwifi-login.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/src/components/icons/IconNotification.tsx" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/equipment/placering-gulv.png" charset="utf-8" />

@@ -16,13 +16,13 @@
       <i c="4" l="1694516049562" />
     </e>
     <e n="CheckinProject">
-      <i c="5" l="1694516152832" />
+      <i c="6" l="1694517214402" />
     </e>
     <e n="CloseContent">
       <i c="4" l="1694516927275" />
     </e>
     <e n="EditorBackSpace">
-      <i c="455" l="1694516998080" />
+      <i c="464" l="1694517219451" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="48" l="1694516987896" />
@@ -118,7 +118,7 @@
       <i c="1" l="1694517211242" />
     </e>
     <e n="GotoDeclaration">
-      <i c="48" l="1694517000529" />
+      <i c="49" l="1694517372006" />
     </e>
     <e n="NewDir">
       <i c="1" l="1694513337395" />
@@ -145,7 +145,7 @@
       <i c="136" l="1694517212965" />
     </e>
     <e n="SearchEverywhere">
-      <i c="14" l="1694517205181" />
+      <i c="16" l="1694517352500" />
     </e>
     <e n="SelectInProjectView">
       <i c="4" l="1694506124927" />
@@ -190,13 +190,16 @@
       <i c="40" l="1694516993823" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="25" l="1694517212563" />
+      <i c="27" l="1694517362065" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
-      <i c="1" l="1694507753924" />
+      <i c="9" l="1694517359051" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveEndAction">
       <i c="1" l="1694505764764" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
+      <i c="5" l="1694517360505" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="251" l="1694515679395" />

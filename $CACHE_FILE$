@@ -33,6 +33,7 @@
       <feature name="TYPED_PROPERTIES" />
       <feature name="ARROW_FUNCTION_SYNTAX" />
       <feature name="UNION_TYPES" />
+      <feature name="NAMESPACED_NAME_AS_SINGLE_TOKEN" />
       <feature name="NULLSAFE_DEREFERENCING" />
       <feature name="STATIC_RETURN_TYPE_HINT" />
       <feature name="TRAILING_COMMA_IN_PARAMETER_LIST" />

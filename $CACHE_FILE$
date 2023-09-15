@@ -21738,6 +21738,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/tailwindcss/src/lib/offsets.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/workbox-build/src/lib/no-revision-for-urls-matching-transform.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/ajv/lib/dot/items.jst" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/.cache/default-development/1.pack" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/sucrase/dist/esm/parser/plugins/types.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/esm/locale/uz.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/esm/locale/pt.js" charset="utf-8" />
@@ -21763,6 +21764,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/README.md" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/filer/emails/2017/12/18/prisaendring.jpg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/campaigns/youtv/mobil-interface.png" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/src/components/icons/IconOverview.tsx" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/plugin/timezone.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/core/esm/scope.js.map" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/esm/locale/ru.js" charset="utf-8" />
@@ -21951,6 +21953,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/esm/locale/ss.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/home/hero-hulahop-video-background.jpg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/favicon-192.png" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/src/components/icons/IconUserMenu.tsx" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/esm/locale/nb.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/utils/esm/vendor/escapeStringForRegex.js.map" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/replay/types/types/replay.d.ts" charset="utf-8" />
@@ -21994,6 +21997,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/core/types/tracing/spanstatus.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/utils/esm/tracing.js.map" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/workbox-build/src/lib/validate-options.ts" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/src/icons/icon-logout.svg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry-internal/tracing/types/browser/web-vitals/types/base.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/esm/locale/pl.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/core/esm/envelope.js.map" charset="utf-8" />
@@ -22029,6 +22033,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/utils/types/memo.d.ts.map" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/plugin/isBetween.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/caniuse-lite/package.json" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/database/migrations-biper/2023_08_31_135611_add_priceplan_column_to_fibia_address.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/workbox-core/src/skipWaiting.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/utils/types/promisebuffer.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/replay/types/types/index.d.ts" charset="utf-8" />
@@ -22038,6 +22043,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/browser/types/transports/index.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/utils/types/dsn.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@babel/types/lib/converters" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/.cache/default-development/index.pack.old" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/tailwindcss/src/plugin.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/campaigns/loyalty_group/hero-900.jpg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/tailwindcss/src/cli/build/utils.js" charset="utf-8" />
@@ -22112,6 +22118,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/replay/types/util/createReplayEnvelope.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/react-dom/server.browser.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/esm/locale/types.d.ts" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/src/icons/icon-overview.svg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/esm/locale/pa-in.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/database/migrations-biper/2023_08_10_124313_create_ordertake_campaign_address_table.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/sucrase/dist/parser/traverser/statement.js" charset="utf-8" />
@@ -22140,6 +22147,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry-internal/tracing/types/browser/web-vitals/types/lcp.d.ts.map" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/sucrase/dist/TokenProcessor.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/ajv/dist/ajv.min.js.map" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/src/components/icons/IconMenu.tsx" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/workbox-core/utils/welcome.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/locale/hy-am.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/core/cjs/tracing/span.js.map" charset="utf-8" />
@@ -22152,6 +22160,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/products/router-fiber.jpg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/sucrase/dist/esm/util/removeMaybeImportAssertion.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/replay/types/util/prepareReplayEvent.d.ts.map" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/.cache/babel-loader/aa916e47de531cf9a701eec194476c3f6b6b8903863f64521f805b3054b91456.json" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/replay/types/util/sendReplay.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@testing-library/dom/README.md" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@remix-run/router/dist/router.d.ts" charset="utf-8" />
@@ -22322,6 +22331,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/locale/fr-ch.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry-internal/tracing/types/browser/web-vitals/getFID.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/browser/types/transports/xhr.d.ts.map" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Sbbu/src/SbbuHistory.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/tailwindcss/scripts/swap-engines.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/tailwindcss/lib/oxide/cli/build/index.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/plugin/duration.d.ts" charset="utf-8" />
@@ -22384,6 +22394,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/tailwindcss/src/util/parseObjectStyles.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry-internal/tracing/types/node/integrations/lazy.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Hardware/resources/doctrine/Hiper.Projects.Hardware.Domain.HardwareTypePropertyWanPortConfiguration.yml" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/src/Domain/Selfcare/SelfcareMobileNoVerificationDbRepository.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/tailwindcss/lib/util/pseudoElements.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/sucrase/dist/parser/plugins/typescript.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/utils/esm/error.js.map" charset="utf-8" />
@@ -22409,6 +22420,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/core/cjs/tracing/spanstatus.js.map" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@types/node/stream" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/equipment/zyxel-vmg-router.png" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Hiper/src/Console/CreateSentryMessage.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/core/cjs/integration.js.map" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/replay/types/util/truncateJson/completeJson.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry-internal/tracing/types/browser/types.d.ts.map" charset="utf-8" />
@@ -22505,8 +22517,11 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/plugin/badMutable.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/tailwindcss/src/cli/help" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/core/types/transports/multiplexed.d.ts.map" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/templates/_partials/icon_files/icon-overview.svg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/workbox-build/build/lib/stringify-without-comments.d.ts" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/database/migrations-biper/2023_08_07_131815_add_selfcare_mobile_no_verification.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/axios/lib/helpers/ZlibHeaderTransformStream.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/src/icons/icon-user-menu.svg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/tailwindcss/types/generated/default-theme.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry-internal/tracing/types/browser/router.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/esm/locale/me.js" charset="utf-8" />
@@ -22572,6 +22587,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/terser/lib/scope.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/home/mvfp-2022.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/replay/types/types/performance.d.ts" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/templates/_partials/icon_files/icon-logout.svg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/utils/types/time.d.ts.map" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry-internal/tracing/types/browser/web-vitals/getLCP.d.ts.map" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/workbox-build/build/lib/no-revision-for-urls-matching-transform.d.ts" charset="utf-8" />
@@ -22631,6 +22647,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/home/winter-competition.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/ajv/lib/dot/properties.jst" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/home/products/fiber-right.jpg" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/templates/_partials/icon_files/icon-user-menu.svg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry-internal/tracing/cjs/browser/metrics/utils.js.map" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/browser/types/integrations/index.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/filer/pr/nicolai-farve.jpg" charset="utf-8" />
@@ -22769,6 +22786,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/filer/pr/ledelsen-sort-hvid.jpg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/replay/types/types/rrweb.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/utils/README.md" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/src/components/selfcare/HelpArticles.tsx" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry-internal/tracing/cjs/node/integrations/graphql.js.map" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/locale/lt.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/sucrase/dist/parser/tokenizer/state.js" charset="utf-8" />
@@ -22866,6 +22884,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/replay/types/integration.d.ts.map" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/tailwindcss/lib/oxide/postcss-plugin.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/utils/types/tracing.d.ts" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/templates/_partials/icon_files/icon-menu.svg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/equipment/placering-afstand.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Backend/src/Workflow/Services/WorkflowOrderFulfilmentFbsaService.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/browser/types/index.bundle.tracing.d.ts.map" charset="utf-8" />
@@ -22874,7 +22893,9 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/utils/types/url.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/home/about.jpg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/workbox-core/src/_private/waitUntil.ts" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/src/icons/icon-menu.svg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/plugin/customParseFormat.d.ts" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/database/migrations-biper/2023_09_04_121821_add_campaign_code_to_columbine_fiber_address_table.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/core/esm/integrations/inboundfilters.js.map" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/plugin/isYesterday.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/esm/locale/hi.js" charset="utf-8" />
@@ -22971,6 +22992,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/plugin/objectSupport.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/utils/esm/severity.js.map" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry-internal/tracing/esm/browser/web-vitals/getCLS.js.map" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/src/Domain/Selfcare/SelfcareMobileNoVerificationRepository.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/browser/README.md" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/crm/support-helper.min.css" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/utils/types/browser.d.ts" charset="utf-8" />
@@ -22980,6 +23002,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/network/vlan-netgear1-2.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/locale/uk.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/carousel/one-600.jpg" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/src/components/icons/IconLogout.tsx" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/esm/locale/gd.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/tailwindcss/src/util/validateConfig.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/core/cjs/tracing/transaction.js.map" charset="utf-8" />
@@ -23061,6 +23084,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/tailwindcss/lib/lib/getModuleDependencies.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/tailwindcss/lib/cli/build/index.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/plugin/weekOfYear.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/src/Selfcare/CredentialLinkType.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/core/types/hub.d.ts.map" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry-internal/tracing/types/browser/web-vitals/types/polyfills.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry-internal/tracing/cjs/browser/request.js.map" charset="utf-8" />
@@ -23078,6 +23102,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@types/node/util.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/esm/locale/si.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dayjs/locale/ms-my.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/src/Selfcare/SelfcareMobileNoVerificationService.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/filer/pr/hiper-positiv.png" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/products/router-fiber-2.jpg" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/help/network/frekvenser-liste.png" charset="utf-8" />

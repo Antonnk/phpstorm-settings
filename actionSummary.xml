@@ -25,7 +25,7 @@
       <i c="17" l="1695034658973" />
     </e>
     <e n="CloseContent">
-      <i c="5" l="1695021289952" />
+      <i c="6" l="1695042510015" />
     </e>
     <e n="Console.TableResult.CopyColumnName">
       <i c="1" l="1694767621414" />
@@ -142,7 +142,7 @@
       <i c="18" l="1695034132666" />
     </e>
     <e n="GoToTab2">
-      <i c="10" l="1695033971425" />
+      <i c="11" l="1695042515578" />
     </e>
     <e n="GoToTab3">
       <i c="3" l="1695021698414" />
@@ -151,7 +151,7 @@
       <i c="3" l="1695030518837" />
     </e>
     <e n="GotoDeclaration">
-      <i c="155" l="1695038411537" />
+      <i c="157" l="1695043064113" />
     </e>
     <e n="GotoSymbol">
       <i c="1" l="1695030522950" />
@@ -190,13 +190,13 @@
       <i c="258" l="1695041475927" />
     </e>
     <e n="SearchEverywhere">
-      <i c="69" l="1695041467269" />
+      <i c="70" l="1695043056774" />
     </e>
     <e n="SelectInProjectView">
       <i c="8" l="1695030479938" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="64" l="1695032566580" />
+      <i c="67" l="1695043063436" />
     </e>
     <e n="ShowIntentionActions">
       <i c="11" l="1695036455801" />
@@ -247,10 +247,10 @@
       <i c="1" l="1694775054747" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="101" l="1695038750200" />
+      <i c="103" l="1695042602314" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="132" l="1695041468431" />
+      <i c="133" l="1695043058162" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="2" l="1695030637157" />

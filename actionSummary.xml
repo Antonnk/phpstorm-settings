@@ -19,7 +19,7 @@
       <i c="1" l="1694775029994" />
     </e>
     <e n="CheckinProject">
-      <i c="10" l="1694777753476" />
+      <i c="12" l="1695023827356" />
     </e>
     <e n="CloseContent">
       <i c="5" l="1695021289952" />
@@ -43,7 +43,7 @@
       <i c="72" l="1694530113969" />
     </e>
     <e n="EditorCopy">
-      <i c="105" l="1695021676119" />
+      <i c="108" l="1695023874516" />
     </e>
     <e n="EditorDeleteToLineStart">
       <i c="35" l="1694777832066" />
@@ -88,7 +88,7 @@
       <i c="1" l="1694507498348" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="86" l="1695021600651" />
+      <i c="87" l="1695023876261" />
     </e>
     <e n="EditorRight">
       <i c="291" l="1695021599516" />
@@ -139,7 +139,7 @@
       <i c="2" l="1694529831961" />
     </e>
     <e n="GotoDeclaration">
-      <i c="106" l="1695021625364" />
+      <i c="108" l="1695023868744" />
     </e>
     <e n="NewDir">
       <i c="1" l="1694513337395" />
@@ -163,10 +163,10 @@
       <i c="3" l="1694514443581" />
     </e>
     <e n="SaveAll">
-      <i c="207" l="1695021601906" />
+      <i c="210" l="1695023877307" />
     </e>
     <e n="SearchEverywhere">
-      <i c="35" l="1695021493481" />
+      <i c="36" l="1695023857694" />
     </e>
     <e n="SelectInProjectView">
       <i c="5" l="1694525092754" />
@@ -217,7 +217,7 @@
       <i c="64" l="1695021703054" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="70" l="1695021537959" />
+      <i c="80" l="1695023859454" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="1" l="1694775023857" />

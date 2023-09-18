@@ -43,6 +43,7 @@
       <feature name="NON_CAPTURING_CATCHES" />
       <feature name="CLASS_NAME_LITERAL_ON_OBJECT" />
       <feature name="PROPERTY_PROMOTION" />
+      <feature name="ENUM_CLASSES" />
       <feature name="READONLY_PROPERTIES" />
     </project>
   </component>
@@ -25476,6 +25477,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/default-gateway/freebsd.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/tailwindcss/lib/featureFlags.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/array.prototype.reduce/index.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/.cache/babel-loader/677b5c7ed0b874d01305a6a0fc4ef5c379ef89fc792a3457abad019994e08d55.json" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/jsdom/lib/jsdom/living/websockets" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/workbox-precaching/precache.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/jsdom/lib/jsdom/living/nodes/HTMLImageElement-impl.js" charset="utf-8" />
@@ -30541,6 +30543,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/lodash/fp/floor.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@types/yargs-parser/package.json" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/workbox-core/models/messages/messages.d.ts" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/.cache/default-development/2.pack" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/postcss-flexbugs-fixes" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/is-potential-custom-element-name" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/istanbul-lib-coverage/lib/coverage-summary.js" charset="utf-8" />
@@ -33140,6 +33143,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/lodash/fp/trim.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/is-weakset/.gitattributes" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/web-vitals/dist/modules/getFCP.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/.cache/babel-loader/de3e35e4748cd716d8dae91301516c9dea0dcc0a2ece73bc1a938590ee326482.json" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/nth-check/lib/esm/compile.js.map" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/stylehacks/src/plugins/leadingStar.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/lodash/_baseIndexOfWith.js" charset="utf-8" />

@@ -250,7 +250,7 @@
       <i c="1" l="1695046277287" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="10" l="1695046395702" />
+      <i c="11" l="1695046472227" />
     </e>
     <e n="com.intellij.execution.ui.SelectRunConfigurationWithInlineActions">
       <i c="1" l="1695046283461" />
@@ -313,7 +313,7 @@
       <i c="1" l="1694775034453" />
     </e>
     <e n="com.jetbrains.php.ui.PhpUiUtil$2">
-      <i c="3" l="1695046448292" />
+      <i c="4" l="1695046462498" />
     </e>
     <e n="copilot.applyInlays">
       <i c="18" l="1695041384904" />

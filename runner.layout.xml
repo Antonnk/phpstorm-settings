@@ -12,5 +12,12 @@
         <option name="isTabLabelsHidden" value="false" />
       </General>
     </runner>
+    <runner id="JavaRunner">
+      <ViewImpl>
+        <option name="ID" value="ConsoleContent" />
+        <option name="placeInGrid" value="bottom" />
+      </ViewImpl>
+      <TabImpl />
+    </runner>
   </component>
 </application>

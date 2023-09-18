@@ -4,10 +4,10 @@
       <i c="1" l="1694506126193" />
     </e>
     <e n="$SelectAll">
-      <i c="5" l="1695030615037" />
+      <i c="6" l="1695030679880" />
     </e>
     <e n="$Undo">
-      <i c="90" l="1695030509285" />
+      <i c="96" l="1695032561919" />
     </e>
     <e n="ActivateDatabaseToolWindow">
       <i c="2" l="1694767328073" />
@@ -40,28 +40,28 @@
       <i c="1" l="1694767661775" />
     </e>
     <e n="EditorBackSpace">
-      <i c="889" l="1695030675523" />
+      <i c="975" l="1695032797171" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="75" l="1695030569901" />
+      <i c="89" l="1695032570926" />
     </e>
     <e n="EditorCopy">
-      <i c="130" l="1695030564176" />
+      <i c="142" l="1695032559827" />
     </e>
     <e n="EditorDeleteToLineStart">
-      <i c="39" l="1695030418864" />
+      <i c="45" l="1695032573499" />
     </e>
     <e n="EditorDown">
-      <i c="230" l="1695030674489" />
+      <i c="242" l="1695032568137" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="33" l="1695030674889" />
+      <i c="40" l="1695032408840" />
     </e>
     <e n="EditorEnter">
-      <i c="99" l="1695030598841" />
+      <i c="105" l="1695032528172" />
     </e>
     <e n="EditorEscape">
-      <i c="4" l="1694525569296" />
+      <i c="6" l="1695032487245" />
     </e>
     <e n="EditorIndentSelection">
       <i c="2" l="1694777821385" />
@@ -70,22 +70,22 @@
       <i c="1" l="1695025513179" />
     </e>
     <e n="EditorLeft">
-      <i c="378" l="1695030598619" />
+      <i c="458" l="1695032559056" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="111" l="1695030567518" />
+      <i c="115" l="1695032559523" />
     </e>
     <e n="EditorLineEnd">
-      <i c="92" l="1695030599021" />
+      <i c="100" l="1695032573193" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="28" l="1695030675045" />
+      <i c="32" l="1695032559328" />
     </e>
     <e n="EditorLineStart">
-      <i c="41" l="1695030673874" />
+      <i c="45" l="1695032488293" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="25" l="1695030482955" />
+      <i c="29" l="1695032706353" />
     </e>
     <e n="EditorNextWord">
       <i c="1" l="1694777844071" />
@@ -94,16 +94,16 @@
       <i c="1" l="1694507498348" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="97" l="1695030568235" />
+      <i c="103" l="1695032561221" />
     </e>
     <e n="EditorPreviousWord">
       <i c="1" l="1695030565466" />
     </e>
     <e n="EditorRight">
-      <i c="317" l="1695030597711" />
+      <i c="362" l="1695032566215" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="106" l="1695025445408" />
+      <i c="111" l="1695032455353" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1694505769843" />
@@ -112,25 +112,25 @@
       <i c="19" l="1694778694934" />
     </e>
     <e n="EditorTextEnd">
-      <i c="9" l="1695026470135" />
+      <i c="10" l="1695032491530" />
     </e>
     <e n="EditorTextStart">
       <i c="11" l="1695026470907" />
     </e>
     <e n="EditorUp">
-      <i c="136" l="1695030673669" />
+      <i c="146" l="1695032572926" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="24" l="1695025469052" />
+      <i c="25" l="1695032449354" />
     </e>
     <e n="FileStructurePopup">
-      <i c="11" l="1695024772830" />
+      <i c="18" l="1695032798165" />
     </e>
     <e n="Find">
-      <i c="11" l="1695021594431" />
+      <i c="12" l="1695032635761" />
     </e>
     <e n="FindInPath">
-      <i c="26" l="1695030422525" />
+      <i c="33" l="1695032637774" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="4" l="1695030634132" />
@@ -148,7 +148,7 @@
       <i c="3" l="1695030518837" />
     </e>
     <e n="GotoDeclaration">
-      <i c="115" l="1695030585345" />
+      <i c="127" l="1695032811854" />
     </e>
     <e n="GotoSymbol">
       <i c="1" l="1695030522950" />
@@ -178,16 +178,16 @@
       <i c="3" l="1694514443581" />
     </e>
     <e n="SaveAll">
-      <i c="234" l="1695030676553" />
+      <i c="242" l="1695032619941" />
     </e>
     <e n="SearchEverywhere">
-      <i c="51" l="1695030669086" />
+      <i c="57" l="1695032795720" />
     </e>
     <e n="SelectInProjectView">
       <i c="8" l="1695030479938" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="49" l="1695030569272" />
+      <i c="64" l="1695032566580" />
     </e>
     <e n="ShowIntentionActions">
       <i c="9" l="1694777826537" />
@@ -220,25 +220,25 @@
       <i c="22" l="1694507758427" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="14" l="1695030452366" />
+      <i c="17" l="1695032720465" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
-      <i c="2" l="1695024938485" />
+      <i c="5" l="1695031818129" />
     </e>
     <e n="com.intellij.find.impl.FindUIHelper$1">
       <i c="1" l="1695024949086" />
     </e>
     <e n="com.intellij.ide.util.FileStructurePopup$NavigateSelectedElementAction">
-      <i c="10" l="1695024775203" />
+      <i c="14" l="1695032799810" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
       <i c="1" l="1694775054747" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="78" l="1695030609707" />
+      <i c="80" l="1695032637326" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="109" l="1695030672430" />
+      <i c="122" l="1695032797887" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="2" l="1695030637157" />
@@ -253,10 +253,10 @@
       <i c="18" l="1695030542150" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="466" l="1695030441959" />
+      <i c="776" l="1695032697893" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="239" l="1695030442530" />
+      <i c="446" l="1695032694545" />
     </e>
     <e n="com.intellij.ui.SpeedSearchBase$MySearchAction">
       <i c="2" l="1695030343972" />

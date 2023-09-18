@@ -22,7 +22,10 @@
       <i c="1" l="1695025520700" />
     </e>
     <e n="CheckinProject">
-      <i c="17" l="1695034658973" />
+      <i c="18" l="1695043355993" />
+    </e>
+    <e n="ChooseRunConfiguration">
+      <i c="1" l="1695046324123" />
     </e>
     <e n="CloseContent">
       <i c="6" l="1695042510015" />
@@ -43,13 +46,13 @@
       <i c="1" l="1694767661775" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1085" l="1695041496924" />
+      <i c="1125" l="1695045838564" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="94" l="1695041496194" />
     </e>
     <e n="EditorCopy">
-      <i c="163" l="1695041424768" />
+      <i c="164" l="1695045834760" />
     </e>
     <e n="EditorDeleteToLineStart">
       <i c="48" l="1695041472642" />
@@ -79,16 +82,16 @@
       <i c="137" l="1695035348957" />
     </e>
     <e n="EditorLineEnd">
-      <i c="111" l="1695041469322" />
+      <i c="112" l="1695045832725" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="33" l="1695041475410" />
     </e>
     <e n="EditorLineStart">
-      <i c="48" l="1695041474959" />
+      <i c="49" l="1695045839280" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="32" l="1695041392120" />
+      <i c="34" l="1695045834620" />
     </e>
     <e n="EditorNextWord">
       <i c="1" l="1694777844071" />
@@ -133,7 +136,7 @@
       <i c="13" l="1695035712859" />
     </e>
     <e n="FindInPath">
-      <i c="35" l="1695036544915" />
+      <i c="36" l="1695045835311" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="6" l="1695041499179" />
@@ -159,6 +162,9 @@
     <e n="HideAllWindows">
       <i c="1" l="1695030556852" />
     </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1695046275264" />
+    </e>
     <e n="NewDir">
       <i c="1" l="1694513337395" />
     </e>
@@ -171,8 +177,14 @@
     <e n="NewTypeScriptFile">
       <i c="1" l="1694505937402" />
     </e>
+    <e n="PhpListenDebugAction">
+      <i c="1" l="1695046285619" />
+    </e>
     <e n="PhpNewClass">
       <i c="1" l="1695033539791" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="3" l="1695046287106" />
     </e>
     <e n="Refactorings.QuickListPopupAction">
       <i c="1" l="1694428858038" />
@@ -186,11 +198,14 @@
     <e n="ReopenClosedTab">
       <i c="3" l="1695038317919" />
     </e>
+    <e n="Run">
+      <i c="2" l="1695046284549" />
+    </e>
     <e n="SaveAll">
       <i c="258" l="1695041475927" />
     </e>
     <e n="SearchEverywhere">
-      <i c="70" l="1695043056774" />
+      <i c="72" l="1695046238290" />
     </e>
     <e n="SelectInProjectView">
       <i c="8" l="1695030479938" />
@@ -225,6 +240,15 @@
     <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$ApplyAction">
       <i c="1" l="1695036568440" />
     </e>
+    <e n="com.intellij.execution.ExecutorRegistryImpl$RunSpecifiedConfigExecutorAction">
+      <i c="1" l="1695046277287" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="6" l="1695046264509" />
+    </e>
+    <e n="com.intellij.execution.ui.SelectRunConfigurationWithInlineActions">
+      <i c="1" l="1695046283461" />
+    </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
       <i c="8" l="1695021594920" />
     </e>
@@ -250,7 +274,7 @@
       <i c="103" l="1695042602314" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="133" l="1695043058162" />
+      <i c="136" l="1695046239337" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="2" l="1695030637157" />
@@ -265,10 +289,10 @@
       <i c="20" l="1695038278405" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="1051" l="1695036556499" />
+      <i c="1058" l="1695045849546" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="573" l="1695036557134" />
+      <i c="577" l="1695045852151" />
     </e>
     <e n="com.intellij.ui.SpeedSearchBase$MySearchAction">
       <i c="3" l="1695041465424" />

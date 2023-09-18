@@ -5,6 +5,9 @@
     <size key="find.popup.0.0.3600.2338@192dpi" width="2492" height="1704" />
     <size key="find.popup.-375.-1440.2560.1440" width="1246" height="852" />
   </component>
+  <component name="WindowManager">
+    <frame x="-375" y="-1415" width="2560" height="1415" extendedState="6" />
+  </component>
   <component name="WindowStateApplicationService">
     <state width="1214" height="183" key="ShowUsagesActions.dimensionServiceKey" timestamp="1695043065907">
       <screen x="0" y="44" width="1800" height="1125" />

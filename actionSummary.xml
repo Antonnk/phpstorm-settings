@@ -12,8 +12,14 @@
     <e n="ActivateDatabaseToolWindow">
       <i c="3" l="1695034877032" />
     </e>
+    <e n="ActivateDebugToolWindow">
+      <i c="1" l="1695046391285" />
+    </e>
     <e n="ActivateProjectToolWindow">
       <i c="11" l="1695034655446" />
+    </e>
+    <e n="ActivateRunToolWindow">
+      <i c="1" l="1695046392654" />
     </e>
     <e n="Annotate">
       <i c="1" l="1694775029994" />
@@ -52,7 +58,7 @@
       <i c="94" l="1695041496194" />
     </e>
     <e n="EditorCopy">
-      <i c="164" l="1695045834760" />
+      <i c="165" l="1695046449661" />
     </e>
     <e n="EditorDeleteToLineStart">
       <i c="48" l="1695041472642" />
@@ -205,7 +211,7 @@
       <i c="258" l="1695041475927" />
     </e>
     <e n="SearchEverywhere">
-      <i c="72" l="1695046238290" />
+      <i c="73" l="1695046347831" />
     </e>
     <e n="SelectInProjectView">
       <i c="8" l="1695030479938" />
@@ -244,7 +250,7 @@
       <i c="1" l="1695046277287" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="6" l="1695046264509" />
+      <i c="10" l="1695046395702" />
     </e>
     <e n="com.intellij.execution.ui.SelectRunConfigurationWithInlineActions">
       <i c="1" l="1695046283461" />
@@ -274,7 +280,13 @@
       <i c="103" l="1695042602314" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="136" l="1695046239337" />
+      <i c="137" l="1695046348233" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="4" l="1695046386578" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="2" l="1695046391919" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="2" l="1695030637157" />
@@ -299,6 +311,9 @@
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="1" l="1694775034453" />
+    </e>
+    <e n="com.jetbrains.php.ui.PhpUiUtil$2">
+      <i c="3" l="1695046448292" />
     </e>
     <e n="copilot.applyInlays">
       <i c="18" l="1695041384904" />

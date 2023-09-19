@@ -14,6 +14,7 @@
       <feature name="ARRAY_DEREFERENCING" />
       <feature name="CLASS_MEMBER_ACCESS_ON_INSTANTIATION" />
       <feature name="THIS_IN_CLOSURE" />
+      <feature name="SELF_IN_CLOSURE" />
       <feature name="FINALLY" />
       <feature name="EMPTY_ANY_EXPRESSION" />
       <feature name="CLASS_NAME_CONST" />
@@ -33,6 +34,7 @@
       <feature name="FLEXIBLE_HEREDOCS" />
       <feature name="TYPED_PROPERTIES" />
       <feature name="ARROW_FUNCTION_SYNTAX" />
+      <feature name="NUMERIC_LITERALS_SEPARATORS" />
       <feature name="UNION_TYPES" />
       <feature name="NAMESPACED_NAME_AS_SINGLE_TOKEN" />
       <feature name="NULLSAFE_DEREFERENCING" />
@@ -25986,6 +25988,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/utils/types/promisebuffer.d.ts.map" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/jsdom/lib/jsdom/living/generated/HTMLFrameSetElement.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/babel-plugin-istanbul/lib/load-nyc-config-sync.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/database/migrations-biper/2023_09_19_130345_adds_discount_to_product_instance_charge.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/react" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/source-map-js/README.md" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@types/connect/index.d.ts" charset="utf-8" />

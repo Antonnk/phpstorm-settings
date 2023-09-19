@@ -46,7 +46,7 @@
       <i c="2" l="1695035423729" />
     </e>
     <e n="Console.TableResult.Submit">
-      <i c="1" l="1695122795101" />
+      <i c="3" l="1695126927974" />
     </e>
     <e n="Console.TableResult.Transpose">
       <i c="4" l="1695122278278" />
@@ -61,13 +61,13 @@
       <i c="1" l="1695121659253" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1308" l="1695122776049" />
+      <i c="1309" l="1695126926232" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="100" l="1695122741217" />
     </e>
     <e n="EditorCopy">
-      <i c="202" l="1695122767376" />
+      <i c="205" l="1695127271411" />
     </e>
     <e n="EditorDeleteToLineStart">
       <i c="51" l="1695121489874" />
@@ -94,13 +94,13 @@
       <i c="555" l="1695121882305" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="140" l="1695121598742" />
+      <i c="148" l="1695126925398" />
     </e>
     <e n="EditorLineEnd">
       <i c="126" l="1695121872975" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="38" l="1695122775869" />
+      <i c="39" l="1695126924763" />
     </e>
     <e n="EditorLineStart">
       <i c="52" l="1695122173604" />
@@ -121,10 +121,10 @@
       <i c="1" l="1695030565466" />
     </e>
     <e n="EditorRight">
-      <i c="436" l="1695121839016" />
+      <i c="438" l="1695122820156" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="165" l="1695121708112" />
+      <i c="168" l="1695126926028" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1694505769843" />
@@ -223,13 +223,13 @@
       <i c="280" l="1695121886554" />
     </e>
     <e n="SearchEverywhere">
-      <i c="86" l="1695122097610" />
+      <i c="87" l="1695127247779" />
     </e>
     <e n="SelectInProjectView">
       <i c="8" l="1695030479938" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="69" l="1695121808538" />
+      <i c="70" l="1695127121533" />
     </e>
     <e n="ShowIntentionActions">
       <i c="13" l="1695121474259" />
@@ -253,16 +253,16 @@
       <i c="1" l="1694775029063" />
     </e>
     <e n="Tree-selectChild">
-      <i c="105" l="1695122711374" />
+      <i c="106" l="1695127276071" />
     </e>
     <e n="Tree-selectNext">
-      <i c="519" l="1695122709600" />
+      <i c="529" l="1695127276696" />
     </e>
     <e n="Tree-selectParent">
-      <i c="87" l="1695122707000" />
+      <i c="89" l="1695127275733" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="420" l="1695122707144" />
+      <i c="464" l="1695127274913" />
     </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="2" l="1694415071886" />
@@ -274,7 +274,7 @@
       <i c="4" l="1695122741895" />
     </e>
     <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$2">
-      <i c="1" l="1695122780939" />
+      <i c="2" l="1695122822196" />
     </e>
     <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$3">
       <i c="1" l="1695122778078" />
@@ -313,7 +313,7 @@
       <i c="126" l="1695121861949" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="150" l="1695122155461" />
+      <i c="151" l="1695127255785" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
       <i c="4" l="1695046386578" />
@@ -322,10 +322,10 @@
       <i c="2" l="1695046391919" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="6" l="1695121969976" />
+      <i c="7" l="1695127166822" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
-      <i c="94" l="1695122099040" />
+      <i c="100" l="1695127250804" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveEndAction">
       <i c="1" l="1694505764764" />
@@ -340,7 +340,7 @@
       <i c="639" l="1695122112470" />
     </e>
     <e n="com.intellij.ui.SpeedSearchBase$MySearchAction">
-      <i c="5" l="1695122172181" />
+      <i c="6" l="1695127277033" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="1" l="1694775034453" />

@@ -52,10 +52,10 @@
       <i c="1" l="1694767661775" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1125" l="1695045838564" />
+      <i c="1132" l="1695109354070" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="94" l="1695041496194" />
+      <i c="95" l="1695109356078" />
     </e>
     <e n="EditorCopy">
       <i c="165" l="1695046449661" />
@@ -106,7 +106,7 @@
       <i c="1" l="1694507498348" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="112" l="1695041425261" />
+      <i c="113" l="1695109418513" />
     </e>
     <e n="EditorPreviousWord">
       <i c="1" l="1695030565466" />
@@ -208,10 +208,10 @@
       <i c="2" l="1695046284549" />
     </e>
     <e n="SaveAll">
-      <i c="258" l="1695041475927" />
+      <i c="267" l="1695109419399" />
     </e>
     <e n="SearchEverywhere">
-      <i c="73" l="1695046347831" />
+      <i c="76" l="1695109339968" />
     </e>
     <e n="SelectInProjectView">
       <i c="8" l="1695030479938" />
@@ -277,10 +277,10 @@
       <i c="1" l="1694775054747" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="103" l="1695042602314" />
+      <i c="113" l="1695109105743" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="137" l="1695046348233" />
+      <i c="140" l="1695109342294" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
       <i c="4" l="1695046386578" />
@@ -289,16 +289,16 @@
       <i c="2" l="1695046391919" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="2" l="1695030637157" />
+      <i c="5" l="1695109109300" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
-      <i c="73" l="1695038277920" />
+      <i c="82" l="1695109341103" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveEndAction">
       <i c="1" l="1694505764764" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
-      <i c="20" l="1695038278405" />
+      <i c="21" l="1695109129833" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="1058" l="1695045849546" />

@@ -10,7 +10,7 @@
       <i c="240" l="1695195020436" />
     </e>
     <e n="ActivateDatabaseToolWindow">
-      <i c="7" l="1695156845452" />
+      <i c="8" l="1695199096760" />
     </e>
     <e n="ActivateDebugToolWindow">
       <i c="1" l="1695046391285" />
@@ -64,10 +64,10 @@
       <i c="9" l="1695157812365" />
     </e>
     <e n="Console.TableResult.Transpose">
-      <i c="15" l="1695132029677" />
+      <i c="16" l="1695198951354" />
     </e>
     <e n="Console.TableResult.ViewAs">
-      <i c="13" l="1695132026569" />
+      <i c="14" l="1695198950847" />
     </e>
     <e n="CopyReference">
       <i c="1" l="1694767661775" />
@@ -76,7 +76,7 @@
       <i c="24" l="1695158055454" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1992" l="1695196401250" />
+      <i c="2007" l="1695198839022" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="149" l="1695158223011" />
@@ -169,7 +169,7 @@
       <i c="28" l="1695155457826" />
     </e>
     <e n="FindInPath">
-      <i c="68" l="1695197114292" />
+      <i c="69" l="1695199916443" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="7" l="1695156013941" />
@@ -241,7 +241,7 @@
       <i c="420" l="1695196046033" />
     </e>
     <e n="SearchEverywhere">
-      <i c="117" l="1695197112716" />
+      <i c="120" l="1695199914714" />
     </e>
     <e n="SelectInProjectView">
       <i c="14" l="1695195992656" />
@@ -251,6 +251,9 @@
     </e>
     <e n="ShowIntentionActions">
       <i c="16" l="1695154932574" />
+    </e>
+    <e n="Table-selectNextColumn">
+      <i c="1" l="1695199095113" />
     </e>
     <e n="Table-selectNextColumnExtendSelection">
       <i c="3" l="1695120591661" />
@@ -271,16 +274,16 @@
       <i c="1" l="1694775029063" />
     </e>
     <e n="Tree-selectChild">
-      <i c="120" l="1695156848749" />
+      <i c="141" l="1695198942462" />
     </e>
     <e n="Tree-selectNext">
-      <i c="558" l="1695155063437" />
+      <i c="579" l="1695198940749" />
     </e>
     <e n="Tree-selectParent">
-      <i c="102" l="1695156846935" />
+      <i c="118" l="1695199098237" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="484" l="1695156847075" />
+      <i c="533" l="1695198939923" />
     </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="2" l="1694415071886" />
@@ -316,7 +319,7 @@
       <i c="42" l="1695195035151" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
-      <i c="7" l="1695155219494" />
+      <i c="8" l="1695199918623" />
     </e>
     <e n="com.intellij.find.impl.FindUIHelper$1">
       <i c="1" l="1695024949086" />
@@ -331,10 +334,10 @@
       <i c="1" l="1694775054747" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="188" l="1695196335870" />
+      <i c="189" l="1695198879441" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="191" l="1695197127349" />
+      <i c="195" l="1695199919795" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="2" l="1695127469822" />
@@ -346,16 +349,16 @@
       <i c="2" l="1695046391919" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="11" l="1695156191303" />
+      <i c="13" l="1695198961318" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
-      <i c="165" l="1695197122136" />
+      <i c="176" l="1695198870223" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveEndAction">
       <i c="1" l="1694505764764" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
-      <i c="44" l="1695197123997" />
+      <i c="46" l="1695198869557" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="1414" l="1695157961450" />

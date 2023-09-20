@@ -21,14 +21,14 @@
     <feature id="editing.reformat.code" count="5" last-shown="0" last-used="1695158184948" shown-count="0" />
     <feature id="editing.completion.show.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.copy.line" count="12" last-shown="0" last-used="1695157967026" shown-count="0" />
-    <feature id="navigation.find.in.files" count="68" last-shown="0" last-used="1695197114328" shown-count="0" />
+    <feature id="navigation.find.in.files" count="69" last-shown="0" last-used="1695199916464" shown-count="0" />
     <feature id="db.copy.table" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.hide.tool.window" count="11" last-shown="0" last-used="1695156191308" shown-count="0" />
+    <feature id="ui.hide.tool.window" count="13" last-shown="0" last-used="1695198961323" shown-count="0" />
     <feature id="navigation.find.replace.in.files.toggle" count="1" last-shown="0" last-used="1695024949092" shown-count="0" />
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="profiler.open.snapshot" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.comment.line" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="SearchEverywhere" count="117" last-shown="0" last-used="1695197112751" shown-count="0" />
+    <feature id="SearchEverywhere" count="120" last-shown="0" last-used="1695199914776" shown-count="0" />
     <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.inheritance.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.duplicate" count="0" last-shown="0" last-used="0" shown-count="0" />

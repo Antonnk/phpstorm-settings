@@ -64,7 +64,7 @@
       <i c="28" l="1695207350982" />
     </e>
     <e n="Console.TableResult.Submit">
-      <i c="19" l="1695217354196" />
+      <i c="21" l="1695217452333" />
     </e>
     <e n="Console.TableResult.Transpose">
       <i c="17" l="1695207223899" />
@@ -94,7 +94,7 @@
       <i c="4" l="1695213259813" />
     </e>
     <e n="EditorCopy">
-      <i c="501" l="1695217197620" />
+      <i c="503" l="1695217572268" />
     </e>
     <e n="EditorCut">
       <i c="1" l="1695209566570" />
@@ -184,7 +184,7 @@
       <i c="43" l="1695212820958" />
     </e>
     <e n="FindInPath">
-      <i c="79" l="1695216796142" />
+      <i c="80" l="1695217572834" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="7" l="1695156013941" />
@@ -193,7 +193,7 @@
       <i c="1" l="1695203440532" />
     </e>
     <e n="GoToTab1">
-      <i c="46" l="1695214293445" />
+      <i c="47" l="1695217440173" />
     </e>
     <e n="GoToTab2">
       <i c="30" l="1695217395918" />
@@ -271,7 +271,7 @@
       <i c="17" l="1695212452010" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="241" l="1695217191232" />
+      <i c="254" l="1695217568387" />
     </e>
     <e n="ShowIntentionActions">
       <i c="40" l="1695212906043" />
@@ -361,10 +361,10 @@
       <i c="2" l="1695199941444" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="277" l="1695214561757" />
+      <i c="279" l="1695217602102" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="229" l="1695216795817" />
+      <i c="230" l="1695217580270" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="9" l="1695216790931" />
@@ -391,10 +391,10 @@
       <i c="89" l="1695216783582" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="1552" l="1695216813352" />
+      <i c="1615" l="1695217580171" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="791" l="1695216813055" />
+      <i c="798" l="1695217578550" />
     </e>
     <e n="com.intellij.ui.SpeedSearchBase$MySearchAction">
       <i c="12" l="1695131983936" />

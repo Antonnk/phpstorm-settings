@@ -85,7 +85,7 @@
       <i c="2" l="1695157235397" />
     </e>
     <e n="EditorCopy">
-      <i c="334" l="1695195030236" />
+      <i c="336" l="1695196434234" />
     </e>
     <e n="EditorDeleteToLineStart">
       <i c="87" l="1695158177167" />
@@ -163,13 +163,13 @@
       <i c="88" l="1695158086206" />
     </e>
     <e n="FileStructurePopup">
-      <i c="21" l="1695194935448" />
+      <i c="22" l="1695197115976" />
     </e>
     <e n="Find">
       <i c="28" l="1695155457826" />
     </e>
     <e n="FindInPath">
-      <i c="67" l="1695195033506" />
+      <i c="68" l="1695197114292" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="7" l="1695156013941" />
@@ -190,7 +190,7 @@
       <i c="217" l="1695195045667" />
     </e>
     <e n="GotoSymbol">
-      <i c="1" l="1695030522950" />
+      <i c="2" l="1695197117274" />
     </e>
     <e n="HideAllWindows">
       <i c="1" l="1695030556852" />
@@ -241,7 +241,7 @@
       <i c="420" l="1695196046033" />
     </e>
     <e n="SearchEverywhere">
-      <i c="116" l="1695196393111" />
+      <i c="117" l="1695197112716" />
     </e>
     <e n="SelectInProjectView">
       <i c="14" l="1695195992656" />
@@ -334,7 +334,7 @@
       <i c="188" l="1695196335870" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="187" l="1695196404798" />
+      <i c="191" l="1695197127349" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="2" l="1695127469822" />
@@ -349,13 +349,13 @@
       <i c="11" l="1695156191303" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
-      <i c="162" l="1695196403584" />
+      <i c="165" l="1695197122136" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveEndAction">
       <i c="1" l="1694505764764" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
-      <i c="41" l="1695196404506" />
+      <i c="44" l="1695197123997" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="1414" l="1695157961450" />

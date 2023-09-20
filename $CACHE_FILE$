@@ -23580,6 +23580,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/react-refresh/LICENSE" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/source-map/lib/base64.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/eslint-module-utils/ModuleCache.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Crm/templates/customer/product_instance/charge/discounts/create.plates.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/lodash/fp/intersection.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/regenerate-unicode-properties/Script/Kayah_Li.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/browser/cjs/integrations/globalhandlers.js.map" charset="utf-8" />
@@ -28880,6 +28881,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/typescript/lib/tsserver.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/lodash/fp/parseInt.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/workbox-precaching/src/utils/removeIgnoredSearchParams.ts" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Crm/templates/customer/product_instance/charge/discounts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/lodash/isNative.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/svgo/package.json" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@types/prettier/parser-angular.d.ts" charset="utf-8" />
@@ -31437,6 +31439,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@sentry/core/esm/tracing/utils.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dom-accessibility-api/dist" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/utila/test" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Crm/src/Http/Controllers/ProductInstanceChargeDiscountController.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/strip-bom/index.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/aria-query/lib/etc/roles/literal/insertionRole.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/entities/lib/index.js" charset="utf-8" />
@@ -36002,6 +36005,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/hpack.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/workbox-build/build/lib/populate-sw-template.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/path-type" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Crm/templates/customer/product_instance/charge/discounts/edit.blade.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/workbox-routing/utils/normalizeHandler.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/is-weakset/.github" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/chrome-trace-event/CHANGES.md" charset="utf-8" />

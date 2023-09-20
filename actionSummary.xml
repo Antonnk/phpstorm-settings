@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Delete">
-      <i c="3" l="1695132533235" />
+      <i c="4" l="1695220101278" />
     </e>
     <e n="$SelectAll">
       <i c="15" l="1695211217691" />
@@ -57,6 +57,9 @@
     <e n="Console.TableResult.CopyColumnName">
       <i c="1" l="1694767621414" />
     </e>
+    <e n="Console.TableResult.EditValue">
+      <i c="1" l="1695220101550" />
+    </e>
     <e n="Console.TableResult.NextPage">
       <i c="2" l="1695035423729" />
     </e>
@@ -64,7 +67,7 @@
       <i c="28" l="1695207350982" />
     </e>
     <e n="Console.TableResult.Submit">
-      <i c="21" l="1695217452333" />
+      <i c="22" l="1695220106431" />
     </e>
     <e n="Console.TableResult.Transpose">
       <i c="17" l="1695207223899" />
@@ -94,7 +97,7 @@
       <i c="4" l="1695213259813" />
     </e>
     <e n="EditorCopy">
-      <i c="503" l="1695217572268" />
+      <i c="505" l="1695218646485" />
     </e>
     <e n="EditorCut">
       <i c="1" l="1695209566570" />

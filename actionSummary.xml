@@ -7,7 +7,7 @@
       <i c="11" l="1695202670872" />
     </e>
     <e n="$Undo">
-      <i c="268" l="1695205530910" />
+      <i c="269" l="1695205636332" />
     </e>
     <e n="ActivateDatabaseToolWindow">
       <i c="9" l="1695204709480" />
@@ -40,10 +40,10 @@
       <i c="1" l="1695132336152" />
     </e>
     <e n="Console.Jdbc.Execute">
-      <i c="1" l="1695130294195" />
+      <i c="2" l="1695205834863" />
     </e>
     <e n="Console.TableResult.AddRow">
-      <i c="6" l="1695204764468" />
+      <i c="7" l="1695205695438" />
     </e>
     <e n="Console.TableResult.ChooseExtractor">
       <i c="1" l="1695129057235" />
@@ -61,7 +61,7 @@
       <i c="19" l="1695204766669" />
     </e>
     <e n="Console.TableResult.Submit">
-      <i c="11" l="1695204748791" />
+      <i c="12" l="1695205705191" />
     </e>
     <e n="Console.TableResult.Transpose">
       <i c="16" l="1695198951354" />
@@ -73,19 +73,19 @@
       <i c="5" l="1695203061617" />
     </e>
     <e n="DatabaseView.Refresh">
-      <i c="25" l="1695204713510" />
+      <i c="26" l="1695205548413" />
     </e>
     <e n="EditorBackSpace">
-      <i c="2241" l="1695205526950" />
+      <i c="2244" l="1695205633766" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="169" l="1695205532589" />
+      <i c="171" l="1695205663187" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="3" l="1695204966420" />
     </e>
     <e n="EditorCopy">
-      <i c="362" l="1695205537485" />
+      <i c="366" l="1695205687318" />
     </e>
     <e n="EditorDeleteToLineStart">
       <i c="98" l="1695205455454" />
@@ -133,7 +133,7 @@
       <i c="1" l="1694507498348" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="234" l="1695205540482" />
+      <i c="238" l="1695205699147" />
     </e>
     <e n="EditorPreviousWord">
       <i c="2" l="1695205253620" />
@@ -178,7 +178,7 @@
       <i c="1" l="1695203440532" />
     </e>
     <e n="GoToTab1">
-      <i c="23" l="1695157238095" />
+      <i c="24" l="1695205722566" />
     </e>
     <e n="GoToTab2">
       <i c="15" l="1695157237199" />
@@ -261,8 +261,11 @@
     <e n="Table-selectNextColumnExtendSelection">
       <i c="3" l="1695120591661" />
     </e>
+    <e n="Table-selectNextRow">
+      <i c="2" l="1695205647720" />
+    </e>
     <e n="Table-selectNextRowExtendSelection">
-      <i c="2" l="1695120590957" />
+      <i c="3" l="1695205646050" />
     </e>
     <e n="Table-selectPreviousColumn">
       <i c="1" l="1695120590353" />
@@ -295,13 +298,13 @@
       <i c="8" l="1695155643394" />
     </e>
     <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$ApplyAction">
-      <i c="21" l="1695157805920" />
+      <i c="23" l="1695205663767" />
     </e>
     <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$2">
       <i c="2" l="1695122822196" />
     </e>
     <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$3">
-      <i c="7" l="1695204738277" />
+      <i c="10" l="1695205701385" />
     </e>
     <e n="com.intellij.execution.ExecutorRegistryImpl$RunSpecifiedConfigExecutorAction">
       <i c="1" l="1695046277287" />
@@ -337,7 +340,7 @@
       <i c="2" l="1695199941444" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="216" l="1695205426920" />
+      <i c="218" l="1695205720369" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="205" l="1695205235813" />
@@ -352,7 +355,7 @@
       <i c="2" l="1695046391919" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="14" l="1695204581418" />
+      <i c="16" l="1695205713805" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
       <i c="178" l="1695205142935" />

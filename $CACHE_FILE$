@@ -27456,6 +27456,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/axe-core/locales" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/sitemap.xml" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/lodash/fp/sortedIndex.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/tailwindcss/src/postcss-plugins/nesting/README.md" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/is-arrayish/.travis.yml" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/globalthis/implementation.browser.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/dns-equal/.npmignore" charset="utf-8" />
@@ -29766,6 +29767,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/nth-check/lib/esm/compile.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/sucrase/dist/transformers/ReactHotLoaderTransformer.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/minimatch/package.json" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/styles/style-ce9e5f7016.min.css" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/eslint-plugin-testing-library/rules/no-unnecessary-act.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/lower-case/dist" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/lodash/_defineProperty.js" charset="utf-8" />
@@ -31429,6 +31431,7 @@
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/expect/build/jestMatchersObject.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/async/transform.js" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/es-get-iterator/test/node.mjs" charset="utf-8" />
+    <file url="file://$USER_HOME$/work/hiper/hiper-legacy/database/migrations-biper/2023_09_19_224801_adds_discount_table.php" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/@testing-library/user-event/dist/utils/misc/isVisible.d.ts" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/frontend-react-src/node_modules/promise/LICENSE" charset="utf-8" />
     <file url="file://$USER_HOME$/work/hiper/hiper-legacy/projects/Www/public/images/pages/press/press-release-2.jpg" charset="utf-8" />

@@ -6,7 +6,7 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
-    "CommitToolWindow.COMMIT_SPLITTER_PROPORTION": "0.4154863",
+    "CommitToolWindow.COMMIT_SPLITTER_PROPORTION": "0.4164306",
     "FindSplitterProportion": "0.32988167",
     "LAST_CALCULATED_COLOR_INDEX_KEY": "7",
     "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "PS-232.9559.64",
@@ -20,7 +20,7 @@
     "evlsprt3.232": "22",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.9559.64",
-    "file.gist.reindex.count": "431",
+    "file.gist.reindex.count": "432",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "12.0",
     "fontSizeToResetEditor": "15.0",

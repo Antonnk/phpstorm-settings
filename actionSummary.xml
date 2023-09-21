@@ -49,7 +49,7 @@
       <i c="1" l="1695129057235" />
     </e>
     <e n="Console.TableResult.CloneRow">
-      <i c="4" l="1695217341092" />
+      <i c="5" l="1695292622344" />
     </e>
     <e n="Console.TableResult.ColumnsList">
       <i c="1" l="1695207348966" />
@@ -67,7 +67,7 @@
       <i c="28" l="1695207350982" />
     </e>
     <e n="Console.TableResult.Submit">
-      <i c="25" l="1695292508335" />
+      <i c="26" l="1695292630727" />
     </e>
     <e n="Console.TableResult.Transpose">
       <i c="17" l="1695207223899" />
@@ -88,7 +88,7 @@
       <i c="27" l="1695217156368" />
     </e>
     <e n="EditorBackSpace">
-      <i c="3563" l="1695292534544" />
+      <i c="3564" l="1695292628871" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="291" l="1695217038013" />
@@ -334,7 +334,7 @@
       <i c="3" l="1695292446188" />
     </e>
     <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$3">
-      <i c="18" l="1695292504232" />
+      <i c="20" l="1695292627361" />
     </e>
     <e n="com.intellij.execution.ExecutorRegistryImpl$RunSpecifiedConfigExecutorAction">
       <i c="1" l="1695046277287" />

@@ -10,7 +10,7 @@
       <i c="21" l="1695628244520" />
     </e>
     <e n="$Undo">
-      <i c="910" l="1695641390412" />
+      <i c="915" l="1695642556385" />
     </e>
     <e n="ActivateBookmarksToolWindow">
       <i c="1" l="1695306759296" />
@@ -88,7 +88,7 @@
       <i c="1" l="1695387701175" />
     </e>
     <e n="Console.TableResult.Reload">
-      <i c="113" l="1695641301062" />
+      <i c="115" l="1695642598060" />
     </e>
     <e n="Console.TableResult.Submit">
       <i c="38" l="1695640505119" />
@@ -112,7 +112,7 @@
       <i c="28" l="1695310773278" />
     </e>
     <e n="EditorBackSpace">
-      <i c="5218" l="1695641396096" />
+      <i c="5235" l="1695642587085" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="423" l="1695641291816" />
@@ -121,25 +121,25 @@
       <i c="4" l="1695213259813" />
     </e>
     <e n="EditorCopy">
-      <i c="845" l="1695640546449" />
+      <i c="852" l="1695642567928" />
     </e>
     <e n="EditorCut">
       <i c="1" l="1695209566570" />
     </e>
     <e n="EditorDeleteToLineStart">
-      <i c="251" l="1695640169550" />
+      <i c="254" l="1695642586942" />
     </e>
     <e n="EditorDown">
-      <i c="1843" l="1695641045058" />
+      <i c="1845" l="1695642560193" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="287" l="1695640186307" />
+      <i c="297" l="1695642585757" />
     </e>
     <e n="EditorDuplicate">
       <i c="1" l="1695636341368" />
     </e>
     <e n="EditorEnter">
-      <i c="464" l="1695641276384" />
+      <i c="469" l="1695642574125" />
     </e>
     <e n="EditorEscape">
       <i c="52" l="1695640159244" />
@@ -151,22 +151,22 @@
       <i c="1" l="1695025513179" />
     </e>
     <e n="EditorLeft">
-      <i c="3034" l="1695641282208" />
+      <i c="3036" l="1695642543582" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="794" l="1695640165787" />
     </e>
     <e n="EditorLineEnd">
-      <i c="516" l="1695641397009" />
+      <i c="518" l="1695642560432" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="198" l="1695640210910" />
+      <i c="202" l="1695642585981" />
     </e>
     <e n="EditorLineStart">
-      <i c="288" l="1695641385328" />
+      <i c="293" l="1695642585165" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="194" l="1695640181888" />
+      <i c="195" l="1695642567018" />
     </e>
     <e n="EditorNextWord">
       <i c="8" l="1695631360040" />
@@ -175,7 +175,7 @@
       <i c="2" l="1695389859357" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="629" l="1695640214516" />
+      <i c="632" l="1695642574258" />
     </e>
     <e n="EditorPreviousWord">
       <i c="5" l="1695631360369" />
@@ -190,16 +190,16 @@
       <i c="8" l="1695641389032" />
     </e>
     <e n="EditorTab">
-      <i c="117" l="1695639907954" />
+      <i c="121" l="1695642561222" />
     </e>
     <e n="EditorTextEnd">
-      <i c="22" l="1695640454510" />
+      <i c="24" l="1695642583015" />
     </e>
     <e n="EditorTextStart">
       <i c="19" l="1695638606537" />
     </e>
     <e n="EditorUp">
-      <i c="998" l="1695641385114" />
+      <i c="1000" l="1695642584847" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="297" l="1695640179846" />
@@ -211,7 +211,7 @@
       <i c="30" l="1695378374438" />
     </e>
     <e n="Find">
-      <i c="54" l="1695629079493" />
+      <i c="55" l="1695642459183" />
     </e>
     <e n="FindInPath">
       <i c="109" l="1695640546729" />
@@ -223,22 +223,22 @@
       <i c="1" l="1695203440532" />
     </e>
     <e n="GoToTab1">
-      <i c="92" l="1695641326054" />
+      <i c="95" l="1695642473931" />
     </e>
     <e n="GoToTab2">
-      <i c="60" l="1695641326678" />
+      <i c="62" l="1695642337778" />
     </e>
     <e n="GoToTab3">
-      <i c="11" l="1695295761369" />
+      <i c="12" l="1695642337453" />
     </e>
     <e n="GoToTab4">
       <i c="1" l="1695295761606" />
     </e>
     <e n="GotoAction">
-      <i c="12" l="1695640186692" />
+      <i c="13" l="1695642551371" />
     </e>
     <e n="GotoDeclaration">
-      <i c="385" l="1695640781992" />
+      <i c="390" l="1695642492751" />
     </e>
     <e n="GotoSymbol">
       <i c="3" l="1695209172820" />
@@ -289,7 +289,7 @@
       <i c="1" l="1694428858038" />
     </e>
     <e n="ReformatCode">
-      <i c="10" d="10" l="1695640187443" k="1695640187443" />
+      <i c="11" d="11" l="1695642554472" k="1695642554472" />
     </e>
     <e n="RenameElement">
       <i c="4" l="1695210658237" />
@@ -301,16 +301,16 @@
       <i c="2" l="1695046284549" />
     </e>
     <e n="SaveAll">
-      <i c="1226" l="1695641397279" />
+      <i c="1232" l="1695642587275" />
     </e>
     <e n="SearchEverywhere">
-      <i c="176" l="1695639972630" />
+      <i c="177" l="1695642351657" />
     </e>
     <e n="SelectInProjectView">
       <i c="17" l="1695212452010" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="441" l="1695641386070" />
+      <i c="455" l="1695642563211" />
     </e>
     <e n="SettingsEntryPoint">
       <i c="3" l="1695290900224" />
@@ -402,6 +402,9 @@
     <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
       <i c="93" l="1695629071101" />
     </e>
+    <e n="com.intellij.find.editorHeaderActions.SwitchToFind">
+      <i c="1" l="1695642474291" />
+    </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="66" l="1695640550505" />
     </e>
@@ -424,7 +427,7 @@
       <i c="364" l="1695638719176" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="281" l="1695640439088" />
+      <i c="283" l="1695642554457" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="11" l="1695640017916" />
@@ -445,7 +448,7 @@
       <i c="26" l="1695388340080" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
-      <i c="375" l="1695387358801" />
+      <i c="385" l="1695642353655" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveEndAction">
       <i c="1" l="1694505764764" />

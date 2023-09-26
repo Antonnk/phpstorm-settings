@@ -367,7 +367,7 @@
       <i c="721" l="1695715156298" />
     </e>
     <e n="Tree-selectParent">
-      <i c="146" l="1695715152423" />
+      <i c="147" l="1695730359744" />
     </e>
     <e n="Tree-selectPrevious">
       <i c="652" l="1695715157975" />
@@ -439,7 +439,7 @@
       <i c="5" l="1695385276117" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="411" l="1695726355640" />
+      <i c="418" l="1695730533446" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="299" l="1695726358536" />

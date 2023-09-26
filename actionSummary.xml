@@ -43,7 +43,7 @@
       <i c="1" l="1695046324123" />
     </e>
     <e n="CloseContent">
-      <i c="9" l="1695714861394" />
+      <i c="10" l="1695726355234" />
     </e>
     <e n="CollapseRegion">
       <i c="1" l="1695132336152" />
@@ -67,7 +67,7 @@
       <i c="1" l="1695129057235" />
     </e>
     <e n="Console.TableResult.CloneRow">
-      <i c="13" l="1695647219895" />
+      <i c="14" l="1695726699283" />
     </e>
     <e n="Console.TableResult.ColumnsList">
       <i c="2" l="1695640018515" />
@@ -94,7 +94,7 @@
       <i c="118" l="1695648864455" />
     </e>
     <e n="Console.TableResult.Submit">
-      <i c="41" l="1695647226224" />
+      <i c="43" l="1695726700421" />
     </e>
     <e n="Console.TableResult.Transpose">
       <i c="22" l="1695634797871" />
@@ -115,7 +115,7 @@
       <i c="28" l="1695310773278" />
     </e>
     <e n="EditorBackSpace">
-      <i c="5472" l="1695715906197" />
+      <i c="5478" l="1695726640708" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="432" l="1695715416117" />
@@ -187,7 +187,7 @@
       <i c="1" l="1695645845680" />
     </e>
     <e n="EditorRight">
-      <i c="2138" l="1695715629752" />
+      <i c="2141" l="1695726366649" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="1006" l="1695715716564" />
@@ -217,7 +217,7 @@
       <i c="33" l="1695647247227" />
     </e>
     <e n="Find">
-      <i c="56" l="1695715759487" />
+      <i c="57" l="1695726360022" />
     </e>
     <e n="FindInPath">
       <i c="118" l="1695715809005" />
@@ -313,10 +313,10 @@
       <i c="2" l="1695046284549" />
     </e>
     <e n="SaveAll">
-      <i c="1312" l="1695715839228" />
+      <i c="1313" l="1695726369545" />
     </e>
     <e n="SearchEverywhere">
-      <i c="186" l="1695715806541" />
+      <i c="188" l="1695726356291" />
     </e>
     <e n="SelectInProjectView">
       <i c="21" l="1695715828095" />
@@ -439,10 +439,10 @@
       <i c="5" l="1695385276117" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="409" l="1695715868373" />
+      <i c="411" l="1695726355640" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="297" l="1695715817508" />
+      <i c="299" l="1695726358536" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="11" l="1695640017916" />
@@ -466,7 +466,7 @@
       <i c="1" l="1695714839492" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
-      <i c="405" l="1695715166668" />
+      <i c="407" l="1695726358264" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveEndAction">
       <i c="1" l="1694505764764" />

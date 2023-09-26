@@ -10,7 +10,7 @@
       <i c="23" l="1695712236700" />
     </e>
     <e n="$Undo">
-      <i c="954" l="1695715793611" />
+      <i c="955" l="1695715889016" />
     </e>
     <e n="ActivateBookmarksToolWindow">
       <i c="1" l="1695306759296" />
@@ -37,7 +37,7 @@
       <i c="4" l="1695387004224" />
     </e>
     <e n="CheckinProject">
-      <i c="31" l="1695714881679" />
+      <i c="32" l="1695715845041" />
     </e>
     <e n="ChooseRunConfiguration">
       <i c="1" l="1695046324123" />
@@ -115,7 +115,7 @@
       <i c="28" l="1695310773278" />
     </e>
     <e n="EditorBackSpace">
-      <i c="5435" l="1695715838687" />
+      <i c="5472" l="1695715906197" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="432" l="1695715416117" />
@@ -178,7 +178,7 @@
       <i c="2" l="1695389859357" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="679" l="1695715737959" />
+      <i c="681" l="1695715892239" />
     </e>
     <e n="EditorPreviousWord">
       <i c="5" l="1695631360369" />
@@ -232,10 +232,10 @@
       <i c="1" l="1695203440532" />
     </e>
     <e n="GoToTab1">
-      <i c="105" l="1695715777418" />
+      <i c="106" l="1695715841982" />
     </e>
     <e n="GoToTab2">
-      <i c="65" l="1695648231205" />
+      <i c="66" l="1695715840443" />
     </e>
     <e n="GoToTab3">
       <i c="13" l="1695645698304" />
@@ -439,7 +439,7 @@
       <i c="5" l="1695385276117" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="408" l="1695715836293" />
+      <i c="409" l="1695715868373" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="297" l="1695715817508" />

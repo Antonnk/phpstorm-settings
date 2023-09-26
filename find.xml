@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.php,*.sql, *.scss, *.css, *.sql, Dockerfile" />
+    <option name="FILE_MASK" value="*.php,*.sql, *.scss, *.css, *.sql, Dockerfile, *.ts, *.tsx, *.yml" />
     <mask>php</mask>
     <mask>!*log</mask>
     <mask>!*log,!*.css,!*.scss,!*.map</mask>
@@ -22,5 +22,7 @@
     <mask>*.tsx, *.php, *.tpl, *.js, *.scss</mask>
     <mask>*.php,*.sql, *.scss, *.css, *.sql</mask>
     <mask>*.php,*.sql, *.scss, *.css, *.sql, Dockerfile</mask>
+    <mask>*.php,*.sql, *.scss, *.css, *.sql, Dockerfile, *.ts, *.tsx,</mask>
+    <mask>*.php,*.sql, *.scss, *.css, *.sql, Dockerfile, *.ts, *.tsx, *.yml</mask>
   </component>
 </application>

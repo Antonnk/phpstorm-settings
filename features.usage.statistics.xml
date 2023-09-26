@@ -21,20 +21,20 @@
     <feature id="editing.reformat.code" count="11" last-shown="0" last-used="1695642554474" shown-count="0" />
     <feature id="editing.completion.show.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.copy.line" count="30" last-shown="0" last-used="1695649386178" shown-count="0" />
-    <feature id="navigation.find.in.files" count="118" last-shown="0" last-used="1695715809042" shown-count="0" />
+    <feature id="navigation.find.in.files" count="127" last-shown="0" last-used="1695735908080" shown-count="0" />
     <feature id="db.copy.table" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.hide.tool.window" count="26" last-shown="0" last-used="1695388340085" shown-count="0" />
+    <feature id="ui.hide.tool.window" count="28" last-shown="0" last-used="1695735217995" shown-count="0" />
     <feature id="navigation.find.replace.in.files.toggle" count="1" last-shown="0" last-used="1695024949092" shown-count="0" />
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="profiler.open.snapshot" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.comment.line" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="SearchEverywhere" count="192" last-shown="0" last-used="1695732990751" shown-count="0" />
+    <feature id="SearchEverywhere" count="200" last-shown="0" last-used="1695735730846" shown-count="0" />
     <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.inheritance.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.duplicate" count="1" last-shown="0" last-used="1695636341372" shown-count="0" />
     <feature id="editing.copy.reference" count="6" last-shown="0" last-used="1695208157472" shown-count="0" />
     <feature id="codeassists.highlight.throws" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.find" count="57" last-shown="0" last-used="1695726360032" shown-count="0" />
+    <feature id="navigation.find" count="60" last-shown="0" last-used="1695735784041" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.basic" count="432" last-shown="0" last-used="1695715416125" shown-count="0" />
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -79,7 +79,7 @@
     <feature id="codeassists.javadoc.external" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="1" last-shown="0" last-used="1695712166240" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="432" last-shown="0" last-used="1695715784526" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="458" last-shown="0" last-used="1695735793596" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="29" last-shown="0" last-used="1695715147678" shown-count="0" />
     <feature id="editing.join.lines" count="1" last-shown="0" last-used="1695025513205" shown-count="0" />
@@ -89,7 +89,7 @@
     <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.context.actions" count="60" last-shown="0" last-used="1695639760152" shown-count="0" />
     <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.tree.speedsearch" count="51" last-shown="0" last-used="1695730361475" shown-count="0" />
+    <feature id="ui.tree.speedsearch" count="52" last-shown="0" last-used="1695735612877" shown-count="0" />
     <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.replace" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.highlight.return" count="0" last-shown="0" last-used="0" shown-count="0" />

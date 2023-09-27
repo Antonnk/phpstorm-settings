@@ -19,7 +19,7 @@
       <i c="1" l="1695713024403" />
     </e>
     <e n="ActivateDatabaseToolWindow">
-      <i c="14" l="1695808578687" />
+      <i c="15" l="1695816897431" />
     </e>
     <e n="ActivateDebugToolWindow">
       <i c="1" l="1695046391285" />
@@ -340,7 +340,7 @@
       <i c="1346" l="1695801926374" />
     </e>
     <e n="SearchEverywhere">
-      <i c="213" l="1695809305301" />
+      <i c="214" l="1695816896428" />
     </e>
     <e n="SelectInProjectView">
       <i c="21" l="1695715828095" />
@@ -472,7 +472,7 @@
       <i c="498" l="1695816575447" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="340" l="1695809310313" />
+      <i c="341" l="1695816897133" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="11" l="1695640017916" />

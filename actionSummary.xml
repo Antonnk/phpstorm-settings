@@ -25,7 +25,7 @@
       <i c="1" l="1695046391285" />
     </e>
     <e n="ActivateProjectToolWindow">
-      <i c="32" l="1695801619298" />
+      <i c="33" l="1695816576423" />
     </e>
     <e n="ActivateRunToolWindow">
       <i c="1" l="1695046392654" />
@@ -57,6 +57,9 @@
     <e n="Console.File.Resolve.Mode">
       <i c="2" l="1695799852379" />
     </e>
+    <e n="Console.Jdbc.ChooseSession">
+      <i c="1" l="1695813959470" />
+    </e>
     <e n="Console.Jdbc.Execute">
       <i c="74" l="1695810395060" />
     </e>
@@ -80,6 +83,9 @@
     </e>
     <e n="Console.TableResult.CopyColumnName">
       <i c="1" l="1694767621414" />
+    </e>
+    <e n="Console.TableResult.CountRows">
+      <i c="1" l="1695815268738" />
     </e>
     <e n="Console.TableResult.EditValue">
       <i c="1" l="1695220101550" />
@@ -109,10 +115,10 @@
       <i c="45" l="1695738435606" />
     </e>
     <e n="Console.TableResult.Transpose">
-      <i c="27" l="1695810118674" />
+      <i c="29" l="1695815603467" />
     </e>
     <e n="Console.TableResult.ViewAs">
-      <i c="26" l="1695810118014" />
+      <i c="28" l="1695815602860" />
     </e>
     <e n="Console.Toggle.Notebook.Mode">
       <i c="1" l="1695217169504" />
@@ -259,16 +265,19 @@
       <i c="14" l="1695738611247" />
     </e>
     <e n="GotoDeclaration">
-      <i c="501" l="1695810020316" />
+      <i c="502" l="1695815377638" />
     </e>
     <e n="GotoSymbol">
       <i c="3" l="1695209172820" />
     </e>
     <e n="HideAllWindows">
-      <i c="1" l="1695030556852" />
+      <i c="2" l="1695816574627" />
     </e>
     <e n="Jdbc.OpenConsole.Any">
       <i c="3" l="1695810222206" />
+    </e>
+    <e n="Jdbc.OpenEditor.Grid.DDL">
+      <i c="1" l="1695815374649" />
     </e>
     <e n="MoreRunToolbarActions">
       <i c="2" l="1695370452180" />
@@ -355,7 +364,7 @@
       <i c="15" l="1695636718528" />
     </e>
     <e n="Table-selectNextRow">
-      <i c="8" l="1695799897488" />
+      <i c="40" l="1695815286139" />
     </e>
     <e n="Table-selectNextRowExtendSelection">
       <i c="5" l="1695636719445" />
@@ -367,7 +376,7 @@
       <i c="8" l="1695390327166" />
     </e>
     <e n="Table-selectPreviousRow">
-      <i c="17" l="1695799897942" />
+      <i c="41" l="1695815287011" />
     </e>
     <e n="Table-selectPreviousRowExtendSelection">
       <i c="5" l="1695390320279" />
@@ -376,19 +385,19 @@
       <i c="1" l="1694775029063" />
     </e>
     <e n="Tree-selectChild">
-      <i c="202" l="1695809207684" />
+      <i c="208" l="1695815432406" />
     </e>
     <e n="Tree-selectLast">
       <i c="1" l="1695640453456" />
     </e>
     <e n="Tree-selectNext">
-      <i c="794" l="1695809207480" />
+      <i c="800" l="1695815430365" />
     </e>
     <e n="Tree-selectParent">
-      <i c="157" l="1695809206515" />
+      <i c="161" l="1695813967646" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="696" l="1695809205975" />
+      <i c="717" l="1695815429739" />
     </e>
     <e n="Vcs.ShowMessageHistory">
       <i c="2" l="1695382169318" />
@@ -460,7 +469,7 @@
       <i c="6" l="1695799239421" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="482" l="1695810112583" />
+      <i c="498" l="1695816575447" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="340" l="1695809310313" />
@@ -481,7 +490,7 @@
       <i c="2" l="1695046391919" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="31" l="1695809919116" />
+      <i c="32" l="1695813958537" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1695714839492" />

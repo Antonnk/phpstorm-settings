@@ -19,7 +19,7 @@
       <i c="1" l="1695713024403" />
     </e>
     <e n="ActivateDatabaseToolWindow">
-      <i c="13" l="1695738229404" />
+      <i c="14" l="1695808578687" />
     </e>
     <e n="ActivateDebugToolWindow">
       <i c="1" l="1695046391285" />
@@ -31,7 +31,7 @@
       <i c="1" l="1695046392654" />
     </e>
     <e n="Annotate">
-      <i c="6" l="1695799236226" />
+      <i c="8" l="1695808734206" />
     </e>
     <e n="ChangesView.Revert">
       <i c="4" l="1695387004224" />
@@ -55,7 +55,7 @@
       <i c="2" l="1695799852379" />
     </e>
     <e n="Console.Jdbc.Execute">
-      <i c="60" l="1695800119319" />
+      <i c="61" l="1695808656823" />
     </e>
     <e n="Console.TableResult.AddRow">
       <i c="8" l="1695207880716" />
@@ -124,7 +124,7 @@
       <i c="28" l="1695310773278" />
     </e>
     <e n="EditorBackSpace">
-      <i c="5814" l="1695801919092" />
+      <i c="5816" l="1695808929326" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="470" l="1695800112172" />
@@ -133,7 +133,7 @@
       <i c="5" l="1695715310681" />
     </e>
     <e n="EditorCopy">
-      <i c="992" l="1695801633716" />
+      <i c="994" l="1695808858598" />
     </e>
     <e n="EditorCut">
       <i c="1" l="1695209566570" />
@@ -142,7 +142,7 @@
       <i c="278" l="1695801924083" />
     </e>
     <e n="EditorDown">
-      <i c="2052" l="1695801917187" />
+      <i c="2056" l="1695808655412" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="366" l="1695799765739" />
@@ -151,7 +151,7 @@
       <i c="1" l="1695636341368" />
     </e>
     <e n="EditorEnter">
-      <i c="584" l="1695800045545" />
+      <i c="585" l="1695808652469" />
     </e>
     <e n="EditorEscape">
       <i c="69" l="1695801909809" />
@@ -187,7 +187,7 @@
       <i c="2" l="1695389859357" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="723" l="1695801812437" />
+      <i c="724" l="1695808652709" />
     </e>
     <e n="EditorPreviousWord">
       <i c="5" l="1695631360369" />
@@ -256,7 +256,7 @@
       <i c="14" l="1695738611247" />
     </e>
     <e n="GotoDeclaration">
-      <i c="497" l="1695799743780" />
+      <i c="498" l="1695808950536" />
     </e>
     <e n="GotoSymbol">
       <i c="3" l="1695209172820" />
@@ -265,7 +265,7 @@
       <i c="1" l="1695030556852" />
     </e>
     <e n="Jdbc.OpenConsole.Any">
-      <i c="1" l="1695799336463" />
+      <i c="2" l="1695808648393" />
     </e>
     <e n="MoreRunToolbarActions">
       <i c="2" l="1695370452180" />
@@ -328,7 +328,7 @@
       <i c="1346" l="1695801926374" />
     </e>
     <e n="SearchEverywhere">
-      <i c="210" l="1695801904405" />
+      <i c="211" l="1695808924704" />
     </e>
     <e n="SelectInProjectView">
       <i c="21" l="1695715828095" />
@@ -382,7 +382,7 @@
       <i c="788" l="1695801626306" />
     </e>
     <e n="Tree-selectParent">
-      <i c="153" l="1695801624535" />
+      <i c="154" l="1695808797679" />
     </e>
     <e n="Tree-selectPrevious">
       <i c="680" l="1695801625266" />
@@ -457,10 +457,10 @@
       <i c="6" l="1695799239421" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="473" l="1695801771141" />
+      <i c="475" l="1695808786022" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="336" l="1695801905032" />
+      <i c="337" l="1695808949491" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="11" l="1695640017916" />
@@ -484,13 +484,13 @@
       <i c="1" l="1695714839492" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
-      <i c="452" l="1695738475329" />
+      <i c="489" l="1695808948747" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveEndAction">
       <i c="1" l="1694505764764" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
-      <i c="111" l="1695738475774" />
+      <i c="121" l="1695808948300" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="1961" l="1695799226853" />

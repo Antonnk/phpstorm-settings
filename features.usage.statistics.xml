@@ -23,18 +23,18 @@
     <feature id="editing.copy.line" count="32" last-shown="0" last-used="1695820475315" shown-count="0" />
     <feature id="navigation.find.in.files" count="133" last-shown="0" last-used="1695820044061" shown-count="0" />
     <feature id="db.copy.table" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.hide.tool.window" count="33" last-shown="0" last-used="1695820029992" shown-count="0" />
+    <feature id="ui.hide.tool.window" count="35" last-shown="0" last-used="1695887277468" shown-count="0" />
     <feature id="navigation.find.replace.in.files.toggle" count="1" last-shown="0" last-used="1695024949092" shown-count="0" />
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="profiler.open.snapshot" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.comment.line" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="SearchEverywhere" count="219" last-shown="0" last-used="1695820064278" shown-count="0" />
+    <feature id="SearchEverywhere" count="220" last-shown="0" last-used="1695887269834" shown-count="0" />
     <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.inheritance.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.duplicate" count="1" last-shown="0" last-used="1695636341372" shown-count="0" />
     <feature id="editing.copy.reference" count="6" last-shown="0" last-used="1695208157472" shown-count="0" />
     <feature id="codeassists.highlight.throws" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.find" count="66" last-shown="0" last-used="1695820042768" shown-count="0" />
+    <feature id="navigation.find" count="67" last-shown="0" last-used="1695887278880" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.basic" count="493" last-shown="0" last-used="1695886468894" shown-count="0" />
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />

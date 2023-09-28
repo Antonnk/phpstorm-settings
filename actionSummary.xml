@@ -142,7 +142,7 @@
       <i c="6" l="1695820549119" />
     </e>
     <e n="EditorCopy">
-      <i c="1043" l="1695886610232" />
+      <i c="1044" l="1695886637600" />
     </e>
     <e n="EditorCut">
       <i c="1" l="1695209566570" />
@@ -235,7 +235,7 @@
       <i c="35" l="1695738487869" />
     </e>
     <e n="Find">
-      <i c="66" l="1695820042752" />
+      <i c="67" l="1695887278870" />
     </e>
     <e n="FindInPath">
       <i c="133" l="1695820044019" />
@@ -340,7 +340,7 @@
       <i c="1353" l="1695821077214" />
     </e>
     <e n="SearchEverywhere">
-      <i c="219" l="1695820064255" />
+      <i c="220" l="1695887269761" />
     </e>
     <e n="SelectInProjectView">
       <i c="21" l="1695715828095" />
@@ -472,7 +472,7 @@
       <i c="507" l="1695821083310" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="346" l="1695820070068" />
+      <i c="347" l="1695887272036" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="11" l="1695640017916" />
@@ -490,7 +490,7 @@
       <i c="2" l="1695046391919" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="33" l="1695820029988" />
+      <i c="35" l="1695887277466" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1695714839492" />

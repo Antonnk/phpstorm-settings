@@ -25,7 +25,7 @@
       <i c="1" l="1695046391285" />
     </e>
     <e n="ActivateProjectToolWindow">
-      <i c="34" l="1695885927323" />
+      <i c="35" l="1695887300930" />
     </e>
     <e n="ActivateRunToolWindow">
       <i c="1" l="1695046392654" />
@@ -232,7 +232,7 @@
       <i c="6" l="1695214422574" />
     </e>
     <e n="FileStructurePopup">
-      <i c="35" l="1695738487869" />
+      <i c="40" l="1695887316817" />
     </e>
     <e n="Find">
       <i c="67" l="1695887278870" />
@@ -265,7 +265,7 @@
       <i c="14" l="1695738611247" />
     </e>
     <e n="GotoDeclaration">
-      <i c="514" l="1695886054679" />
+      <i c="516" l="1695887327270" />
     </e>
     <e n="GotoSymbol">
       <i c="3" l="1695209172820" />
@@ -340,10 +340,10 @@
       <i c="1353" l="1695821077214" />
     </e>
     <e n="SearchEverywhere">
-      <i c="220" l="1695887269761" />
+      <i c="221" l="1695887294716" />
     </e>
     <e n="SelectInProjectView">
-      <i c="21" l="1695715828095" />
+      <i c="22" l="1695887302024" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="2674" l="1695886443478" />
@@ -460,7 +460,7 @@
       <i c="1" l="1695024949086" />
     </e>
     <e n="com.intellij.ide.util.FileStructurePopup$NavigateSelectedElementAction">
-      <i c="25" l="1695647250830" />
+      <i c="26" l="1695887298107" />
     </e>
     <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
       <i c="8" l="1695715037701" />
@@ -469,10 +469,10 @@
       <i c="6" l="1695799239421" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="507" l="1695821083310" />
+      <i c="508" l="1695887338605" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="347" l="1695887272036" />
+      <i c="355" l="1695887317324" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="11" l="1695640017916" />

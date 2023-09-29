@@ -81,7 +81,7 @@
     <feature id="codeassists.generate.code" count="1" last-shown="0" last-used="1695712166240" shown-count="0" />
     <feature id="navigation.goto.declaration" count="516" last-shown="0" last-used="1695887327290" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.open.project.tool.window" count="35" last-shown="0" last-used="1695887300941" shown-count="0" />
+    <feature id="ui.open.project.tool.window" count="36" last-shown="0" last-used="1695974065075" shown-count="0" />
     <feature id="editing.join.lines" count="1" last-shown="0" last-used="1695025513205" shown-count="0" />
     <feature id="navigation.goto.implementation" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.inlineVariable" count="0" last-shown="0" last-used="0" shown-count="0" />

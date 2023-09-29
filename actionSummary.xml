@@ -25,7 +25,7 @@
       <i c="1" l="1695046391285" />
     </e>
     <e n="ActivateProjectToolWindow">
-      <i c="35" l="1695887300930" />
+      <i c="36" l="1695974065067" />
     </e>
     <e n="ActivateRunToolWindow">
       <i c="1" l="1695046392654" />
@@ -46,7 +46,7 @@
       <i c="1" l="1695046324123" />
     </e>
     <e n="CloseContent">
-      <i c="11" l="1695800197651" />
+      <i c="12" l="1695974064103" />
     </e>
     <e n="CollapseRegion">
       <i c="1" l="1695132336152" />
@@ -133,7 +133,7 @@
       <i c="28" l="1695310773278" />
     </e>
     <e n="EditorBackSpace">
-      <i c="6057" l="1695886446377" />
+      <i c="6075" l="1695974253320" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="493" l="1695886468880" />
@@ -142,7 +142,7 @@
       <i c="6" l="1695820549119" />
     </e>
     <e n="EditorCopy">
-      <i c="1044" l="1695886637600" />
+      <i c="1050" l="1695974283631" />
     </e>
     <e n="EditorCut">
       <i c="1" l="1695209566570" />
@@ -151,19 +151,19 @@
       <i c="286" l="1695820991305" />
     </e>
     <e n="EditorDown">
-      <i c="2154" l="1695886402759" />
+      <i c="2159" l="1695974254044" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="398" l="1695821075236" />
+      <i c="405" l="1695974247169" />
     </e>
     <e n="EditorDuplicate">
       <i c="1" l="1695636341368" />
     </e>
     <e n="EditorEnter">
-      <i c="657" l="1695886447743" />
+      <i c="678" l="1695974265916" />
     </e>
     <e n="EditorEscape">
-      <i c="73" l="1695886400645" />
+      <i c="74" l="1695974120394" />
     </e>
     <e n="EditorIndentSelection">
       <i c="9" l="1695820559447" />
@@ -172,22 +172,22 @@
       <i c="1" l="1695025513179" />
     </e>
     <e n="EditorLeft">
-      <i c="3238" l="1695886347193" />
+      <i c="3241" l="1695974280312" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="850" l="1695820954568" />
+      <i c="852" l="1695974272721" />
     </e>
     <e n="EditorLineEnd">
-      <i c="593" l="1695886349904" />
+      <i c="596" l="1695974283113" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="233" l="1695820954025" />
+      <i c="235" l="1695974247348" />
     </e>
     <e n="EditorLineStart">
-      <i c="333" l="1695886348658" />
+      <i c="337" l="1695974281700" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="250" l="1695886350177" />
+      <i c="256" l="1695974283387" />
     </e>
     <e n="EditorNextWord">
       <i c="11" l="1695810386083" />
@@ -196,7 +196,7 @@
       <i c="2" l="1695389859357" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="775" l="1695886543637" />
+      <i c="784" l="1695974282081" />
     </e>
     <e n="EditorPreviousWord">
       <i c="5" l="1695631360369" />
@@ -205,10 +205,10 @@
       <i c="1" l="1695645845680" />
     </e>
     <e n="EditorRight">
-      <i c="2246" l="1695885983833" />
+      <i c="2258" l="1695974272169" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="1130" l="1695886347492" />
+      <i c="1136" l="1695974280678" />
     </e>
     <e n="EditorSplitLine">
       <i c="8" l="1695641389032" />
@@ -223,10 +223,10 @@
       <i c="29" l="1695820989391" />
     </e>
     <e n="EditorUp">
-      <i c="1184" l="1695886448009" />
+      <i c="1186" l="1695974242470" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="317" l="1695886220595" />
+      <i c="326" l="1695974242856" />
     </e>
     <e n="ExpandLiveTemplateByTab">
       <i c="6" l="1695214422574" />
@@ -346,7 +346,7 @@
       <i c="22" l="1695887302024" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="2674" l="1695886443478" />
+      <i c="2910" l="1695974280040" />
     </e>
     <e n="SettingsEntryPoint">
       <i c="3" l="1695290900224" />
@@ -469,7 +469,7 @@
       <i c="6" l="1695799239421" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="508" l="1695887338605" />
+      <i c="514" l="1695974064067" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="355" l="1695887317324" />

@@ -19,7 +19,7 @@
       <i c="1" l="1695713024403" />
     </e>
     <e n="ActivateDatabaseToolWindow">
-      <i c="16" l="1695886454982" />
+      <i c="17" l="1695994474523" />
     </e>
     <e n="ActivateDebugToolWindow">
       <i c="1" l="1695046391285" />
@@ -133,10 +133,10 @@
       <i c="28" l="1695310773278" />
     </e>
     <e n="EditorBackSpace">
-      <i c="6086" l="1695975747195" />
+      <i c="6088" l="1695994488756" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="493" l="1695886468880" />
+      <i c="495" l="1695994503507" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="6" l="1695820549119" />
@@ -196,7 +196,7 @@
       <i c="2" l="1695389859357" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="790" l="1695975733644" />
+      <i c="792" l="1695994503915" />
     </e>
     <e n="EditorPreviousWord">
       <i c="5" l="1695631360369" />
@@ -340,7 +340,7 @@
       <i c="1353" l="1695821077214" />
     </e>
     <e n="SearchEverywhere">
-      <i c="221" l="1695887294716" />
+      <i c="222" l="1695994473056" />
     </e>
     <e n="SelectInProjectView">
       <i c="22" l="1695887302024" />
@@ -385,19 +385,19 @@
       <i c="1" l="1694775029063" />
     </e>
     <e n="Tree-selectChild">
-      <i c="212" l="1695886463293" />
+      <i c="219" l="1695994498881" />
     </e>
     <e n="Tree-selectLast">
       <i c="1" l="1695640453456" />
     </e>
     <e n="Tree-selectNext">
-      <i c="852" l="1695886463060" />
+      <i c="885" l="1695994498681" />
     </e>
     <e n="Tree-selectParent">
-      <i c="163" l="1695886460343" />
+      <i c="165" l="1695994493919" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="723" l="1695886462524" />
+      <i c="735" l="1695994493746" />
     </e>
     <e n="Vcs.ShowMessageHistory">
       <i c="2" l="1695382169318" />
@@ -418,7 +418,7 @@
       <i c="8" l="1695627219623" />
     </e>
     <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$ApplyAction">
-      <i c="89" l="1695886544316" />
+      <i c="91" l="1695994504147" />
     </e>
     <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$2">
       <i c="5" l="1695647224874" />
@@ -472,7 +472,7 @@
       <i c="514" l="1695974064067" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="355" l="1695887317324" />
+      <i c="356" l="1695994473932" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="11" l="1695640017916" />

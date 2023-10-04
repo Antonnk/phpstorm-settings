@@ -256,10 +256,10 @@
       <i c="1" l="1695203440532" />
     </e>
     <e n="GoToTab1">
-      <i c="123" l="1696326905640" />
+      <i c="124" l="1696417460820" />
     </e>
     <e n="GoToTab2">
-      <i c="80" l="1696326826665" />
+      <i c="81" l="1696417461426" />
     </e>
     <e n="GoToTab3">
       <i c="20" l="1696326826330" />
@@ -478,7 +478,7 @@
       <i c="6" l="1695799239421" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="539" l="1696328376298" />
+      <i c="540" l="1696414534769" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="367" l="1696327542803" />

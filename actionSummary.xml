@@ -7,10 +7,10 @@
       <i c="6" l="1695715790147" />
     </e>
     <e n="$SelectAll">
-      <i c="30" l="1696328225766" />
+      <i c="31" l="1696406157157" />
     </e>
     <e n="$Undo">
-      <i c="1027" l="1696328284141" />
+      <i c="1028" l="1696406156308" />
     </e>
     <e n="ActivateBookmarksToolWindow">
       <i c="1" l="1695306759296" />
@@ -25,7 +25,7 @@
       <i c="1" l="1695046391285" />
     </e>
     <e n="ActivateProjectToolWindow">
-      <i c="38" l="1696326674730" />
+      <i c="39" l="1696406149565" />
     </e>
     <e n="ActivateRunToolWindow">
       <i c="1" l="1695046392654" />
@@ -136,7 +136,7 @@
       <i c="28" l="1695310773278" />
     </e>
     <e n="EditorBackSpace">
-      <i c="6440" l="1696328371229" />
+      <i c="6479" l="1696406461688" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="556" l="1696328273648" />
@@ -145,7 +145,7 @@
       <i c="7" l="1696322480242" />
     </e>
     <e n="EditorCopy">
-      <i c="1115" l="1696328294593" />
+      <i c="1122" l="1696406462761" />
     </e>
     <e n="EditorCut">
       <i c="1" l="1695209566570" />
@@ -163,10 +163,10 @@
       <i c="1" l="1695636341368" />
     </e>
     <e n="EditorEnter">
-      <i c="766" l="1696328224031" />
+      <i c="773" l="1696406447064" />
     </e>
     <e n="EditorEscape">
-      <i c="83" l="1696328226370" />
+      <i c="87" l="1696406445991" />
     </e>
     <e n="EditorIndentSelection">
       <i c="9" l="1695820559447" />
@@ -175,22 +175,22 @@
       <i c="2" l="1696325658376" />
     </e>
     <e n="EditorLeft">
-      <i c="3491" l="1696328293130" />
+      <i c="3498" l="1696406452196" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="899" l="1696328294265" />
     </e>
     <e n="EditorLineEnd">
-      <i c="663" l="1696328298298" />
+      <i c="669" l="1696406462295" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="254" l="1696328293351" />
     </e>
     <e n="EditorLineStart">
-      <i c="377" l="1696327745727" />
+      <i c="380" l="1696406453274" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="269" l="1696327643961" />
+      <i c="275" l="1696406462558" />
     </e>
     <e n="EditorNextWord">
       <i c="11" l="1695810386083" />
@@ -199,7 +199,7 @@
       <i c="2" l="1695389859357" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="838" l="1696328295989" />
+      <i c="844" l="1696406447228" />
     </e>
     <e n="EditorPreviousWord">
       <i c="5" l="1695631360369" />
@@ -211,10 +211,10 @@
       <i c="1" l="1695645845680" />
     </e>
     <e n="EditorRight">
-      <i c="2532" l="1696328131451" />
+      <i c="2534" l="1696406168681" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="1180" l="1696327223589" />
+      <i c="1184" l="1696406452415" />
     </e>
     <e n="EditorSplitLine">
       <i c="10" l="1696328224454" />
@@ -223,7 +223,7 @@
       <i c="128" l="1696327767800" />
     </e>
     <e n="EditorTextEnd">
-      <i c="47" l="1696322809838" />
+      <i c="50" l="1696406446306" />
     </e>
     <e n="EditorTextStart">
       <i c="31" l="1696326784703" />
@@ -247,7 +247,7 @@
       <i c="136" l="1696326992615" />
     </e>
     <e n="Generate">
-      <i c="1" l="1695712166193" />
+      <i c="2" l="1696406147716" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="15" l="1696328378098" />
@@ -295,13 +295,13 @@
       <i c="2" l="1695210496191" />
     </e>
     <e n="NewElement">
-      <i c="17" l="1696326720680" />
+      <i c="18" l="1696406150795" />
     </e>
     <e n="NewFile">
       <i c="2" l="1696319190238" />
     </e>
     <e n="NewScratchFile">
-      <i c="3" l="1696319197019" />
+      <i c="4" l="1696406151873" />
     </e>
     <e n="NewTypeScriptFile">
       <i c="1" l="1694505937402" />
@@ -352,7 +352,7 @@
       <i c="23" l="1696326699875" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="3571" l="1696327755358" />
+      <i c="3938" l="1696406452059" />
     </e>
     <e n="SettingsEntryPoint">
       <i c="3" l="1695290900224" />
@@ -496,7 +496,7 @@
       <i c="2" l="1695046391919" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="36" l="1696326683284" />
+      <i c="37" l="1696406124604" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1695714839492" />

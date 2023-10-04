@@ -285,6 +285,9 @@
     <e n="Jdbc.OpenEditor.Grid.DDL">
       <i c="1" l="1695815374649" />
     </e>
+    <e n="Markdown.Layout.EditorAndPreview">
+      <i c="2" l="1696414521950" />
+    </e>
     <e n="MoreRunToolbarActions">
       <i c="2" l="1695370452180" />
     </e>

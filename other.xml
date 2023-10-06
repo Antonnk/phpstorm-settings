@@ -13,7 +13,7 @@
     "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "PS-232.9559.64",
     "MemberChooser.showClasses": "true",
     "PhpStorm.InitialConfiguration": "true",
-    "SettingsSearchHistory": "phpun\nxde",
+    "SettingsSearchHistory": "Align key-value pairs\narray alignment\narray ali\nphpun\nxde",
     "SqlStructureView.filterD.file.structure.state": "true",
     "TextEditorWithPreview.SplitterProportionKey": "0.85",
     "appcds.runOnSecondStart": "PS-232.9559.64-cc34630cd5fd15535315d4b5dff217459edaa9037b95fce968246d4f070d0fed",
@@ -34,6 +34,7 @@
     "migrated.non.roamable.values.from.general.settings": "true",
     "previousColorScheme": "GitHub (Material) - Anton",
     "registry.to.advanced.settings.migration.build": "PS-232.9559.64",
+    "settings.code.style.selected.tab.PHP": "Wrapping and Braces",
     "tasks.pass.word.conversion.enforced": "true",
     "ts.lib.d.ts.version": "5.1.3"
   },

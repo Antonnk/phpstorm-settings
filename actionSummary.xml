@@ -25,7 +25,7 @@
       <i c="1" l="1695046391285" />
     </e>
     <e n="ActivateProjectToolWindow">
-      <i c="50" l="1696497827524" />
+      <i c="52" l="1696575856044" />
     </e>
     <e n="ActivateRunToolWindow">
       <i c="1" l="1695046392654" />
@@ -286,13 +286,13 @@
       <i c="19" l="1696503992784" />
     </e>
     <e n="GotoDeclaration">
-      <i c="805" l="1696506716912" />
+      <i c="815" l="1696575990201" />
     </e>
     <e n="GotoFile">
       <i c="3" l="1696505865560" />
     </e>
     <e n="GotoSymbol">
-      <i c="4" l="1696432416932" />
+      <i c="5" l="1696575857487" />
     </e>
     <e n="HideAllWindows">
       <i c="2" l="1695816574627" />
@@ -370,7 +370,7 @@
       <i c="1564" l="1696506892555" />
     </e>
     <e n="SearchEverywhere">
-      <i c="271" l="1696505890791" />
+      <i c="272" l="1696575850265" />
     </e>
     <e n="SelectInProjectView">
       <i c="29" l="1696431504892" />
@@ -514,7 +514,7 @@
       <i c="709" l="1696505970660" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="436" l="1696505897792" />
+      <i c="438" l="1696575863294" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="13" l="1696432419936" />

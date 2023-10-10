@@ -136,7 +136,7 @@
       <i c="1" l="1695216977921" />
     </e>
     <e n="CopyReference">
-      <i c="6" l="1695208157454" />
+      <i c="7" l="1696936456677" />
     </e>
     <e n="CopyReferencePopupGroup">
       <i c="1" l="1696429259804" />
@@ -148,7 +148,7 @@
       <i c="1" l="1696429251195" />
     </e>
     <e n="EditorBackSpace">
-      <i c="7608" l="1696926066299" />
+      <i c="7635" l="1696936406825" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="690" l="1696923627144" />
@@ -157,7 +157,7 @@
       <i c="8" l="1696423971186" />
     </e>
     <e n="EditorCopy">
-      <i c="1345" l="1696925491794" />
+      <i c="1353" l="1696936410071" />
     </e>
     <e n="EditorCut">
       <i c="1" l="1695209566570" />
@@ -202,7 +202,7 @@
       <i c="287" l="1696594022897" />
     </e>
     <e n="EditorLineStart">
-      <i c="440" l="1696594021764" />
+      <i c="441" l="1696936404638" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="335" l="1696925491538" />
@@ -259,7 +259,7 @@
       <i c="108" l="1696592226622" />
     </e>
     <e n="FindInPath">
-      <i c="162" l="1696591685055" />
+      <i c="164" l="1696936410363" />
     </e>
     <e n="Generate">
       <i c="3" l="1696411988605" />
@@ -269,6 +269,9 @@
     </e>
     <e n="GitCheckoutAction">
       <i c="1" l="1695203440532" />
+    </e>
+    <e n="GitHub.Copy.Link">
+      <i c="1" l="1696936428900" />
     </e>
     <e n="GoToTab1">
       <i c="133" l="1696593557231" />
@@ -373,7 +376,7 @@
       <i c="1672" l="1696925524064" />
     </e>
     <e n="SearchEverywhere">
-      <i c="290" l="1696926279904" />
+      <i c="293" l="1696936464503" />
     </e>
     <e n="SelectInProjectView">
       <i c="30" l="1696576096173" />
@@ -496,7 +499,7 @@
       <i c="4" l="1696428113140" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="99" l="1696591703505" />
+      <i c="101" l="1696936413721" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
       <i c="16" l="1696422798940" />
@@ -514,10 +517,10 @@
       <i c="7" l="1696423055375" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="770" l="1696928179949" />
+      <i c="771" l="1696936312494" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="466" l="1696926280750" />
+      <i c="468" l="1696936465633" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="13" l="1696432419936" />
@@ -553,10 +556,10 @@
       <i c="220" l="1696593777684" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="2236" l="1696591701721" />
+      <i c="2239" l="1696936412683" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="1066" l="1696591698216" />
+      <i c="1068" l="1696936411924" />
     </e>
     <e n="com.intellij.ui.SpeedSearchBase$MySearchAction">
       <i c="13" l="1696320860791" />

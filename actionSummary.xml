@@ -193,7 +193,7 @@
       <i c="3993" l="1696923049000" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="1152" l="1696594002985" />
+      <i c="1160" l="1696928177029" />
     </e>
     <e n="EditorLineEnd">
       <i c="822" l="1696925172237" />
@@ -217,7 +217,7 @@
       <i c="959" l="1696925538597" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="6" l="1696591927620" />
+      <i c="7" l="1696928172625" />
     </e>
     <e n="EditorPreviousWordWithSelection">
       <i c="1" l="1696326916999" />
@@ -226,7 +226,7 @@
       <i c="1" l="1695645845680" />
     </e>
     <e n="EditorRight">
-      <i c="3137" l="1696925493332" />
+      <i c="3161" l="1696928175975" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="1502" l="1696594002765" />
@@ -514,7 +514,7 @@
       <i c="7" l="1696423055375" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="769" l="1696927785443" />
+      <i c="770" l="1696928179949" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="466" l="1696926280750" />

@@ -43,7 +43,7 @@
       <i c="16" l="1697036416713" />
     </e>
     <e n="CheckinProject">
-      <i c="55" l="1697033776021" />
+      <i c="56" l="1697098092962" />
     </e>
     <e n="ChooseRunConfiguration">
       <i c="1" l="1695046324123" />
@@ -151,7 +151,7 @@
       <i c="1" l="1696429251195" />
     </e>
     <e n="EditorBackSpace">
-      <i c="7955" l="1697098090014" />
+      <i c="7993" l="1697098256018" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="747" l="1697039092070" />
@@ -160,7 +160,7 @@
       <i c="10" l="1697039063094" />
     </e>
     <e n="EditorCopy">
-      <i c="1414" l="1697095859243" />
+      <i c="1418" l="1697098258043" />
     </e>
     <e n="EditorCut">
       <i c="1" l="1695209566570" />
@@ -193,7 +193,7 @@
       <i c="2" l="1696325658376" />
     </e>
     <e n="EditorLeft">
-      <i c="4101" l="1697095867970" />
+      <i c="4102" l="1697098123216" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="1209" l="1697039068522" />
@@ -217,7 +217,7 @@
       <i c="2" l="1695389859357" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="1003" l="1697095860296" />
+      <i c="1008" l="1697098258808" />
     </e>
     <e n="EditorPreviousWord">
       <i c="7" l="1696928172625" />
@@ -229,7 +229,7 @@
       <i c="1" l="1695645845680" />
     </e>
     <e n="EditorRight">
-      <i c="3286" l="1697095862927" />
+      <i c="3287" l="1697098123928" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="1538" l="1697038909007" />
@@ -520,7 +520,7 @@
       <i c="8" l="1697024778822" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="914" l="1697098080407" />
+      <i c="925" l="1697098217112" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="520" l="1697097687899" />

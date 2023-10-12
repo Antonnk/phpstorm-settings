@@ -292,7 +292,7 @@
       <i c="25" l="1696948504909" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1085" l="1697039353898" />
+      <i c="1089" l="1697094389520" />
     </e>
     <e n="GotoFile">
       <i c="3" l="1696505865560" />
@@ -520,7 +520,7 @@
       <i c="8" l="1697024778822" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="888" l="1697039880189" />
+      <i c="892" l="1697094390308" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="513" l="1697039050630" />

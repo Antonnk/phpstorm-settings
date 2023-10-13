@@ -12,7 +12,7 @@
     <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.show.quick.list" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.convert.line.separators" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="db.console.execute" count="74" last-shown="0" last-used="1695810395084" shown-count="0" />
+    <feature id="db.console.execute" count="75" last-shown="0" last-used="1697187548320" shown-count="0" />
     <feature id="navigation.recent.files" count="9" last-shown="0" last-used="1697183323421" shown-count="0" />
     <feature id="scratch" count="5" last-shown="0" last-used="1696412062095" shown-count="0" />
     <feature id="vcs.pull.requests" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -23,7 +23,7 @@
     <feature id="editing.copy.line" count="40" last-shown="0" last-used="1696591650486" shown-count="0" />
     <feature id="navigation.find.in.files" count="181" last-shown="0" last-used="1697118842151" shown-count="0" />
     <feature id="db.copy.table" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.hide.tool.window" count="62" last-shown="0" last-used="1697183523938" shown-count="0" />
+    <feature id="ui.hide.tool.window" count="64" last-shown="0" last-used="1697187606627" shown-count="0" />
     <feature id="navigation.find.replace.in.files.toggle" count="1" last-shown="0" last-used="1695024949092" shown-count="0" />
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="profiler.open.snapshot" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -36,7 +36,7 @@
     <feature id="codeassists.highlight.throws" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.find" count="124" last-shown="0" last-used="1697119359587" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="790" last-shown="0" last-used="1697183484946" shown-count="0" />
+    <feature id="editing.completion.basic" count="797" last-shown="0" last-used="1697187697969" shown-count="0" />
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.locations" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -81,7 +81,7 @@
     <feature id="codeassists.generate.code" count="3" last-shown="0" last-used="1696411988633" shown-count="0" />
     <feature id="navigation.goto.declaration" count="1194" last-shown="0" last-used="1697183917343" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.open.project.tool.window" count="77" last-shown="0" last-used="1697184506444" shown-count="0" />
+    <feature id="ui.open.project.tool.window" count="78" last-shown="0" last-used="1697187494778" shown-count="0" />
     <feature id="editing.join.lines" count="2" last-shown="0" last-used="1696325658445" shown-count="0" />
     <feature id="navigation.goto.implementation" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.inlineVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -119,8 +119,8 @@
     <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.assign.color" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="7690" />
-      <option name="invocations" value="664" />
+      <option name="sparedCharacters" value="7743" />
+      <option name="invocations" value="671" />
       <option name="startDate" value="1694383200000" />
       <option name="dayCount" value="20" />
       <option name="lastDate" value="1697148000000" />

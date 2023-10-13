@@ -19,13 +19,13 @@
       <i c="1" l="1695713024403" />
     </e>
     <e n="ActivateDatabaseToolWindow">
-      <i c="35" l="1697120209339" />
+      <i c="42" l="1697187496967" />
     </e>
     <e n="ActivateDebugToolWindow">
       <i c="1" l="1695046391285" />
     </e>
     <e n="ActivateProjectToolWindow">
-      <i c="77" l="1697184506432" />
+      <i c="78" l="1697187494771" />
     </e>
     <e n="ActivateRunToolWindow">
       <i c="1" l="1695046392654" />
@@ -67,7 +67,7 @@
       <i c="1" l="1695813959470" />
     </e>
     <e n="Console.Jdbc.Execute">
-      <i c="74" l="1695810395060" />
+      <i c="75" l="1697187548296" />
     </e>
     <e n="Console.TableResult.AddRow">
       <i c="8" l="1695207880716" />
@@ -76,7 +76,7 @@
       <i c="1" l="1695636951001" />
     </e>
     <e n="Console.TableResult.ChooseExtractor">
-      <i c="1" l="1695129057235" />
+      <i c="2" l="1697187038866" />
     </e>
     <e n="Console.TableResult.CloneRow">
       <i c="14" l="1695726699283" />
@@ -106,10 +106,10 @@
       <i c="1" l="1695310890547" />
     </e>
     <e n="Console.TableResult.NextPage">
-      <i c="2" l="1695035423729" />
+      <i c="7" l="1697187767505" />
     </e>
     <e n="Console.TableResult.Options">
-      <i c="2" l="1695810203855" />
+      <i c="3" l="1697187488638" />
     </e>
     <e n="Console.TableResult.Reload">
       <i c="124" l="1696319875552" />
@@ -124,10 +124,10 @@
       <i c="1" l="1696319833211" />
     </e>
     <e n="Console.TableResult.Transpose">
-      <i c="31" l="1696427724182" />
+      <i c="33" l="1697187610845" />
     </e>
     <e n="Console.TableResult.ViewAs">
-      <i c="30" l="1696427723736" />
+      <i c="32" l="1697187610217" />
     </e>
     <e n="Console.Toggle.Notebook.Mode">
       <i c="1" l="1695217169504" />
@@ -154,10 +154,10 @@
       <i c="1" l="1696429251195" />
     </e>
     <e n="EditorBackSpace">
-      <i c="8260" l="1697184516649" />
+      <i c="8309" l="1697187698879" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="790" l="1697183484931" />
+      <i c="797" l="1697187697961" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="10" l="1697039063094" />
@@ -172,7 +172,7 @@
       <i c="452" l="1697183464025" />
     </e>
     <e n="EditorDown">
-      <i c="2971" l="1697183515584" />
+      <i c="2983" l="1697187697604" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="630" l="1697120729964" />
@@ -181,7 +181,7 @@
       <i c="1" l="1695636341368" />
     </e>
     <e n="EditorEnter">
-      <i c="1040" l="1697183586203" />
+      <i c="1042" l="1697187526715" />
     </e>
     <e n="EditorEscape">
       <i c="101" l="1697039045184" />
@@ -211,7 +211,7 @@
       <i c="500" l="1697183473696" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="386" l="1697183521684" />
+      <i c="388" l="1697187483635" />
     </e>
     <e n="EditorNextWord">
       <i c="11" l="1695810386083" />
@@ -244,13 +244,13 @@
       <i c="175" l="1697119553932" />
     </e>
     <e n="EditorTextEnd">
-      <i c="60" l="1697183319074" />
+      <i c="61" l="1697187525773" />
     </e>
     <e n="EditorTextStart">
       <i c="40" l="1697183511559" />
     </e>
     <e n="EditorUp">
-      <i c="1686" l="1697183515209" />
+      <i c="1690" l="1697187161630" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="468" l="1697183514370" />
@@ -304,13 +304,16 @@
       <i c="5" l="1696575857487" />
     </e>
     <e n="HideAllWindows">
-      <i c="2" l="1695816574627" />
+      <i c="3" l="1697187486154" />
     </e>
     <e n="Jdbc.OpenConsole.Any">
-      <i c="3" l="1695810222206" />
+      <i c="4" l="1697187522124" />
     </e>
     <e n="Jdbc.OpenEditor.Grid.DDL">
       <i c="1" l="1695815374649" />
+    </e>
+    <e n="JumpToLastChange">
+      <i c="1" l="1697187483740" />
     </e>
     <e n="Markdown.Layout.EditorAndPreview">
       <i c="2" l="1696414521950" />
@@ -430,22 +433,22 @@
       <i c="7" l="1697118241372" />
     </e>
     <e n="Tree-selectChild">
-      <i c="375" l="1697184583804" />
+      <i c="379" l="1697187009360" />
     </e>
     <e n="Tree-selectLast">
       <i c="1" l="1695640453456" />
     </e>
     <e n="Tree-selectNext">
-      <i c="1497" l="1697184584895" />
+      <i c="1499" l="1697187007867" />
     </e>
     <e n="Tree-selectNextExtendSelection">
       <i c="27" l="1697037629121" />
     </e>
     <e n="Tree-selectParent">
-      <i c="293" l="1697120034372" />
+      <i c="298" l="1697187009112" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="1202" l="1697184586173" />
+      <i c="1210" l="1697187009187" />
     </e>
     <e n="Tree-selectPreviousExtendSelection">
       <i c="15" l="1697037626112" />
@@ -469,7 +472,7 @@
       <i c="8" l="1695627219623" />
     </e>
     <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$ApplyAction">
-      <i c="95" l="1696593475004" />
+      <i c="99" l="1697187701800" />
     </e>
     <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$2">
       <i c="5" l="1695647224874" />
@@ -523,7 +526,7 @@
       <i c="8" l="1697024778822" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="977" l="1697184573683" />
+      <i c="983" l="1697187409573" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="537" l="1697184516856" />
@@ -544,7 +547,7 @@
       <i c="2" l="1695046391919" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="62" l="1697183523935" />
+      <i c="64" l="1697187606615" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1695714839492" />

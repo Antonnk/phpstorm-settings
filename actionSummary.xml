@@ -154,7 +154,7 @@
       <i c="1" l="1696429251195" />
     </e>
     <e n="EditorBackSpace">
-      <i c="8309" l="1697187698879" />
+      <i c="8317" l="1697197395445" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="797" l="1697187697961" />
@@ -385,7 +385,7 @@
       <i c="1915" l="1697183474270" />
     </e>
     <e n="SearchEverywhere">
-      <i c="334" l="1697186993882" />
+      <i c="335" l="1697197387809" />
     </e>
     <e n="SelectInProjectView">
       <i c="40" l="1697118227542" />
@@ -529,7 +529,7 @@
       <i c="983" l="1697187409573" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="537" l="1697184516856" />
+      <i c="538" l="1697197400083" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="14" l="1697183326860" />
@@ -556,7 +556,7 @@
       <i c="2" l="1696925470083" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
-      <i c="970" l="1697183326592" />
+      <i c="971" l="1697197396643" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveEndAction">
       <i c="1" l="1694505764764" />

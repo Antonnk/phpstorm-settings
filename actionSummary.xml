@@ -259,13 +259,13 @@
       <i c="6" l="1695214422574" />
     </e>
     <e n="FileStructurePopup">
-      <i c="82" l="1697199484828" />
+      <i c="83" l="1697199957771" />
     </e>
     <e n="Find">
       <i c="128" l="1697199919927" />
     </e>
     <e n="FindInPath">
-      <i c="181" l="1697118842116" />
+      <i c="182" l="1697199931519" />
     </e>
     <e n="Generate">
       <i c="3" l="1696411988605" />
@@ -280,7 +280,7 @@
       <i c="2" l="1696949365917" />
     </e>
     <e n="GoToTab1">
-      <i c="180" l="1697199919496" />
+      <i c="181" l="1697200035093" />
     </e>
     <e n="GoToTab2">
       <i c="120" l="1697199907707" />
@@ -295,7 +295,7 @@
       <i c="28" l="1697199364406" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1203" l="1697199917941" />
+      <i c="1211" l="1697200032145" />
     </e>
     <e n="GotoFile">
       <i c="4" l="1697104352903" />
@@ -517,7 +517,7 @@
       <i c="1" l="1695024949086" />
     </e>
     <e n="com.intellij.ide.util.FileStructurePopup$NavigateSelectedElementAction">
-      <i c="52" l="1697199490405" />
+      <i c="53" l="1697199962384" />
     </e>
     <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
       <i c="9" l="1696591329361" />
@@ -526,10 +526,10 @@
       <i c="8" l="1697024778822" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="991" l="1697199906005" />
+      <i c="992" l="1697199990809" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="539" l="1697199365027" />
+      <i c="540" l="1697199950449" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="14" l="1697183326860" />
@@ -565,7 +565,7 @@
       <i c="234" l="1697183325529" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="2509" l="1697118845239" />
+      <i c="2511" l="1697199933922" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
       <i c="1169" l="1697118846411" />

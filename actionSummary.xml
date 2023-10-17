@@ -154,7 +154,7 @@
       <i c="1" l="1696429251195" />
     </e>
     <e n="EditorBackSpace">
-      <i c="9223" l="1697549676357" />
+      <i c="9225" l="1697550390367" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="905" l="1697548992122" />
@@ -172,7 +172,7 @@
       <i c="479" l="1697547232063" />
     </e>
     <e n="EditorDown">
-      <i c="3473" l="1697548984797" />
+      <i c="3474" l="1697550388131" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="671" l="1697548562723" />
@@ -211,7 +211,7 @@
       <i c="559" l="1697548562258" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="436" l="1697547265378" />
+      <i c="437" l="1697550389861" />
     </e>
     <e n="EditorNextWord">
       <i c="11" l="1695810386083" />
@@ -253,7 +253,7 @@
       <i c="2021" l="1697549401628" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="512" l="1697547264653" />
+      <i c="515" l="1697550388999" />
     </e>
     <e n="ExpandLiveTemplateByTab">
       <i c="6" l="1695214422574" />
@@ -382,7 +382,7 @@
       <i c="17" l="1697543353655" />
     </e>
     <e n="SaveAll">
-      <i c="2025" l="1697549704747" />
+      <i c="2027" l="1697550391164" />
     </e>
     <e n="SearchEverywhere">
       <i c="340" l="1697549675230" />
@@ -529,7 +529,7 @@
       <i c="8" l="1697024778822" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="1029" l="1697548950914" />
+      <i c="1030" l="1697549706790" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="550" l="1697549677930" />

@@ -19,7 +19,7 @@
       <i c="1" l="1695713024403" />
     </e>
     <e n="ActivateDatabaseToolWindow">
-      <i c="42" l="1697187496967" />
+      <i c="43" l="1697525241432" />
     </e>
     <e n="ActivateDebugToolWindow">
       <i c="1" l="1695046391285" />
@@ -154,10 +154,10 @@
       <i c="1" l="1696429251195" />
     </e>
     <e n="EditorBackSpace">
-      <i c="8432" l="1697199926534" />
+      <i c="8444" l="1697525274986" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="811" l="1697199720877" />
+      <i c="813" l="1697525273023" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="10" l="1697039063094" />
@@ -169,7 +169,7 @@
       <i c="1" l="1695209566570" />
     </e>
     <e n="EditorDeleteToLineStart">
-      <i c="460" l="1697199228291" />
+      <i c="461" l="1697525275150" />
     </e>
     <e n="EditorDown">
       <i c="3057" l="1697199895890" />
@@ -265,7 +265,7 @@
       <i c="128" l="1697199919927" />
     </e>
     <e n="FindInPath">
-      <i c="182" l="1697199931519" />
+      <i c="183" l="1697525208220" />
     </e>
     <e n="Generate">
       <i c="3" l="1696411988605" />
@@ -295,7 +295,7 @@
       <i c="28" l="1697199364406" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1211" l="1697200032145" />
+      <i c="1212" l="1697525237094" />
     </e>
     <e n="GotoFile">
       <i c="4" l="1697104352903" />
@@ -433,7 +433,7 @@
       <i c="9" l="1697199725902" />
     </e>
     <e n="Tree-selectChild">
-      <i c="379" l="1697187009360" />
+      <i c="380" l="1697525250654" />
     </e>
     <e n="Tree-selectLast">
       <i c="1" l="1695640453456" />
@@ -472,7 +472,7 @@
       <i c="8" l="1695627219623" />
     </e>
     <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$ApplyAction">
-      <i c="99" l="1697187701800" />
+      <i c="101" l="1697525275385" />
     </e>
     <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$2">
       <i c="5" l="1695647224874" />
@@ -508,10 +508,10 @@
       <i c="4" l="1696428113140" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="108" l="1697097126036" />
+      <i c="109" l="1697525232923" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
-      <i c="18" l="1697118540324" />
+      <i c="19" l="1697525210595" />
     </e>
     <e n="com.intellij.find.impl.FindUIHelper$1">
       <i c="1" l="1695024949086" />
@@ -526,7 +526,7 @@
       <i c="8" l="1697024778822" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="992" l="1697199990809" />
+      <i c="993" l="1697525275987" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="540" l="1697199950449" />
@@ -565,10 +565,10 @@
       <i c="234" l="1697183325529" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="2511" l="1697199933922" />
+      <i c="2517" l="1697525219600" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="1169" l="1697118846411" />
+      <i c="1175" l="1697525231822" />
     </e>
     <e n="com.intellij.ui.SpeedSearchBase$MySearchAction">
       <i c="13" l="1696320860791" />

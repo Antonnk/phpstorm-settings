@@ -25,7 +25,7 @@
       <i c="1" l="1695046391285" />
     </e>
     <e n="ActivateProjectToolWindow">
-      <i c="81" l="1697618291692" />
+      <i c="83" l="1697628004645" />
     </e>
     <e n="ActivateRunToolWindow">
       <i c="1" l="1695046392654" />
@@ -49,7 +49,7 @@
       <i c="1" l="1695046324123" />
     </e>
     <e n="CloseContent">
-      <i c="15" l="1697618050334" />
+      <i c="16" l="1697627642439" />
     </e>
     <e n="CollapseRegion">
       <i c="1" l="1695132336152" />
@@ -154,7 +154,7 @@
       <i c="1" l="1696429251195" />
     </e>
     <e n="EditorBackSpace">
-      <i c="9760" l="1697626674005" />
+      <i c="9769" l="1697628166047" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="967" l="1697626230498" />
@@ -163,7 +163,7 @@
       <i c="12" l="1697623517550" />
     </e>
     <e n="EditorCopy">
-      <i c="1691" l="1697626525762" />
+      <i c="1695" l="1697628568809" />
     </e>
     <e n="EditorCut">
       <i c="1" l="1695209566570" />
@@ -211,7 +211,7 @@
       <i c="591" l="1697626455385" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="455" l="1697626461406" />
+      <i c="456" l="1697627580285" />
     </e>
     <e n="EditorNextWord">
       <i c="11" l="1695810386083" />
@@ -259,10 +259,10 @@
       <i c="6" l="1695214422574" />
     </e>
     <e n="FileStructurePopup">
-      <i c="88" l="1697622500072" />
+      <i c="89" l="1697628595454" />
     </e>
     <e n="Find">
-      <i c="129" l="1697623687723" />
+      <i c="131" l="1697628162324" />
     </e>
     <e n="FindInPath">
       <i c="196" l="1697626382201" />
@@ -280,13 +280,13 @@
       <i c="2" l="1696949365917" />
     </e>
     <e n="GoToTab1">
-      <i c="198" l="1697626472802" />
+      <i c="200" l="1697628357185" />
     </e>
     <e n="GoToTab2">
-      <i c="128" l="1697626111596" />
+      <i c="129" l="1697628354770" />
     </e>
     <e n="GoToTab3">
-      <i c="24" l="1697199608697" />
+      <i c="25" l="1697628354949" />
     </e>
     <e n="GoToTab4">
       <i c="6" l="1696506368849" />
@@ -295,7 +295,7 @@
       <i c="33" l="1697622930624" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1360" l="1697626705310" />
+      <i c="1381" l="1697628538316" />
     </e>
     <e n="GotoFile">
       <i c="4" l="1697104352903" />
@@ -382,16 +382,16 @@
       <i c="23" l="1697626220425" />
     </e>
     <e n="SaveAll">
-      <i c="2116" l="1697626531379" />
+      <i c="2117" l="1697627557966" />
     </e>
     <e n="SearchEverywhere">
-      <i c="368" l="1697626388039" />
+      <i c="371" l="1697628150543" />
     </e>
     <e n="SelectInProjectView">
       <i c="48" l="1697626666557" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="4205" l="1697625657779" />
+      <i c="4209" l="1697628281382" />
     </e>
     <e n="SettingsEntryPoint">
       <i c="4" l="1697626565149" />
@@ -502,10 +502,10 @@
       <i c="2" l="1697094932860" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
-      <i c="60" l="1697623689553" />
+      <i c="61" l="1697628160833" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
-      <i c="354" l="1697199921732" />
+      <i c="356" l="1697628170527" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.SwitchToFind">
       <i c="4" l="1696428113140" />
@@ -520,7 +520,7 @@
       <i c="1" l="1695024949086" />
     </e>
     <e n="com.intellij.ide.util.FileStructurePopup$NavigateSelectedElementAction">
-      <i c="54" l="1697529516460" />
+      <i c="55" l="1697628598574" />
     </e>
     <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
       <i c="9" l="1696591329361" />
@@ -529,10 +529,10 @@
       <i c="9" l="1697618329116" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="1129" l="1697626711244" />
+      <i c="1146" l="1697628355868" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="589" l="1697626388805" />
+      <i c="592" l="1697628154536" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="15" l="1697626309968" />
@@ -562,7 +562,7 @@
       <i c="2" l="1696925470083" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
-      <i c="1125" l="1697625942091" />
+      <i c="1127" l="1697628154202" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveEndAction">
       <i c="1" l="1694505764764" />

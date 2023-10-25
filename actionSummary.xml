@@ -154,7 +154,7 @@
       <i c="1" l="1696429251195" />
     </e>
     <e n="EditorBackSpace">
-      <i c="10819" l="1697802153557" />
+      <i c="10822" l="1698229766028" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1117" l="1697802143077" />
@@ -163,7 +163,7 @@
       <i c="12" l="1697623517550" />
     </e>
     <e n="EditorCopy">
-      <i c="1885" l="1697802146111" />
+      <i c="1891" l="1698229991964" />
     </e>
     <e n="EditorCut">
       <i c="1" l="1695209566570" />
@@ -265,7 +265,7 @@
       <i c="137" l="1697724272722" />
     </e>
     <e n="FindInPath">
-      <i c="201" l="1697719014848" />
+      <i c="203" l="1698229803888" />
     </e>
     <e n="Generate">
       <i c="3" l="1696411988605" />
@@ -295,7 +295,7 @@
       <i c="39" l="1697800795319" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1490" l="1697801497062" />
+      <i c="1491" l="1698229989612" />
     </e>
     <e n="GotoFile">
       <i c="4" l="1697104352903" />
@@ -385,7 +385,7 @@
       <i c="2232" l="1697802151101" />
     </e>
     <e n="SearchEverywhere">
-      <i c="399" l="1697797498198" />
+      <i c="402" l="1698229807654" />
     </e>
     <e n="SelectInProjectView">
       <i c="49" l="1697709463740" />
@@ -511,10 +511,10 @@
       <i c="4" l="1696428113140" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="118" l="1697638695162" />
+      <i c="120" l="1698229806283" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
-      <i c="21" l="1697719016728" />
+      <i c="22" l="1698229764786" />
     </e>
     <e n="com.intellij.find.impl.FindUIHelper$1">
       <i c="1" l="1695024949086" />
@@ -532,7 +532,7 @@
       <i c="1232" l="1698221132435" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="634" l="1697800796056" />
+      <i c="637" l="1698229811417" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="16" l="1697724247645" />
@@ -562,7 +562,7 @@
       <i c="2" l="1696925470083" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
-      <i c="1149" l="1697795977184" />
+      <i c="1165" l="1698229811220" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveEndAction">
       <i c="1" l="1694505764764" />
@@ -571,7 +571,7 @@
       <i c="281" l="1697795976520" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="2612" l="1697719028352" />
+      <i c="2614" l="1698229805547" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
       <i c="1219" l="1697625996025" />

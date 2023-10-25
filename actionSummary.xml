@@ -295,7 +295,7 @@
       <i c="40" l="1698233342289" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1495" l="1698235651196" />
+      <i c="1496" l="1698235713209" />
     </e>
     <e n="GotoFile">
       <i c="4" l="1697104352903" />
@@ -463,7 +463,7 @@
       <i c="2" l="1694415071886" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="27" l="1697626313643" />
+      <i c="28" l="1698235715115" />
     </e>
     <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
       <i c="1" l="1697538361136" />

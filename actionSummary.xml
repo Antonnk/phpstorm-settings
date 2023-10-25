@@ -43,7 +43,7 @@
       <i c="27" l="1697796791678" />
     </e>
     <e n="CheckinProject">
-      <i c="65" l="1697796759730" />
+      <i c="66" l="1697808614035" />
     </e>
     <e n="ChooseRunConfiguration">
       <i c="1" l="1695046324123" />
@@ -529,7 +529,7 @@
       <i c="10" l="1697632702865" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="1227" l="1697799944507" />
+      <i c="1232" l="1698221132435" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="634" l="1697800796056" />
@@ -553,7 +553,7 @@
       <i c="2" l="1695046391919" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="133" l="1697799932493" />
+      <i c="134" l="1698221133552" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="2" l="1697529821716" />

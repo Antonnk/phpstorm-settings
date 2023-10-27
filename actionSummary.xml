@@ -79,7 +79,7 @@
       <i c="2" l="1697187038866" />
     </e>
     <e n="Console.TableResult.CloneRow">
-      <i c="14" l="1695726699283" />
+      <i c="15" l="1698412009420" />
     </e>
     <e n="Console.TableResult.ColumnsList">
       <i c="2" l="1695640018515" />
@@ -114,11 +114,14 @@
     <e n="Console.TableResult.Reload">
       <i c="124" l="1696319875552" />
     </e>
+    <e n="Console.TableResult.SetNull">
+      <i c="3" l="1698412020435" />
+    </e>
     <e n="Console.TableResult.ShowDumpDialogAction">
       <i c="1" l="1695799556839" />
     </e>
     <e n="Console.TableResult.Submit">
-      <i c="50" l="1698242429416" />
+      <i c="52" l="1698412021919" />
     </e>
     <e n="Console.TableResult.SubmitAndCommit">
       <i c="1" l="1696319833211" />
@@ -154,7 +157,7 @@
       <i c="1" l="1696429251195" />
     </e>
     <e n="EditorBackSpace">
-      <i c="10936" l="1698408876144" />
+      <i c="10938" l="1698412018048" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1128" l="1698408883896" />
@@ -283,7 +286,7 @@
       <i c="223" l="1698241937775" />
     </e>
     <e n="GoToTab2">
-      <i c="148" l="1697799945268" />
+      <i c="149" l="1698410425784" />
     </e>
     <e n="GoToTab3">
       <i c="30" l="1697795880621" />
@@ -481,7 +484,7 @@
       <i c="5" l="1695647224874" />
     </e>
     <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$3">
-      <i c="35" l="1698242426862" />
+      <i c="38" l="1698412018245" />
     </e>
     <e n="com.intellij.diff.actions.ProxyUndoRedoAction">
       <i c="2" l="1696426330387" />

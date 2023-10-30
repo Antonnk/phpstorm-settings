@@ -187,7 +187,7 @@
       <i c="1455" l="1698408966975" />
     </e>
     <e n="EditorEscape">
-      <i c="110" l="1698242667059" />
+      <i c="111" l="1698658849976" />
     </e>
     <e n="EditorIncreaseFontSize">
       <i c="1" l="1696426323695" />
@@ -265,7 +265,7 @@
       <i c="98" l="1698235597741" />
     </e>
     <e n="Find">
-      <i c="142" l="1698242195881" />
+      <i c="143" l="1698658847499" />
     </e>
     <e n="FindInPath">
       <i c="204" l="1698235519940" />
@@ -298,7 +298,7 @@
       <i c="40" l="1698233342289" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1496" l="1698235713209" />
+      <i c="1514" l="1698658998090" />
     </e>
     <e n="GotoFile">
       <i c="4" l="1697104352903" />
@@ -466,7 +466,7 @@
       <i c="2" l="1694415071886" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="28" l="1698235715115" />
+      <i c="37" l="1698658989441" />
     </e>
     <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
       <i c="1" l="1697538361136" />
@@ -505,7 +505,10 @@
       <i c="2" l="1697094932860" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
-      <i c="68" l="1698234080016" />
+      <i c="69" l="1698658849599" />
+    </e>
+    <e n="com.intellij.find.SearchTextArea$ClearAction">
+      <i c="1" l="1698658973803" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
       <i c="373" l="1698242202546" />

@@ -7,7 +7,7 @@
     <feature id="editing.completion.finishBySmartEnter" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.symbol" count="7" last-shown="0" last-used="1698740417140" shown-count="0" />
     <feature id="switcher" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.replace" count="12" last-shown="1698743280802" last-used="1697623517564" shown-count="1045" />
+    <feature id="editing.completion.replace" count="12" last-shown="1698762978915" last-used="1697623517564" shown-count="1048" />
     <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.show.quick.list" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -28,7 +28,7 @@
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="profiler.open.snapshot" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.comment.line" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="SearchEverywhere" count="421" last-shown="0" last-used="1698740420289" shown-count="0" />
+    <feature id="SearchEverywhere" count="423" last-shown="0" last-used="1698763222921" shown-count="0" />
     <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.inheritance.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.duplicate" count="1" last-shown="0" last-used="1695636341372" shown-count="0" />
@@ -67,7 +67,7 @@
     <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.show.local.history" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.variable.name" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="vcs.use.integration" count="69" last-shown="0" last-used="1698742790897" shown-count="0" />
+    <feature id="vcs.use.integration" count="70" last-shown="0" last-used="1698762970271" shown-count="0" />
     <feature id="navigation.popup.file" count="4" last-shown="0" last-used="1697104352940" shown-count="0" />
     <feature id="codeassists.overrideimplement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.console.run.intention" count="0" last-shown="0" last-used="0" shown-count="0" />

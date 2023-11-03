@@ -1,13 +1,13 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="6" l="1697636161207" />
+      <i c="8" l="1699015855928" />
     </e>
     <e n="$Delete">
       <i c="12" l="1698743306994" />
     </e>
     <e n="$SelectAll">
-      <i c="40" l="1697702496884" />
+      <i c="41" l="1699015695226" />
     </e>
     <e n="$Undo">
       <i c="1846" l="1699013886027" />
@@ -19,7 +19,7 @@
       <i c="1" l="1695713024403" />
     </e>
     <e n="ActivateDatabaseToolWindow">
-      <i c="58" l="1699015098941" />
+      <i c="59" l="1699015661529" />
     </e>
     <e n="ActivateDebugToolWindow">
       <i c="1" l="1695046391285" />
@@ -138,6 +138,9 @@
     <e n="Console.Toggle.Notebook.Mode">
       <i c="1" l="1695217169504" />
     </e>
+    <e n="Console.Transaction.TxSettings">
+      <i c="1" l="1699015897448" />
+    </e>
     <e n="CopyContentRootPath">
       <i c="1" l="1697184602855" />
     </e>
@@ -160,16 +163,16 @@
       <i c="1" l="1696429251195" />
     </e>
     <e n="EditorBackSpace">
-      <i c="11259" l="1699015490850" />
+      <i c="11263" l="1699015853838" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="1173" l="1699011747376" />
+      <i c="1176" l="1699015701709" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="14" l="1699002982099" />
     </e>
     <e n="EditorCopy">
-      <i c="1967" l="1699011811374" />
+      <i c="1986" l="1699015905238" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1698407046081" />
@@ -226,7 +229,7 @@
       <i c="2" l="1695389859357" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="1408" l="1699011747746" />
+      <i c="1417" l="1699015902538" />
     </e>
     <e n="EditorPreviousWord">
       <i c="7" l="1696928172625" />
@@ -286,16 +289,16 @@
       <i c="2" l="1696949365917" />
     </e>
     <e n="GoToTab1">
-      <i c="241" l="1699013454063" />
+      <i c="242" l="1699015882316" />
     </e>
     <e n="GoToTab2">
-      <i c="154" l="1699011481239" />
+      <i c="155" l="1699015882911" />
     </e>
     <e n="GoToTab3">
-      <i c="33" l="1699011482550" />
+      <i c="34" l="1699015883502" />
     </e>
     <e n="GoToTab4">
-      <i c="7" l="1697712638877" />
+      <i c="8" l="1699015883676" />
     </e>
     <e n="GotoAction">
       <i c="40" l="1698233342289" />
@@ -421,7 +424,7 @@
       <i c="40" l="1695815286139" />
     </e>
     <e n="Table-selectNextRowExtendSelection">
-      <i c="5" l="1695636719445" />
+      <i c="7" l="1699015791425" />
     </e>
     <e n="Table-selectPreviousColumn">
       <i c="11" l="1695738422478" />
@@ -430,10 +433,10 @@
       <i c="8" l="1695390327166" />
     </e>
     <e n="Table-selectPreviousRow">
-      <i c="41" l="1695815287011" />
+      <i c="42" l="1699015668380" />
     </e>
     <e n="Table-selectPreviousRowExtendSelection">
-      <i c="5" l="1695390320279" />
+      <i c="6" l="1699015668956" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="12" l="1697547326468" />
@@ -481,7 +484,7 @@
       <i c="8" l="1695627219623" />
     </e>
     <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$ApplyAction">
-      <i c="117" l="1699011747917" />
+      <i c="128" l="1699015902685" />
     </e>
     <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$2">
       <i c="5" l="1695647224874" />

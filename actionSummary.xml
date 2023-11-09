@@ -61,7 +61,7 @@
       <i c="38" l="1699454929142" />
     </e>
     <e n="CommentByBlockComment">
-      <i c="10" d="10" l="1699270663003" k="1699270663003" />
+      <i c="11" d="11" l="1699523461584" k="1699523461584" />
     </e>
     <e n="Console.File.Resolve.Mode">
       <i c="2" l="1695799852379" />
@@ -166,7 +166,7 @@
       <i c="1" l="1696429251195" />
     </e>
     <e n="EditorBackSpace">
-      <i c="13031" l="1699520988209" />
+      <i c="13035" l="1699523449701" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1378" l="1699520952405" />
@@ -181,10 +181,10 @@
       <i c="3" l="1699520302944" />
     </e>
     <e n="EditorDeleteToLineStart">
-      <i c="685" l="1699520987875" />
+      <i c="689" l="1699523449201" />
     </e>
     <e n="EditorDown">
-      <i c="5747" l="1699520987368" />
+      <i c="5757" l="1699523455787" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="1137" l="1699520453981" />
@@ -214,16 +214,16 @@
       <i c="2024" l="1699520746453" />
     </e>
     <e n="EditorLineEnd">
-      <i c="1545" l="1699520987603" />
+      <i c="1548" l="1699523457640" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="591" l="1699520746252" />
     </e>
     <e n="EditorLineStart">
-      <i c="842" l="1699520754569" />
+      <i c="843" l="1699523449517" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="618" l="1699520964809" />
+      <i c="619" l="1699523459308" />
     </e>
     <e n="EditorNextWord">
       <i c="12" l="1699444041792" />
@@ -262,10 +262,10 @@
       <i c="53" l="1699454422699" />
     </e>
     <e n="EditorUp">
-      <i c="3712" l="1699520975282" />
+      <i c="3724" l="1699523457345" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="933" l="1699520963807" />
+      <i c="937" l="1699523458553" />
     </e>
     <e n="ExpandLiveTemplateByTab">
       <i c="11" l="1699441985070" />
@@ -304,10 +304,10 @@
       <i c="10" l="1699445632580" />
     </e>
     <e n="GotoAction">
-      <i c="53" l="1699451884529" />
+      <i c="54" l="1699523459904" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1785" l="1699520696485" />
+      <i c="1787" l="1699523451047" />
     </e>
     <e n="GotoFile">
       <i c="4" l="1697104352903" />
@@ -397,7 +397,7 @@
       <i c="25" l="1698740503121" />
     </e>
     <e n="SaveAll">
-      <i c="2603" l="1699520988389" />
+      <i c="2605" l="1699523462527" />
     </e>
     <e n="SearchEverywhere">
       <i c="461" l="1699519637002" />
@@ -550,7 +550,7 @@
       <i c="1406" l="1699519776863" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="720" l="1699519638662" />
+      <i c="721" l="1699523461576" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="16" l="1697724247645" />

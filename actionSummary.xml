@@ -286,7 +286,7 @@
       <i c="3" l="1696411988605" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="55" l="1699539553538" />
+      <i c="57" l="1699539614585" />
     </e>
     <e n="GitCheckoutAction">
       <i c="1" l="1695203440532" />
@@ -574,7 +574,7 @@
       <i c="2" l="1695046391919" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="152" l="1699539502992" />
+      <i c="153" l="1699542892421" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="2" l="1697529821716" />

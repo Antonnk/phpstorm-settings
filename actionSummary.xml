@@ -166,16 +166,16 @@
       <i c="1" l="1696429251195" />
     </e>
     <e n="EditorBackSpace">
-      <i c="13384" l="1699532519809" />
+      <i c="13401" l="1699536912379" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="1437" l="1699532506337" />
+      <i c="1438" l="1699536897549" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="16" l="1699441955040" />
     </e>
     <e n="EditorCopy">
-      <i c="2285" l="1699532518056" />
+      <i c="2287" l="1699536907611" />
     </e>
     <e n="EditorCut">
       <i c="3" l="1699520302944" />
@@ -211,13 +211,13 @@
       <i c="2" l="1696325658376" />
     </e>
     <e n="EditorLeft">
-      <i c="8745" l="1699532514970" />
+      <i c="8747" l="1699536892169" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="2128" l="1699532517456" />
     </e>
     <e n="EditorLineEnd">
-      <i c="1598" l="1699532520818" />
+      <i c="1599" l="1699536918041" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="605" l="1699532516806" />
@@ -235,7 +235,7 @@
       <i c="3" l="1699275440609" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="1719" l="1699532521656" />
+      <i c="1722" l="1699536908631" />
     </e>
     <e n="EditorPreviousWord">
       <i c="8" l="1699432688978" />
@@ -247,10 +247,10 @@
       <i c="1" l="1695645845680" />
     </e>
     <e n="EditorRight">
-      <i c="6613" l="1699532518926" />
+      <i c="6627" l="1699536893024" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="3004" l="1699532517817" />
+      <i c="3005" l="1699536897872" />
     </e>
     <e n="EditorSplitLine">
       <i c="34" l="1699526693346" />
@@ -310,7 +310,7 @@
       <i c="57" l="1699526403756" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1816" l="1699531245925" />
+      <i c="1820" l="1699536358378" />
     </e>
     <e n="GotoFile">
       <i c="4" l="1697104352903" />
@@ -400,10 +400,10 @@
       <i c="25" l="1698740503121" />
     </e>
     <e n="SaveAll">
-      <i c="2670" l="1699532522210" />
+      <i c="2674" l="1699536918368" />
     </e>
     <e n="SearchEverywhere">
-      <i c="461" l="1699519637002" />
+      <i c="462" l="1699536914904" />
     </e>
     <e n="SelectInProjectView">
       <i c="61" l="1699453233719" />
@@ -550,10 +550,10 @@
       <i c="11" l="1698738415703" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="1415" l="1699530831574" />
+      <i c="1416" l="1699536359455" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="724" l="1699526404545" />
+      <i c="725" l="1699536915912" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="16" l="1697724247645" />

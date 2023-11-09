@@ -313,7 +313,7 @@
       <i c="4" l="1697104352903" />
     </e>
     <e n="GotoSymbol">
-      <i c="7" l="1698740417110" />
+      <i c="8" l="1699456519338" />
     </e>
     <e n="HideAllWindows">
       <i c="6" l="1699442579105" />
@@ -400,7 +400,7 @@
       <i c="2560" l="1699455169282" />
     </e>
     <e n="SearchEverywhere">
-      <i c="459" l="1699451371484" />
+      <i c="460" l="1699456515592" />
     </e>
     <e n="SelectInProjectView">
       <i c="61" l="1699453233719" />
@@ -550,7 +550,7 @@
       <i c="1405" l="1699455396565" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="717" l="1699451885228" />
+      <i c="719" l="1699456520263" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="16" l="1697724247645" />

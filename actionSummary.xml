@@ -25,7 +25,7 @@
       <i c="1" l="1695046391285" />
     </e>
     <e n="ActivateProjectToolWindow">
-      <i c="96" l="1699881593639" />
+      <i c="97" l="1699882919468" />
     </e>
     <e n="ActivateRunToolWindow">
       <i c="1" l="1695046392654" />
@@ -454,13 +454,13 @@
       <i c="14" l="1699528114480" />
     </e>
     <e n="Tree-selectChild">
-      <i c="566" l="1699879009308" />
+      <i c="570" l="1699882931949" />
     </e>
     <e n="Tree-selectLast">
       <i c="1" l="1695640453456" />
     </e>
     <e n="Tree-selectNext">
-      <i c="2102" l="1699879009935" />
+      <i c="2153" l="1699882932263" />
     </e>
     <e n="Tree-selectNextExtendSelection">
       <i c="36" l="1697710396608" />
@@ -469,7 +469,7 @@
       <i c="434" l="1699879011033" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="1712" l="1699879010843" />
+      <i c="1741" l="1699882931032" />
     </e>
     <e n="Tree-selectPreviousExtendSelection">
       <i c="15" l="1697037626112" />
@@ -580,7 +580,7 @@
       <i c="2" l="1695046391919" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="158" l="1699879057454" />
+      <i c="159" l="1699882087937" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="2" l="1697529821716" />

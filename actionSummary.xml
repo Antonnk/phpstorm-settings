@@ -19,7 +19,7 @@
       <i c="1" l="1695713024403" />
     </e>
     <e n="ActivateDatabaseToolWindow">
-      <i c="65" l="1699877688694" />
+      <i c="66" l="1699889258555" />
     </e>
     <e n="ActivateDebugToolWindow">
       <i c="1" l="1695046391285" />
@@ -46,7 +46,7 @@
       <i c="28" l="1698242776684" />
     </e>
     <e n="CheckinProject">
-      <i c="84" l="1699881662559" />
+      <i c="85" l="1699887176669" />
     </e>
     <e n="ChooseRunConfiguration">
       <i c="1" l="1695046324123" />
@@ -130,7 +130,7 @@
       <i c="1" l="1695799556839" />
     </e>
     <e n="Console.TableResult.Submit">
-      <i c="58" l="1699879940289" />
+      <i c="59" l="1699889282752" />
     </e>
     <e n="Console.TableResult.SubmitAndCommit">
       <i c="1" l="1696319833211" />
@@ -169,7 +169,7 @@
       <i c="1" l="1696429251195" />
     </e>
     <e n="EditorBackSpace">
-      <i c="13568" l="1699881599119" />
+      <i c="13597" l="1699889278696" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1446" l="1699879044573" />
@@ -187,7 +187,7 @@
       <i c="1" l="1699532496254" />
     </e>
     <e n="EditorDeleteToLineStart">
-      <i c="716" l="1699539436431" />
+      <i c="718" l="1699887894040" />
     </e>
     <e n="EditorDown">
       <i c="5912" l="1699879040733" />
@@ -277,10 +277,10 @@
       <i c="14" l="1699530632190" />
     </e>
     <e n="FileStructurePopup">
-      <i c="104" l="1699448433557" />
+      <i c="105" l="1699887900779" />
     </e>
     <e n="Find">
-      <i c="164" l="1699878698870" />
+      <i c="168" l="1699888210569" />
     </e>
     <e n="FindInPath">
       <i c="218" l="1699878168255" />
@@ -313,7 +313,7 @@
       <i c="58" l="1699539440008" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1835" l="1699878605746" />
+      <i c="1836" l="1699888223068" />
     </e>
     <e n="GotoFile">
       <i c="4" l="1697104352903" />
@@ -406,7 +406,7 @@
       <i c="2687" l="1699607452512" />
     </e>
     <e n="SearchEverywhere">
-      <i c="465" l="1699881594612" />
+      <i c="469" l="1699888237250" />
     </e>
     <e n="SelectInProjectView">
       <i c="61" l="1699453233719" />
@@ -427,7 +427,7 @@
       <i c="1" l="1695282742952" />
     </e>
     <e n="Table-selectNextColumn">
-      <i c="20" l="1699877142240" />
+      <i c="21" l="1699889271137" />
     </e>
     <e n="Table-selectNextColumnExtendSelection">
       <i c="15" l="1695636718528" />
@@ -439,7 +439,7 @@
       <i c="7" l="1699015791425" />
     </e>
     <e n="Table-selectPreviousColumn">
-      <i c="11" l="1695738422478" />
+      <i c="12" l="1699889275983" />
     </e>
     <e n="Table-selectPreviousColumnExtendSelection">
       <i c="27" l="1699877144085" />
@@ -502,10 +502,10 @@
       <i c="1" l="1699877169144" />
     </e>
     <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$2">
-      <i c="7" l="1699878323229" />
+      <i c="8" l="1699889281488" />
     </e>
     <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$3">
-      <i c="43" l="1699879934132" />
+      <i c="46" l="1699889279068" />
     </e>
     <e n="com.intellij.diff.actions.ProxyUndoRedoAction">
       <i c="2" l="1696426330387" />
@@ -526,13 +526,13 @@
       <i c="2" l="1697094932860" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
-      <i c="79" l="1699520130949" />
+      <i c="81" l="1699888205281" />
     </e>
     <e n="com.intellij.find.SearchTextArea$ClearAction">
       <i c="1" l="1698658973803" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
-      <i c="388" l="1699878705911" />
+      <i c="396" l="1699888221409" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.SwitchToFind">
       <i c="4" l="1696428113140" />
@@ -547,7 +547,7 @@
       <i c="1" l="1695024949086" />
     </e>
     <e n="com.intellij.ide.util.FileStructurePopup$NavigateSelectedElementAction">
-      <i c="62" l="1699448448890" />
+      <i c="63" l="1699887902168" />
     </e>
     <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
       <i c="9" l="1696591329361" />
@@ -556,10 +556,10 @@
       <i c="11" l="1698738415703" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="1439" l="1699883955655" />
+      <i c="1443" l="1699888224932" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="744" l="1699881601991" />
+      <i c="748" l="1699888239512" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="16" l="1697724247645" />

@@ -4,15 +4,15 @@
       <map>
         <entry key="$USER_HOME$/work/hiper">
           <value>
-            <RecentProjectMetaInfo frameTitle="hiper – Overview.tsx" opened="true" projectWorkspaceId="2PbRKcEj4rHDHT659vAg98LFShr">
-              <option name="activationTimestamp" value="1699620950634" />
+            <RecentProjectMetaInfo frameTitle="hiper" opened="true" projectWorkspaceId="2PbRKcEj4rHDHT659vAg98LFShr">
+              <option name="activationTimestamp" value="1699866247845" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986632051" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="7" />
               </option>
-              <frame x="-338" y="-1415" width="2560" height="1415" extendedState="6" />
+              <frame x="0" y="44" width="2560" height="1125" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1694415081778" />
             </RecentProjectMetaInfo>

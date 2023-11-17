@@ -34,7 +34,7 @@
       <i c="1" l="1695810210504" />
     </e>
     <e n="Annotate">
-      <i c="15" l="1698738408062" />
+      <i c="16" l="1699892047107" />
     </e>
     <e n="BookmarksView.Delete">
       <i c="1" l="1699442536690" />
@@ -169,7 +169,7 @@
       <i c="1" l="1696429251195" />
     </e>
     <e n="EditorBackSpace">
-      <i c="13721" l="1699892003566" />
+      <i c="13728" l="1699892043933" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1453" l="1699891978308" />
@@ -190,7 +190,7 @@
       <i c="718" l="1699887894040" />
     </e>
     <e n="EditorDown">
-      <i c="5929" l="1699891976944" />
+      <i c="5952" l="1699892041747" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="1148" l="1699607442273" />
@@ -202,7 +202,7 @@
       <i c="1803" l="1699607391989" />
     </e>
     <e n="EditorEscape">
-      <i c="138" l="1699891258349" />
+      <i c="139" l="1699892042872" />
     </e>
     <e n="EditorIncreaseFontSize">
       <i c="2" l="1699532621898" />
@@ -250,7 +250,7 @@
       <i c="1" l="1695645845680" />
     </e>
     <e n="EditorRight">
-      <i c="6717" l="1699891813606" />
+      <i c="6718" l="1699892031159" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="3042" l="1699891813947" />
@@ -268,7 +268,7 @@
       <i c="57" l="1699539475546" />
     </e>
     <e n="EditorUp">
-      <i c="3776" l="1699891961591" />
+      <i c="3777" l="1699892042467" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="964" l="1699878995070" />
@@ -313,7 +313,7 @@
       <i c="58" l="1699539440008" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1847" l="1699891994837" />
+      <i c="1848" l="1699892044703" />
     </e>
     <e n="GotoFile">
       <i c="4" l="1697104352903" />
@@ -556,7 +556,7 @@
       <i c="11" l="1698738415703" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="1459" l="1699891999390" />
+      <i c="1460" l="1699892072088" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="752" l="1699891803370" />

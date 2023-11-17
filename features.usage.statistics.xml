@@ -16,7 +16,7 @@
     <feature id="navigation.recent.files" count="11" last-shown="0" last-used="1697724247087" shown-count="0" />
     <feature id="scratch" count="5" last-shown="0" last-used="1696412062095" shown-count="0" />
     <feature id="vcs.pull.requests" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="vcs.annotate" count="15" last-shown="0" last-used="1698738408067" shown-count="0" />
+    <feature id="vcs.annotate" count="16" last-shown="0" last-used="1699892047109" shown-count="0" />
     <feature id="ui.open.last.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.reformat.code" count="42" last-shown="0" last-used="1699539442051" shown-count="0" />
     <feature id="editing.completion.show.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -79,7 +79,7 @@
     <feature id="codeassists.javadoc.external" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="3" last-shown="0" last-used="1696411988633" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="1847" last-shown="0" last-used="1699891994846" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="1848" last-shown="0" last-used="1699892044709" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="97" last-shown="0" last-used="1699882919476" shown-count="0" />
     <feature id="editing.join.lines" count="2" last-shown="0" last-used="1696325658445" shown-count="0" />

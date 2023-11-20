@@ -19,7 +19,7 @@
       <i c="1" l="1695713024403" />
     </e>
     <e n="ActivateDatabaseToolWindow">
-      <i c="68" l="1700477884630" />
+      <i c="69" l="1700488672723" />
     </e>
     <e n="ActivateDebugToolWindow">
       <i c="1" l="1695046391285" />
@@ -322,7 +322,7 @@
       <i c="58" l="1699539440008" />
     </e>
     <e n="GotoDeclaration">
-      <i c="1971" l="1700487406938" />
+      <i c="1973" l="1700488224580" />
     </e>
     <e n="GotoFile">
       <i c="4" l="1697104352903" />
@@ -409,7 +409,7 @@
       <i c="45" l="1700485683057" />
     </e>
     <e n="Rerun">
-      <i c="160" l="1700485936146" />
+      <i c="161" l="1700488062518" />
     </e>
     <e n="RerunTests">
       <i c="13" l="1700222585839" />
@@ -427,7 +427,7 @@
       <i c="63" l="1700225169894" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="4501" l="1700485999496" />
+      <i c="4508" l="1700488225769" />
     </e>
     <e n="SettingsEntryPoint">
       <i c="9" l="1700487250025" />
@@ -571,7 +571,7 @@
       <i c="12" l="1700221565970" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="1546" l="1700487375672" />
+      <i c="1549" l="1700488730126" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
       <i c="5" l="1700222576461" />
@@ -598,7 +598,7 @@
       <i c="4" l="1700477619658" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="183" l="1700486066717" />
+      <i c="184" l="1700488659584" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="2" l="1697529821716" />

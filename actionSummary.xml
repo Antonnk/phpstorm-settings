@@ -307,16 +307,16 @@
       <i c="2" l="1696949365917" />
     </e>
     <e n="GoToTab1">
-      <i c="282" l="1700485973132" />
+      <i c="284" l="1700490380983" />
     </e>
     <e n="GoToTab2">
-      <i c="188" l="1700485543137" />
+      <i c="191" l="1700490382014" />
     </e>
     <e n="GoToTab3">
-      <i c="50" l="1700225152138" />
+      <i c="52" l="1700490382714" />
     </e>
     <e n="GoToTab4">
-      <i c="12" l="1700221399934" />
+      <i c="13" l="1700490383116" />
     </e>
     <e n="GotoAction">
       <i c="58" l="1699539440008" />
@@ -571,7 +571,7 @@
       <i c="12" l="1700221565970" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="1549" l="1700488730126" />
+      <i c="1554" l="1700490384335" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
       <i c="5" l="1700222576461" />

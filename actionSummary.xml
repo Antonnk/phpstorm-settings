@@ -19,7 +19,7 @@
       <i c="1" l="1695713024403" />
     </e>
     <e n="ActivateDatabaseToolWindow">
-      <i c="70" l="1700737222867" />
+      <i c="71" l="1700739729444" />
     </e>
     <e n="ActivateDebugToolWindow">
       <i c="1" l="1695046391285" />
@@ -145,10 +145,10 @@
       <i c="1" l="1696319833211" />
     </e>
     <e n="Console.TableResult.Transpose">
-      <i c="37" l="1699011761103" />
+      <i c="38" l="1700740217596" />
     </e>
     <e n="Console.TableResult.ViewAs">
-      <i c="36" l="1699011760560" />
+      <i c="37" l="1700740217115" />
     </e>
     <e n="Console.Toggle.Notebook.Mode">
       <i c="1" l="1695217169504" />
@@ -448,7 +448,7 @@
       <i c="15" l="1695636718528" />
     </e>
     <e n="Table-selectNextRow">
-      <i c="40" l="1695815286139" />
+      <i c="102" l="1700740259709" />
     </e>
     <e n="Table-selectNextRowExtendSelection">
       <i c="7" l="1699015791425" />
@@ -460,7 +460,7 @@
       <i c="27" l="1699877144085" />
     </e>
     <e n="Table-selectPreviousRow">
-      <i c="42" l="1699015668380" />
+      <i c="112" l="1700740260447" />
     </e>
     <e n="Table-selectPreviousRowExtendSelection">
       <i c="6" l="1699015668956" />
@@ -598,7 +598,7 @@
       <i c="4" l="1700477619658" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="194" l="1700737844731" />
+      <i c="196" l="1700739742757" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="2" l="1697529821716" />

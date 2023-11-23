@@ -30,6 +30,10 @@
     <size key="GridCell.Tab.1.center.-338.-1440.2560.1440" width="2494" height="627" />
     <size key="GridCell.Tab.1.right.-338.-1440.2560.1440" width="2494" height="627" />
     <size key="GridCell.Tab.1.bottom.-338.-1440.2560.1440" width="2494" height="627" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1854" height="284" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1854" height="284" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1854" height="284" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1854" height="284" />
   </component>
   <component name="WindowManager">
     <frame x="-338" y="-1415" width="2560" height="1415" extendedState="6" />

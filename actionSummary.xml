@@ -66,6 +66,9 @@
     <e n="CommentByBlockComment">
       <i c="15" d="15" l="1700752489542" k="1700752489542" />
     </e>
+    <e n="ConfigureEditorTabs">
+      <i c="1" l="1700817040937" />
+    </e>
     <e n="Console.File.Resolve.Mode">
       <i c="3" l="1700483343009" />
     </e>
@@ -130,7 +133,7 @@
       <i c="3" l="1697187488638" />
     </e>
     <e n="Console.TableResult.Reload">
-      <i c="132" l="1700756770112" />
+      <i c="133" l="1700817237968" />
     </e>
     <e n="Console.TableResult.SetNull">
       <i c="3" l="1698412020435" />
@@ -181,10 +184,10 @@
       <i c="2" l="1700220086564" />
     </e>
     <e n="EditorBackSpace">
-      <i c="15450" l="1700758401456" />
+      <i c="15451" l="1700817357910" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="1653" l="1700756320443" />
+      <i c="1654" l="1700817183984" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="18" l="1700751517137" />
@@ -202,10 +205,10 @@
       <i c="805" l="1700756077031" />
     </e>
     <e n="EditorDown">
-      <i c="6757" l="1700758400171" />
+      <i c="6758" l="1700817183752" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="1296" l="1700756795003" />
+      <i c="1298" l="1700817357472" />
     </e>
     <e n="EditorDuplicate">
       <i c="1" l="1695636341368" />
@@ -235,10 +238,10 @@
       <i c="1798" l="1700756810628" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="689" l="1700756802981" />
+      <i c="690" l="1700817357597" />
     </e>
     <e n="EditorLineStart">
-      <i c="973" l="1700756794428" />
+      <i c="975" l="1700817357037" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="711" l="1700756067024" />
@@ -250,7 +253,7 @@
       <i c="3" l="1699275440609" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="1942" l="1700758683436" />
+      <i c="1943" l="1700817184744" />
     </e>
     <e n="EditorPreviousWord">
       <i c="8" l="1699432688978" />
@@ -272,6 +275,9 @@
     </e>
     <e n="EditorTab">
       <i c="334" l="1700756070080" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="1" l="1700817036584" />
     </e>
     <e n="EditorTextEnd">
       <i c="80" l="1700754804210" />
@@ -325,7 +331,7 @@
       <i c="63" l="1700753683487" />
     </e>
     <e n="GotoDeclaration">
-      <i c="2075" l="1700754787365" />
+      <i c="2077" l="1700817105235" />
     </e>
     <e n="GotoFile">
       <i c="4" l="1697104352903" />
@@ -424,10 +430,10 @@
       <i c="25" l="1698740503121" />
     </e>
     <e n="SaveAll">
-      <i c="3047" l="1700758402263" />
+      <i c="3049" l="1700817358398" />
     </e>
     <e n="SearchEverywhere">
-      <i c="532" l="1700751415917" />
+      <i c="533" l="1700817346788" />
     </e>
     <e n="SelectInProjectView">
       <i c="65" l="1700738525598" />
@@ -517,7 +523,7 @@
       <i c="9" l="1700752588724" />
     </e>
     <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$ApplyAction">
-      <i c="139" l="1700754877152" />
+      <i c="140" l="1700817184899" />
     </e>
     <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$CancelAction">
       <i c="1" l="1699877169144" />
@@ -586,7 +592,7 @@
       <i c="5" l="1700222576461" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="833" l="1700753687005" />
+      <i c="834" l="1700817349338" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="33" l="1700748129596" />
@@ -607,7 +613,7 @@
       <i c="4" l="1700477619658" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="201" l="1700753357415" />
+      <i c="203" l="1700817026797" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="2" l="1697529821716" />

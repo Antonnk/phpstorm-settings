@@ -23,12 +23,12 @@
     <feature id="editing.copy.line" count="57" last-shown="0" last-used="1700755882853" shown-count="0" />
     <feature id="navigation.find.in.files" count="245" last-shown="0" last-used="1700751550980" shown-count="0" />
     <feature id="db.copy.table" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.hide.tool.window" count="201" last-shown="0" last-used="1700753357421" shown-count="0" />
+    <feature id="ui.hide.tool.window" count="203" last-shown="0" last-used="1700817026800" shown-count="0" />
     <feature id="navigation.find.replace.in.files.toggle" count="1" last-shown="0" last-used="1695024949092" shown-count="0" />
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="profiler.open.snapshot" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.comment.line" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="SearchEverywhere" count="532" last-shown="0" last-used="1700751415944" shown-count="0" />
+    <feature id="SearchEverywhere" count="533" last-shown="0" last-used="1700817346914" shown-count="0" />
     <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.inheritance.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.duplicate" count="1" last-shown="0" last-used="1695636341372" shown-count="0" />
@@ -36,7 +36,7 @@
     <feature id="codeassists.highlight.throws" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.find" count="192" last-shown="0" last-used="1700756019787" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="1653" last-shown="0" last-used="1700756320500" shown-count="0" />
+    <feature id="editing.completion.basic" count="1654" last-shown="0" last-used="1700817184005" shown-count="0" />
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.locations" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -79,7 +79,7 @@
     <feature id="codeassists.javadoc.external" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="3" last-shown="0" last-used="1696411988633" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="2075" last-shown="0" last-used="1700754787389" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="2077" last-shown="0" last-used="1700817105241" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="109" last-shown="0" last-used="1700748117137" shown-count="0" />
     <feature id="editing.join.lines" count="2" last-shown="0" last-used="1696325658445" shown-count="0" />
@@ -119,11 +119,11 @@
     <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.assign.color" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="15198" />
-      <option name="invocations" value="1411" />
+      <option name="sparedCharacters" value="15201" />
+      <option name="invocations" value="1412" />
       <option name="startDate" value="1694383200000" />
-      <option name="dayCount" value="37" />
-      <option name="lastDate" value="1700694000000" />
+      <option name="dayCount" value="38" />
+      <option name="lastDate" value="1700780400000" />
     </completionStatsTag>
     <fixesStatsTag>
       <option name="invocations" value="238" />

@@ -23,7 +23,7 @@
     <feature id="editing.copy.line" count="63" last-shown="0" last-used="1701089572292" shown-count="0" />
     <feature id="navigation.find.in.files" count="262" last-shown="0" last-used="1701092687065" shown-count="0" />
     <feature id="db.copy.table" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.hide.tool.window" count="225" last-shown="0" last-used="1701092748658" shown-count="0" />
+    <feature id="ui.hide.tool.window" count="226" last-shown="0" last-used="1701093450462" shown-count="0" />
     <feature id="navigation.find.replace.in.files.toggle" count="1" last-shown="0" last-used="1695024949092" shown-count="0" />
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="profiler.open.snapshot" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -67,7 +67,7 @@
     <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.show.local.history" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.variable.name" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="vcs.use.integration" count="105" last-shown="0" last-used="1701089934182" shown-count="0" />
+    <feature id="vcs.use.integration" count="106" last-shown="0" last-used="1701093451177" shown-count="0" />
     <feature id="navigation.popup.file" count="4" last-shown="0" last-used="1697104352940" shown-count="0" />
     <feature id="codeassists.overrideimplement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.console.run.intention" count="0" last-shown="0" last-used="0" shown-count="0" />

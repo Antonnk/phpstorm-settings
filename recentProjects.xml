@@ -4,17 +4,17 @@
       <map>
         <entry key="$USER_HOME$/work/hiper">
           <value>
-            <RecentProjectMetaInfo frameTitle="hiper – BillingDiscountInstancesTest.php" projectWorkspaceId="2PbRKcEj4rHDHT659vAg98LFShr">
-              <option name="activationTimestamp" value="1700860408614" />
+            <RecentProjectMetaInfo frameTitle="hiper – BillingDiscountInstancesTest.php" opened="true" projectWorkspaceId="2PbRKcEj4rHDHT659vAg98LFShr">
+              <option name="activationTimestamp" value="1701083413494" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-232.9559.64" />
-              <option name="buildTimestamp" value="1692986632051" />
+              <option name="build" value="PS-232.9921.55" />
+              <option name="buildTimestamp" value="1694765512988" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="7" />
               </option>
               <frame x="0" y="44" width="1800" height="1125" extendedState="6" />
               <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1694415081778" />
+              <option name="projectOpenTimestamp" value="1701076746569" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

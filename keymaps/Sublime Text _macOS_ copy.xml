@@ -83,6 +83,9 @@
   </action>
   <action id="Refresh" />
   <action id="Rerun" />
+  <action id="RerunFailedTests">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
     <keyboard-shortcut first-keystroke="shift alt r" />

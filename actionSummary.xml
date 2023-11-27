@@ -298,7 +298,7 @@
       <i c="115" l="1701086761902" />
     </e>
     <e n="Find">
-      <i c="218" l="1701092676049" />
+      <i c="219" l="1701096565868" />
     </e>
     <e n="FindInPath">
       <i c="262" l="1701092687040" />
@@ -403,7 +403,7 @@
       <i c="1" l="1699263468357" />
     </e>
     <e n="RecentFiles">
-      <i c="25" l="1701091314379" />
+      <i c="26" l="1701096495545" />
     </e>
     <e n="RedesignedRunConfigurationSelector">
       <i c="7" l="1698235632064" />
@@ -436,7 +436,7 @@
       <i c="3238" l="1701093045620" />
     </e>
     <e n="SearchEverywhere">
-      <i c="566" l="1701091313440" />
+      <i c="567" l="1701096491144" />
     </e>
     <e n="SelectInProjectView">
       <i c="69" l="1701091143912" />
@@ -595,10 +595,10 @@
       <i c="8" l="1701081850305" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="873" l="1701091346178" />
+      <i c="874" l="1701096495158" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
-      <i c="40" l="1701091317297" />
+      <i c="41" l="1701096496724" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="14" l="1699002434488" />

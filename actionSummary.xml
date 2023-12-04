@@ -52,7 +52,7 @@
       <i c="34" l="1701183721119" />
     </e>
     <e n="CheckinProject">
-      <i c="116" l="1701438634930" />
+      <i c="117" l="1701677157779" />
     </e>
     <e n="ChooseRunConfiguration">
       <i c="1" l="1695046324123" />
@@ -196,7 +196,7 @@
       <i c="3" l="1701164079133" />
     </e>
     <e n="EditorBackSpace">
-      <i c="17584" l="1701440024918" />
+      <i c="17602" l="1701677836941" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1867" l="1701439059365" />
@@ -205,7 +205,7 @@
       <i c="20" l="1700831812372" />
     </e>
     <e n="EditorCopy">
-      <i c="2920" l="1701440023433" />
+      <i c="2923" l="1701677560649" />
     </e>
     <e n="EditorCut">
       <i c="5" l="1701082071462" />
@@ -217,7 +217,7 @@
       <i c="924" l="1701439388197" />
     </e>
     <e n="EditorDown">
-      <i c="7559" l="1701439854496" />
+      <i c="7571" l="1701677556937" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="1540" l="1701439944688" />
@@ -226,7 +226,7 @@
       <i c="2" l="1701086813406" />
     </e>
     <e n="EditorEnter">
-      <i c="2296" l="1701439952699" />
+      <i c="2301" l="1701677557215" />
     </e>
     <e n="EditorEscape">
       <i c="203" l="1701439858890" />
@@ -241,13 +241,13 @@
       <i c="2" l="1696325658376" />
     </e>
     <e n="EditorLeft">
-      <i c="10608" l="1701439981164" />
+      <i c="10612" l="1701677840044" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="2808" l="1701439825503" />
     </e>
     <e n="EditorLineEnd">
-      <i c="2013" l="1701439852294" />
+      <i c="2015" l="1701677840408" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="813" l="1701439944858" />
@@ -256,7 +256,7 @@
       <i c="1093" l="1701439944273" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="836" l="1701439855068" />
+      <i c="837" l="1701677441050" />
     </e>
     <e n="EditorNextWord">
       <i c="12" l="1699444041792" />
@@ -268,7 +268,7 @@
       <i c="3" l="1699275440609" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="2205" l="1701440024090" />
+      <i c="2212" l="1701677617627" />
     </e>
     <e n="EditorPreviousWord">
       <i c="8" l="1699432688978" />
@@ -301,10 +301,10 @@
       <i c="78" l="1701434629250" />
     </e>
     <e n="EditorUp">
-      <i c="4561" l="1701439864591" />
+      <i c="4563" l="1701677440323" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="1206" l="1701439854926" />
+      <i c="1208" l="1701677440889" />
     </e>
     <e n="ExpandLiveTemplateByTab">
       <i c="15" l="1701166373736" />
@@ -313,7 +313,7 @@
       <i c="119" l="1701421824305" />
     </e>
     <e n="Find">
-      <i c="236" l="1701438995203" />
+      <i c="237" l="1701678018906" />
     </e>
     <e n="FindInPath">
       <i c="277" l="1701438772117" />
@@ -322,7 +322,7 @@
       <i c="3" l="1696411988605" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="92" l="1701438661081" />
+      <i c="94" l="1701677846915" />
     </e>
     <e n="GitCheckoutAction">
       <i c="1" l="1695203440532" />
@@ -346,13 +346,13 @@
       <i c="79" l="1701437330178" />
     </e>
     <e n="GotoDeclaration">
-      <i c="2249" l="1701439798062" />
+      <i c="2251" l="1701678028037" />
     </e>
     <e n="GotoFile">
       <i c="4" l="1697104352903" />
     </e>
     <e n="GotoSymbol">
-      <i c="9" l="1700485680951" />
+      <i c="10" l="1701678024109" />
     </e>
     <e n="HideAllWindows">
       <i c="6" l="1699442579105" />
@@ -451,7 +451,7 @@
       <i c="25" l="1698740503121" />
     </e>
     <e n="SaveAll">
-      <i c="3594" l="1701440025747" />
+      <i c="3599" l="1701677617867" />
     </e>
     <e n="SearchEverywhere">
       <i c="631" l="1701439562610" />
@@ -460,7 +460,7 @@
       <i c="78" l="1701165050301" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="5029" l="1701439860460" />
+      <i c="5037" l="1701677617313" />
     </e>
     <e n="SettingsEntryPoint">
       <i c="12" l="1701162334043" />
@@ -610,13 +610,13 @@
       <i c="13" l="1701435569404" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="1814" l="1701438754716" />
+      <i c="1818" l="1701678022662" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
       <i c="8" l="1701081850305" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="1014" l="1701439569170" />
+      <i c="1015" l="1701678024703" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="53" l="1701421757740" />

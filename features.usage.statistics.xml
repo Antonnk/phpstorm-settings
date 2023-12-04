@@ -28,7 +28,7 @@
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="profiler.open.snapshot" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.comment.line" count="2" last-shown="0" last-used="1701435957462" shown-count="0" />
-    <feature id="SearchEverywhere" count="631" last-shown="0" last-used="1701439562657" shown-count="0" />
+    <feature id="SearchEverywhere" count="632" last-shown="0" last-used="1701681337559" shown-count="0" />
     <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.inheritance.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.duplicate" count="2" last-shown="0" last-used="1701086813408" shown-count="0" />
@@ -36,7 +36,7 @@
     <feature id="codeassists.highlight.throws" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.find" count="237" last-shown="0" last-used="1701678018915" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="1867" last-shown="0" last-used="1701439059391" shown-count="0" />
+    <feature id="editing.completion.basic" count="1868" last-shown="0" last-used="1701681364752" shown-count="0" />
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.locations" count="0" last-shown="0" last-used="0" shown-count="0" />

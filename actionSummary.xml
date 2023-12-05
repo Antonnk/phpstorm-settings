@@ -508,13 +508,13 @@
       <i c="28" l="1701721887991" />
     </e>
     <e n="Tree-selectChild">
-      <i c="609" l="1701714800258" />
+      <i c="613" l="1701769277696" />
     </e>
     <e n="Tree-selectLast">
       <i c="1" l="1695640453456" />
     </e>
     <e n="Tree-selectNext">
-      <i c="2325" l="1701714799667" />
+      <i c="2345" l="1701769278713" />
     </e>
     <e n="Tree-selectNextExtendSelection">
       <i c="36" l="1697710396608" />
@@ -523,7 +523,7 @@
       <i c="466" l="1701699371712" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="1887" l="1701714800252" />
+      <i c="1896" l="1701769277531" />
     </e>
     <e n="Tree-selectPreviousExtendSelection">
       <i c="15" l="1697037626112" />
@@ -613,7 +613,7 @@
       <i c="15" l="1701767542347" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="1928" l="1701767050192" />
+      <i c="1929" l="1701769289092" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
       <i c="8" l="1701081850305" />

@@ -10,7 +10,7 @@
       <i c="73" l="1701771658012" />
     </e>
     <e n="$Undo">
-      <i c="3029" l="1701849437404" />
+      <i c="3030" l="1701851515109" />
     </e>
     <e n="ActivateBookmarksToolWindow">
       <i c="2" l="1699442531099" />
@@ -199,16 +199,16 @@
       <i c="3" l="1701164079133" />
     </e>
     <e n="EditorBackSpace">
-      <i c="18883" l="1701849461614" />
+      <i c="18891" l="1701851489614" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="1979" l="1701849460507" />
+      <i c="1981" l="1701851514573" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="20" l="1700831812372" />
     </e>
     <e n="EditorCopy">
-      <i c="3123" l="1701849433912" />
+      <i c="3127" l="1701851518220" />
     </e>
     <e n="EditorCut">
       <i c="5" l="1701082071462" />
@@ -220,7 +220,7 @@
       <i c="995" l="1701849413097" />
     </e>
     <e n="EditorDown">
-      <i c="8094" l="1701849460787" />
+      <i c="8095" l="1701851483171" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="1704" l="1701848693384" />
@@ -244,13 +244,13 @@
       <i c="2" l="1696325658376" />
     </e>
     <e n="EditorLeft">
-      <i c="11394" l="1701787998598" />
+      <i c="11397" l="1701851513661" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="2965" l="1701787704537" />
+      <i c="2974" l="1701851518008" />
     </e>
     <e n="EditorLineEnd">
-      <i c="2159" l="1701849418345" />
+      <i c="2161" l="1701851486426" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="872" l="1701848693574" />
@@ -259,7 +259,7 @@
       <i c="1189" l="1701848692918" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="887" l="1701849433738" />
+      <i c="888" l="1701849471910" />
     </e>
     <e n="EditorNextWord">
       <i c="12" l="1699444041792" />
@@ -271,7 +271,7 @@
       <i c="4" l="1701697244597" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="2388" l="1701849434805" />
+      <i c="2391" l="1701851519019" />
     </e>
     <e n="EditorPreviousWord">
       <i c="8" l="1699432688978" />
@@ -283,7 +283,7 @@
       <i c="2" l="1701103581084" />
     </e>
     <e n="EditorRight">
-      <i c="9861" l="1701849434065" />
+      <i c="9862" l="1701851516402" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="4026" l="1701787704964" />
@@ -301,7 +301,7 @@
       <i c="2" l="1701428064674" />
     </e>
     <e n="EditorTextEnd">
-      <i c="89" l="1701787693055" />
+      <i c="90" l="1701849471645" />
     </e>
     <e n="EditorTextStart">
       <i c="81" l="1701787985252" />
@@ -319,7 +319,7 @@
       <i c="124" l="1701774676163" />
     </e>
     <e n="Find">
-      <i c="263" l="1701785133815" />
+      <i c="264" l="1701851505300" />
     </e>
     <e n="FindInPath">
       <i c="302" l="1701785030911" />
@@ -331,7 +331,7 @@
       <i c="3" l="1696411988605" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="112" l="1701788155720" />
+      <i c="113" l="1701849480058" />
     </e>
     <e n="GitCheckoutAction">
       <i c="2" l="1701698945515" />
@@ -463,10 +463,10 @@
       <i c="25" l="1698740503121" />
     </e>
     <e n="SaveAll">
-      <i c="3998" l="1701849463624" />
+      <i c="3999" l="1701851527004" />
     </e>
     <e n="SearchEverywhere">
-      <i c="743" l="1701848684361" />
+      <i c="744" l="1701851478102" />
     </e>
     <e n="SelectInProjectView">
       <i c="86" l="1701783672320" />
@@ -478,7 +478,7 @@
       <i c="13" l="1701787639524" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="422" l="1701787998732" />
+      <i c="423" l="1701851485514" />
     </e>
     <e n="ShowUmlDiagram">
       <i c="1" l="1701428032300" />
@@ -631,7 +631,7 @@
       <i c="8" l="1701081850305" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="1161" l="1701848685326" />
+      <i c="1162" l="1701851479119" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="69" l="1701767531414" />

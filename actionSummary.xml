@@ -31,7 +31,7 @@
       <i c="1" l="1701172710727" />
     </e>
     <e n="ActivateProjectToolWindow">
-      <i c="155" l="1701787659560" />
+      <i c="156" l="1701861342051" />
     </e>
     <e n="ActivateRunToolWindow">
       <i c="1" l="1695046392654" />
@@ -208,7 +208,7 @@
       <i c="20" l="1700831812372" />
     </e>
     <e n="EditorCopy">
-      <i c="3127" l="1701851518220" />
+      <i c="3131" l="1701863762449" />
     </e>
     <e n="EditorCut">
       <i c="5" l="1701082071462" />
@@ -229,7 +229,7 @@
       <i c="2" l="1701086813406" />
     </e>
     <e n="EditorEnter">
-      <i c="2492" l="1701849434511" />
+      <i c="2494" l="1701863772132" />
     </e>
     <e n="EditorEscape">
       <i c="225" l="1701849454244" />
@@ -250,7 +250,7 @@
       <i c="2974" l="1701851518008" />
     </e>
     <e n="EditorLineEnd">
-      <i c="2161" l="1701851486426" />
+      <i c="2162" l="1701863771703" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="872" l="1701848693574" />
@@ -271,7 +271,7 @@
       <i c="4" l="1701697244597" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="2391" l="1701851519019" />
+      <i c="2392" l="1701863772239" />
     </e>
     <e n="EditorPreviousWord">
       <i c="8" l="1699432688978" />
@@ -286,7 +286,7 @@
       <i c="9862" l="1701851516402" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="4026" l="1701787704964" />
+      <i c="4027" l="1701861410991" />
     </e>
     <e n="EditorSelectLine">
       <i c="1" l="1701788055597" />
@@ -301,13 +301,13 @@
       <i c="2" l="1701428064674" />
     </e>
     <e n="EditorTextEnd">
-      <i c="90" l="1701849471645" />
+      <i c="91" l="1701863770421" />
     </e>
     <e n="EditorTextStart">
       <i c="81" l="1701787985252" />
     </e>
     <e n="EditorUp">
-      <i c="4931" l="1701849424287" />
+      <i c="4933" l="1701863771505" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="1302" l="1701849433629" />
@@ -316,10 +316,10 @@
       <i c="15" l="1701166373736" />
     </e>
     <e n="FileStructurePopup">
-      <i c="124" l="1701774676163" />
+      <i c="126" l="1701861381848" />
     </e>
     <e n="Find">
-      <i c="264" l="1701851505300" />
+      <i c="265" l="1701861365683" />
     </e>
     <e n="FindInPath">
       <i c="302" l="1701785030911" />
@@ -340,10 +340,10 @@
       <i c="2" l="1696949365917" />
     </e>
     <e n="GoToTab1">
-      <i c="383" l="1701784354699" />
+      <i c="384" l="1701863767311" />
     </e>
     <e n="GoToTab2">
-      <i c="236" l="1701784148118" />
+      <i c="238" l="1701863769799" />
     </e>
     <e n="GoToTab3">
       <i c="63" l="1701784148570" />
@@ -469,7 +469,7 @@
       <i c="744" l="1701851478102" />
     </e>
     <e n="SelectInProjectView">
-      <i c="86" l="1701783672320" />
+      <i c="87" l="1701861343088" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="5312" l="1701788026182" />
@@ -523,7 +523,7 @@
       <i c="1" l="1695640453456" />
     </e>
     <e n="Tree-selectNext">
-      <i c="2345" l="1701769278713" />
+      <i c="2367" l="1701861384884" />
     </e>
     <e n="Tree-selectNextExtendSelection">
       <i c="36" l="1697710396608" />
@@ -532,7 +532,7 @@
       <i c="466" l="1701699371712" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="1896" l="1701769277531" />
+      <i c="1897" l="1701861369936" />
     </e>
     <e n="Tree-selectPreviousExtendSelection">
       <i c="15" l="1697037626112" />
@@ -616,7 +616,7 @@
       <i c="2" l="1701165025369" />
     </e>
     <e n="com.intellij.ide.util.FileStructurePopup$NavigateSelectedElementAction">
-      <i c="71" l="1701774676925" />
+      <i c="72" l="1701861385659" />
     </e>
     <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
       <i c="10" l="1700220062549" />
@@ -631,7 +631,7 @@
       <i c="8" l="1701081850305" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="1162" l="1701851479119" />
+      <i c="1163" l="1701861377577" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="69" l="1701767531414" />

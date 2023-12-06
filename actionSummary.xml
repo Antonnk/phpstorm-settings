@@ -199,7 +199,7 @@
       <i c="3" l="1701164079133" />
     </e>
     <e n="EditorBackSpace">
-      <i c="18893" l="1701851816243" />
+      <i c="18924" l="1701864999226" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1981" l="1701851514573" />
@@ -208,7 +208,7 @@
       <i c="20" l="1700831812372" />
     </e>
     <e n="EditorCopy">
-      <i c="3131" l="1701863762449" />
+      <i c="3135" l="1701864961807" />
     </e>
     <e n="EditorCut">
       <i c="5" l="1701082071462" />
@@ -244,16 +244,16 @@
       <i c="2" l="1696325658376" />
     </e>
     <e n="EditorLeft">
-      <i c="11397" l="1701851513661" />
+      <i c="11406" l="1701864996992" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="2974" l="1701851518008" />
+      <i c="2991" l="1701864917397" />
     </e>
     <e n="EditorLineEnd">
-      <i c="2162" l="1701863771703" />
+      <i c="2165" l="1701864999453" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="872" l="1701848693574" />
+      <i c="874" l="1701864916522" />
     </e>
     <e n="EditorLineStart">
       <i c="1189" l="1701848692918" />
@@ -271,7 +271,7 @@
       <i c="4" l="1701697244597" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="2392" l="1701863772239" />
+      <i c="2394" l="1701864966096" />
     </e>
     <e n="EditorPreviousWord">
       <i c="8" l="1699432688978" />
@@ -283,10 +283,10 @@
       <i c="2" l="1701103581084" />
     </e>
     <e n="EditorRight">
-      <i c="9862" l="1701851516402" />
+      <i c="9908" l="1701864989928" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="4027" l="1701861410991" />
+      <i c="4055" l="1701864997935" />
     </e>
     <e n="EditorSelectLine">
       <i c="1" l="1701788055597" />
@@ -463,7 +463,7 @@
       <i c="25" l="1698740503121" />
     </e>
     <e n="SaveAll">
-      <i c="3999" l="1701851527004" />
+      <i c="4003" l="1701864951223" />
     </e>
     <e n="SearchEverywhere">
       <i c="744" l="1701851478102" />
@@ -472,7 +472,7 @@
       <i c="87" l="1701861343088" />
     </e>
     <e n="SelectNextOccurrence">
-      <i c="5312" l="1701788026182" />
+      <i c="5317" l="1701864957303" />
     </e>
     <e n="SettingsEntryPoint">
       <i c="13" l="1701787639524" />
@@ -586,7 +586,7 @@
       <i c="3" l="1701771055747" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="239" l="1701788003477" />
+      <i c="240" l="1701865005947" />
     </e>
     <e n="com.intellij.execution.ui.SelectRunConfigurationWithInlineActions">
       <i c="2" l="1697094932860" />

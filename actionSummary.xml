@@ -208,7 +208,7 @@
       <i c="20" l="1700831812372" />
     </e>
     <e n="EditorCopy">
-      <i c="3179" l="1701875219663" />
+      <i c="3180" l="1701944379992" />
     </e>
     <e n="EditorCut">
       <i c="6" l="1701874710701" />
@@ -322,7 +322,7 @@
       <i c="267" l="1701871389709" />
     </e>
     <e n="FindInPath">
-      <i c="305" l="1701872433854" />
+      <i c="306" l="1701944380238" />
     </e>
     <e n="FindNext">
       <i c="1" l="1701771673984" />
@@ -361,7 +361,7 @@
       <i c="89" l="1701874639550" />
     </e>
     <e n="GotoDeclaration">
-      <i c="2437" l="1701874544378" />
+      <i c="2439" l="1701944396489" />
     </e>
     <e n="GotoFile">
       <i c="18" l="1701872435101" />
@@ -469,7 +469,7 @@
       <i c="4048" l="1701943331027" />
     </e>
     <e n="SearchEverywhere">
-      <i c="752" l="1701874286025" />
+      <i c="753" l="1701944369035" />
     </e>
     <e n="SelectInProjectView">
       <i c="91" l="1701871697844" />
@@ -610,7 +610,7 @@
       <i c="7" l="1701709229242" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="179" l="1701872427623" />
+      <i c="180" l="1701944390337" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
       <i c="39" l="1701872408144" />
@@ -628,13 +628,13 @@
       <i c="15" l="1701767542347" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="1998" l="1701874555602" />
+      <i c="1999" l="1701944375432" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
       <i c="8" l="1701081850305" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="1184" l="1701874641211" />
+      <i c="1185" l="1701944370368" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="69" l="1701767531414" />
@@ -673,10 +673,10 @@
       <i c="402" l="1701874286210" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="4085" l="1701872425776" />
+      <i c="4104" l="1701944389080" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="1616" l="1701872424035" />
+      <i c="1621" l="1701944387734" />
     </e>
     <e n="com.intellij.ui.SpeedSearchBase$MySearchAction">
       <i c="20" l="1701427870044" />

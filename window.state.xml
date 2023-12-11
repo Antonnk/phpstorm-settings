@@ -21,10 +21,10 @@
     <size key="GridCell.Tab.1.center.0.0.3600.2338@192dpi" width="2778" height="1012" />
     <size key="GridCell.Tab.1.right.0.0.3600.2338@192dpi" width="2778" height="1012" />
     <size key="GridCell.Tab.1.bottom.0.0.3600.2338@192dpi" width="2778" height="1012" />
-    <size key="GridCell.Tab.0.left.-338.-1440.2560.1440" width="2494" height="292" />
-    <size key="GridCell.Tab.0.center.-338.-1440.2560.1440" width="2494" height="292" />
-    <size key="GridCell.Tab.0.right.-338.-1440.2560.1440" width="2494" height="292" />
-    <size key="GridCell.Tab.0.bottom.-338.-1440.2560.1440" width="2494" height="292" />
+    <size key="GridCell.Tab.0.left.-338.-1440.2560.1440" width="1734" height="338" />
+    <size key="GridCell.Tab.0.center.-338.-1440.2560.1440" width="1734" height="338" />
+    <size key="GridCell.Tab.0.right.-338.-1440.2560.1440" width="1734" height="338" />
+    <size key="GridCell.Tab.0.bottom.-338.-1440.2560.1440" width="1734" height="338" />
     <size key="find.popup.-338.-1440.2560.1440" width="1298" height="655" />
     <size key="GridCell.Tab.1.left.-338.-1440.2560.1440" width="2494" height="627" />
     <size key="GridCell.Tab.1.center.-338.-1440.2560.1440" width="2494" height="627" />
@@ -36,7 +36,7 @@
     <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1854" height="284" />
   </component>
   <component name="WindowManager">
-    <frame x="0" y="44" width="1800" height="1125" extendedState="6" />
+    <frame x="-338" y="-1415" width="2560" height="1415" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
     <state width="1779" height="740" key="ShowUsagesActions.dimensionServiceKey" timestamp="1702046506232">

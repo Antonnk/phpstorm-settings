@@ -21,9 +21,9 @@
     <feature id="editing.reformat.code" count="69" last-shown="0" last-used="1702374868035" shown-count="0" />
     <feature id="editing.completion.show.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.copy.line" count="83" last-shown="0" last-used="1702284987913" shown-count="0" />
-    <feature id="navigation.find.in.files" count="319" last-shown="0" last-used="1702374845721" shown-count="0" />
+    <feature id="navigation.find.in.files" count="321" last-shown="0" last-used="1702378209507" shown-count="0" />
     <feature id="db.copy.table" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.hide.tool.window" count="276" last-shown="0" last-used="1702043183994" shown-count="0" />
+    <feature id="ui.hide.tool.window" count="277" last-shown="0" last-used="1702378426668" shown-count="0" />
     <feature id="navigation.find.replace.in.files.toggle" count="2" last-shown="0" last-used="1701165025381" shown-count="0" />
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="profiler.open.snapshot" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -34,7 +34,7 @@
     <feature id="editing.duplicate" count="3" last-shown="0" last-used="1702374347809" shown-count="0" />
     <feature id="editing.copy.reference" count="10" last-shown="0" last-used="1700219678759" shown-count="0" />
     <feature id="codeassists.highlight.throws" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.find" count="271" last-shown="0" last-used="1702374910640" shown-count="0" />
+    <feature id="navigation.find" count="272" last-shown="0" last-used="1702378210817" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.basic" count="2155" last-shown="0" last-used="1702375139463" shown-count="0" />
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -58,9 +58,9 @@
     <feature id="navigation.find.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.clipboard.history" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.compare.editor.with.clipboard" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="refactoring.rename" count="26" last-shown="0" last-used="1702375134836" shown-count="0" />
+    <feature id="refactoring.rename" count="27" last-shown="0" last-used="1702378261171" shown-count="0" />
     <feature id="navigation.popup.action" count="93" last-shown="0" last-used="1702374867124" shown-count="0" />
-    <feature id="refactoring.show.quick.list" count="20" last-shown="0" last-used="1702375134187" shown-count="0" />
+    <feature id="refactoring.show.quick.list" count="21" last-shown="0" last-used="1702378260055" shown-count="0" />
     <feature id="db.forget.cached.schemas" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="find.recent.search" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -79,7 +79,7 @@
     <feature id="codeassists.javadoc.external" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.generate.code" count="3" last-shown="0" last-used="1696411988633" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="2495" last-shown="0" last-used="1702375172861" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="2502" last-shown="0" last-used="1702378269007" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="158" last-shown="0" last-used="1702046035292" shown-count="0" />
     <feature id="editing.join.lines" count="2" last-shown="0" last-used="1696325658445" shown-count="0" />

@@ -16,19 +16,19 @@
     <feature id="navigation.recent.files" count="50" last-shown="0" last-used="1701950254750" shown-count="0" />
     <feature id="scratch" count="7" last-shown="0" last-used="1700750263514" shown-count="0" />
     <feature id="vcs.pull.requests" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="vcs.annotate" count="29" last-shown="0" last-used="1702382386285" shown-count="0" />
+    <feature id="vcs.annotate" count="30" last-shown="0" last-used="1702394107319" shown-count="0" />
     <feature id="ui.open.last.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.reformat.code" count="70" last-shown="0" last-used="1702383645238" shown-count="0" />
     <feature id="editing.completion.show.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.copy.line" count="87" last-shown="0" last-used="1702384453423" shown-count="0" />
-    <feature id="navigation.find.in.files" count="340" last-shown="0" last-used="1702392413766" shown-count="0" />
+    <feature id="navigation.find.in.files" count="341" last-shown="0" last-used="1702393833762" shown-count="0" />
     <feature id="db.copy.table" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.hide.tool.window" count="279" last-shown="0" last-used="1702384559746" shown-count="0" />
     <feature id="navigation.find.replace.in.files.toggle" count="2" last-shown="0" last-used="1701165025381" shown-count="0" />
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="profiler.open.snapshot" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.comment.line" count="4" last-shown="0" last-used="1702374730648" shown-count="0" />
-    <feature id="SearchEverywhere" count="782" last-shown="0" last-used="1702392325947" shown-count="0" />
+    <feature id="SearchEverywhere" count="785" last-shown="0" last-used="1702393923528" shown-count="0" />
     <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.inheritance.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.duplicate" count="3" last-shown="0" last-used="1702374347809" shown-count="0" />
@@ -67,7 +67,7 @@
     <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.show.local.history" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.variable.name" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="vcs.use.integration" count="141" last-shown="0" last-used="1702384433003" shown-count="0" />
+    <feature id="vcs.use.integration" count="142" last-shown="0" last-used="1702393288544" shown-count="0" />
     <feature id="navigation.popup.file" count="19" last-shown="0" last-used="1702043105748" shown-count="0" />
     <feature id="codeassists.overrideimplement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.console.run.intention" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -81,7 +81,7 @@
     <feature id="codeassists.generate.code" count="3" last-shown="0" last-used="1696411988633" shown-count="0" />
     <feature id="navigation.goto.declaration" count="2565" last-shown="0" last-used="1702391587290" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.open.project.tool.window" count="161" last-shown="0" last-used="1702385484225" shown-count="0" />
+    <feature id="ui.open.project.tool.window" count="162" last-shown="0" last-used="1702393772462" shown-count="0" />
     <feature id="editing.join.lines" count="2" last-shown="0" last-used="1696325658445" shown-count="0" />
     <feature id="navigation.goto.implementation" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.inlineVariable" count="0" last-shown="0" last-used="0" shown-count="0" />

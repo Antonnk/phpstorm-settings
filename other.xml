@@ -6,7 +6,7 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
-    "CommitToolWindow.COMMIT_SPLITTER_PROPORTION": "0.43291327",
+    "CommitToolWindow.COMMIT_SPLITTER_PROPORTION": "0.50852484",
     "FileTemplates.SelectedTemplate": "WordPress Main Plugin File",
     "FindSplitterProportion": "0.32988167",
     "GridFilterComponent.FILTER_PREFERRED_SIZE": "604",
@@ -18,7 +18,8 @@
     "PhpUnit.Splitter.Proportion": "0.17474048",
     "PhpUnitSupport.hideIgnoredTests": "true",
     "PhpUnitSupport.hidePassedTests": "false",
-    "SettingsSearchHistory": "rerun test\nrerun\nPHPDoc\nFile and Code Templates\nAlign key-value pairs",
+    "PluginConfigurable.selectionTab": "1",
+    "SettingsSearchHistory": "plug\nrerun test\nrerun\nPHPDoc\nFile and Code Templates",
     "SqlStructureView.filterD.file.structure.state": "true",
     "TextEditorWithPreview.SplitterProportionKey": "0.85",
     "Vcs.Push.Splitter.Tree.Proportion": "0.585",
@@ -28,7 +29,7 @@
     "evlsprt3.232": "22",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.10227.13",
-    "file.gist.reindex.count": "2052",
+    "file.gist.reindex.count": "2062",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "12.0",
     "fontSizeToResetEditor": "15.0",

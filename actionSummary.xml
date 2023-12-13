@@ -55,7 +55,7 @@
       <i c="1" l="1697033400181" />
     </e>
     <e n="ChangesView.Revert">
-      <i c="37" l="1702379927493" />
+      <i c="38" l="1702457097374" />
     </e>
     <e n="CheckinProject">
       <i c="143" l="1702457089151" />
@@ -637,7 +637,7 @@
       <i c="17" l="1702394118382" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="2106" l="1702457092435" />
+      <i c="2107" l="1702457095029" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
       <i c="8" l="1701081850305" />

@@ -10,7 +10,7 @@
       <i c="84" l="1702384270994" />
     </e>
     <e n="$Undo">
-      <i c="3330" l="1702554635818" />
+      <i c="3331" l="1702554678498" />
     </e>
     <e n="ActivateBookmarksToolWindow">
       <i c="2" l="1699442531099" />
@@ -43,7 +43,7 @@
       <i c="1" l="1701690994918" />
     </e>
     <e n="Annotate">
-      <i c="33" l="1702554124067" />
+      <i c="34" l="1702556812963" />
     </e>
     <e n="BookmarksView.Delete">
       <i c="1" l="1699442536690" />
@@ -208,16 +208,16 @@
       <i c="5" l="1702042896411" />
     </e>
     <e n="EditorBackSpace">
-      <i c="21146" l="1702554651662" />
+      <i c="21153" l="1702554676099" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="2198" l="1702554628178" />
+      <i c="2199" l="1702554677247" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="21" l="1702287904761" />
     </e>
     <e n="EditorCopy">
-      <i c="3430" l="1702554618497" />
+      <i c="3431" l="1702554663624" />
     </e>
     <e n="EditorCut">
       <i c="6" l="1701874710701" />
@@ -229,7 +229,7 @@
       <i c="1106" l="1702554651484" />
     </e>
     <e n="EditorDown">
-      <i c="9043" l="1702554599703" />
+      <i c="9047" l="1702554674749" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="1857" l="1702553078910" />
@@ -280,7 +280,7 @@
       <i c="4" l="1701697244597" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="2610" l="1702554620182" />
+      <i c="2612" l="1702554678933" />
     </e>
     <e n="EditorPreviousWord">
       <i c="8" l="1699432688978" />
@@ -325,7 +325,7 @@
       <i c="33" l="1702292004126" />
     </e>
     <e n="FileStructurePopup">
-      <i c="127" l="1701870861686" />
+      <i c="128" l="1702557136256" />
     </e>
     <e n="Find">
       <i c="279" l="1702552693958" />
@@ -373,7 +373,7 @@
       <i c="95" l="1702383643765" />
     </e>
     <e n="GotoDeclaration">
-      <i c="2598" l="1702554118328" />
+      <i c="2603" l="1702557111486" />
     </e>
     <e n="GotoFile">
       <i c="19" l="1702043105723" />
@@ -481,7 +481,7 @@
       <i c="4341" l="1702554652796" />
     </e>
     <e n="SearchEverywhere">
-      <i c="796" l="1702554364621" />
+      <i c="799" l="1702557122672" />
     </e>
     <e n="SelectInProjectView">
       <i c="98" l="1702550294084" />
@@ -565,7 +565,7 @@
       <i c="2" l="1694415071886" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="52" l="1702546313672" />
+      <i c="55" l="1702556976936" />
     </e>
     <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
       <i c="4" l="1702285025690" />
@@ -580,7 +580,7 @@
       <i c="9" l="1700752588724" />
     </e>
     <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$ApplyAction">
-      <i c="152" l="1702554312257" />
+      <i c="154" l="1702554679176" />
     </e>
     <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$CancelAction">
       <i c="2" l="1700834058347" />
@@ -640,16 +640,16 @@
       <i c="12" l="1702380709467" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
-      <i c="19" l="1702553961475" />
+      <i c="20" l="1702556708967" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="2119" l="1702554180468" />
+      <i c="2124" l="1702557059314" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
       <i c="8" l="1701081850305" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="1270" l="1702554373592" />
+      <i c="1274" l="1702557136840" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="70" l="1701950256485" />
@@ -661,7 +661,7 @@
       <i c="1" l="1702553668094" />
     </e>
     <e n="com.intellij.openapi.vcs.actions.ShowDiffFromAnnotation">
-      <i c="3" l="1702554149729" />
+      <i c="4" l="1702556660723" />
     </e>
     <e n="com.intellij.openapi.vcs.changes.EditorTabPreviewEscapeAction">
       <i c="4" l="1702378195883" />

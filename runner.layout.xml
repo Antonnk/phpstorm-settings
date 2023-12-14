@@ -10,11 +10,20 @@
         <option name="placeInGrid" value="center" />
         <option name="tabIndex" value="1" />
       </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="ResultTab#33d4e3a9@1.1.1" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="1" />
+      </ViewImpl>
       <TabImpl>
         <option name="displayName" value="Session" />
       </TabImpl>
       <TabImpl>
         <option name="defaultIndex" value="1" />
+        <option name="index" value="1" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="2" />
         <option name="index" value="1" />
       </TabImpl>
       <General>

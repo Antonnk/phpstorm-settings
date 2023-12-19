@@ -58,7 +58,7 @@
       <i c="39" l="1702979581941" />
     </e>
     <e n="CheckinProject">
-      <i c="144" l="1702979572889" />
+      <i c="146" l="1702979875932" />
     </e>
     <e n="ChooseRunConfiguration">
       <i c="1" l="1695046324123" />
@@ -344,6 +344,9 @@
     </e>
     <e n="Git.Merge">
       <i c="1" l="1701873521794" />
+    </e>
+    <e n="Git.Merge.Abort">
+      <i c="1" l="1702979780563" />
     </e>
     <e n="GitCheckoutAction">
       <i c="2" l="1701698945515" />

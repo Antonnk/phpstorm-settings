@@ -184,7 +184,7 @@
       <i c="3" l="1702552693687" />
     </e>
     <e n="CopyReference">
-      <i c="7" l="1696936456677" />
+      <i c="9" l="1702972039621" />
     </e>
     <e n="CopyReferencePopupGroup">
       <i c="3" l="1700219678710" />
@@ -208,7 +208,7 @@
       <i c="5" l="1702042896411" />
     </e>
     <e n="EditorBackSpace">
-      <i c="21158" l="1702971850937" />
+      <i c="21163" l="1702971931804" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="2199" l="1702554677247" />
@@ -217,7 +217,7 @@
       <i c="21" l="1702287904761" />
     </e>
     <e n="EditorCopy">
-      <i c="3433" l="1702971825096" />
+      <i c="3435" l="1702972066544" />
     </e>
     <e n="EditorCut">
       <i c="6" l="1701874710701" />
@@ -325,7 +325,7 @@
       <i c="33" l="1702292004126" />
     </e>
     <e n="FileStructurePopup">
-      <i c="129" l="1702971857190" />
+      <i c="130" l="1702971962135" />
     </e>
     <e n="Find">
       <i c="280" l="1702971867034" />
@@ -373,7 +373,7 @@
       <i c="95" l="1702383643765" />
     </e>
     <e n="GotoDeclaration">
-      <i c="2605" l="1702971891303" />
+      <i c="2607" l="1702972007714" />
     </e>
     <e n="GotoFile">
       <i c="19" l="1702043105723" />
@@ -463,7 +463,7 @@
       <i c="27" l="1702378260830" />
     </e>
     <e n="ReopenClosedTab">
-      <i c="51" l="1702971865379" />
+      <i c="52" l="1702972014886" />
     </e>
     <e n="Rerun">
       <i c="217" l="1701867415719" />
@@ -481,7 +481,7 @@
       <i c="4341" l="1702554652796" />
     </e>
     <e n="SearchEverywhere">
-      <i c="802" l="1702971892956" />
+      <i c="805" l="1702971957324" />
     </e>
     <e n="SelectInProjectView">
       <i c="98" l="1702550294084" />
@@ -529,7 +529,7 @@
       <i c="6" l="1699015668956" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="30" l="1702287143349" />
+      <i c="38" l="1702971986139" />
     </e>
     <e n="Tree-selectChild">
       <i c="653" l="1702554271519" />
@@ -634,7 +634,7 @@
       <i c="2" l="1701165025369" />
     </e>
     <e n="com.intellij.ide.util.FileStructurePopup$NavigateSelectedElementAction">
-      <i c="73" l="1701870880960" />
+      <i c="74" l="1702971967112" />
     </e>
     <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
       <i c="12" l="1702380709467" />
@@ -643,13 +643,13 @@
       <i c="20" l="1702556708967" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="2124" l="1702557059314" />
+      <i c="2128" l="1702972008878" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
       <i c="8" l="1701081850305" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="1276" l="1702971883691" />
+      <i c="1279" l="1702971961103" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="70" l="1701950256485" />
@@ -685,13 +685,13 @@
       <i c="2" l="1696925470083" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
-      <i c="2008" l="1702971882262" />
+      <i c="2011" l="1702971960536" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveEndAction">
       <i c="1" l="1694505764764" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
-      <i c="412" l="1702971882643" />
+      <i c="413" l="1702971937220" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="5096" l="1702971852398" />

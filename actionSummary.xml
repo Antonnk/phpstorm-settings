@@ -13,7 +13,7 @@
       <i c="3351" l="1703072811155" />
     </e>
     <e n="ActivateBookmarksToolWindow">
-      <i c="2" l="1699442531099" />
+      <i c="3" l="1703079958916" />
     </e>
     <e n="ActivateCommitToolWindow">
       <i c="2" l="1702384652347" />
@@ -55,10 +55,10 @@
       <i c="1" l="1697033400181" />
     </e>
     <e n="ChangesView.Revert">
-      <i c="39" l="1702979581941" />
+      <i c="40" l="1703078576019" />
     </e>
     <e n="CheckinProject">
-      <i c="146" l="1702979875932" />
+      <i c="147" l="1703078544195" />
     </e>
     <e n="ChooseRunConfiguration">
       <i c="1" l="1695046324123" />
@@ -208,16 +208,16 @@
       <i c="5" l="1702042896411" />
     </e>
     <e n="EditorBackSpace">
-      <i c="21393" l="1703072822203" />
+      <i c="21406" l="1703079945535" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="2206" l="1703072297457" />
+      <i c="2207" l="1703079937913" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="22" l="1703070466257" />
     </e>
     <e n="EditorCopy">
-      <i c="3457" l="1703072825705" />
+      <i c="3458" l="1703079965728" />
     </e>
     <e n="EditorCut">
       <i c="6" l="1701874710701" />
@@ -226,10 +226,10 @@
       <i c="2" l="1701107395345" />
     </e>
     <e n="EditorDeleteToLineStart">
-      <i c="1112" l="1703072456775" />
+      <i c="1113" l="1703079930247" />
     </e>
     <e n="EditorDown">
-      <i c="9161" l="1703072805276" />
+      <i c="9174" l="1703079937539" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="1876" l="1703072807284" />
@@ -253,19 +253,19 @@
       <i c="2" l="1696325658376" />
     </e>
     <e n="EditorLeft">
-      <i c="12747" l="1703072252505" />
+      <i c="12774" l="1703079969535" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="3496" l="1703071334250" />
     </e>
     <e n="EditorLineEnd">
-      <i c="2477" l="1703072456486" />
+      <i c="2480" l="1703079970663" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="972" l="1703072807910" />
     </e>
     <e n="EditorLineStart">
-      <i c="1312" l="1703072806478" />
+      <i c="1313" l="1703079931395" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="996" l="1703071042866" />
@@ -280,7 +280,7 @@
       <i c="4" l="1701697244597" />
     </e>
     <e n="EditorPasteSimple">
-      <i c="2636" l="1703072828470" />
+      <i c="2638" l="1703079970380" />
     </e>
     <e n="EditorPreviousWord">
       <i c="9" l="1703070932728" />
@@ -292,10 +292,10 @@
       <i c="2" l="1701103581084" />
     </e>
     <e n="EditorRight">
-      <i c="10972" l="1703072821223" />
+      <i c="10978" l="1703079942794" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="4514" l="1703071330800" />
+      <i c="4535" l="1703079965517" />
     </e>
     <e n="EditorSelectLine">
       <i c="2" l="1702383879698" />
@@ -316,7 +316,7 @@
       <i c="86" l="1702383422634" />
     </e>
     <e n="EditorUp">
-      <i c="5716" l="1703072804825" />
+      <i c="5720" l="1703079915932" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="1480" l="1703072807713" />
@@ -358,7 +358,7 @@
       <i c="1" l="1702042734592" />
     </e>
     <e n="GoToTab1">
-      <i c="410" l="1703070383893" />
+      <i c="411" l="1703079965986" />
     </e>
     <e n="GoToTab2">
       <i c="260" l="1703070350150" />
@@ -376,7 +376,7 @@
       <i c="96" l="1703072123433" />
     </e>
     <e n="GotoDeclaration">
-      <i c="2631" l="1703072728985" />
+      <i c="2633" l="1703079962352" />
     </e>
     <e n="GotoFile">
       <i c="19" l="1702043105723" />
@@ -481,7 +481,7 @@
       <i c="25" l="1698740503121" />
     </e>
     <e n="SaveAll">
-      <i c="4410" l="1703072829079" />
+      <i c="4416" l="1703079971405" />
     </e>
     <e n="SearchEverywhere">
       <i c="808" l="1703072183348" />
@@ -646,7 +646,7 @@
       <i c="20" l="1702556708967" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="2138" l="1703074813823" />
+      <i c="2139" l="1703079954034" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
       <i c="8" l="1701081850305" />
@@ -673,13 +673,13 @@
       <i c="2" l="1698740510778" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="74" l="1702461590469" />
+      <i c="75" l="1703078583072" />
     </e>
     <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
       <i c="5" l="1701162419950" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="286" l="1702554525644" />
+      <i c="287" l="1703079961525" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="2" l="1697529821716" />

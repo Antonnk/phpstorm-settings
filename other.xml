@@ -6,7 +6,7 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
-    "CommitToolWindow.COMMIT_SPLITTER_PROPORTION": "0.50852484",
+    "CommitToolWindow.COMMIT_SPLITTER_PROPORTION": "0.39065975",
     "FileTemplates.SelectedTemplate": "WordPress Main Plugin File",
     "FindSplitterProportion": "0.32988167",
     "GridFilterComponent.FILTER_PREFERRED_SIZE": "604",
@@ -29,7 +29,7 @@
     "evlsprt3.232": "22",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.10227.13",
-    "file.gist.reindex.count": "2177",
+    "file.gist.reindex.count": "2180",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "12.0",
     "fontSizeToResetEditor": "15.0",
